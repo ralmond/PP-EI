@@ -1,0 +1,272 @@
+[
+    {
+        "name":  "Mass Flag Test",
+        "doc":"",
+        "initial": {
+            "uid": "Test0",
+            "context": "Level 50",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "massUsed": false,
+                "airUsed": false,
+                "gravityUsed":false
+            },
+            "observables":{
+                "massManip": 0,
+                "airManip":0,
+                "gravityManip":0
+            }
+        },
+        "event": {
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "adjusted",
+            "object": "control",
+            "context": "Level 50",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gemeObjectType": "MassValueManipulator",
+                "oldValue": 0,
+                "newValue": 5,
+                "method": "slider"
+            }
+        },
+        "rule": {
+            "name": "Mass Slider flag",
+            "doc": "Set the flag and increment counter if mass slider is used..",
+            "verb": "adjusted",
+            "object": "control",
+            "context": "Manip Lvls",
+            "ruleType": "Status",
+            "priority": 5, 
+            "conditions": {
+                "event.data.gemeObjectType":["AirResistanceValueManipulator","MassValueManipulator","GravityValueManipulator"],
+                "event.data.oldValue":{"?ne":"event.data.newValue"}
+            },
+            "predicate": {
+                "!set":{"state.flags.massUsed":true},
+                "!incr":{"state.observables.massManip":1}
+            }
+        },"queryResult":true,
+          "final":{
+            "uid": "Test0",
+            "context": "Level 50",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "massUsed": true,
+                "airUsed": false,
+                "gravityUsed":false
+            },
+            "observables":{
+                "massManip":1,
+                "airManip":0,
+                "gravityManip":0
+            } 
+        }
+    },
+    {
+       "name":"Air Slider flag",
+       "doc":"",
+        "initial": {
+            "uid": "Test0",
+            "context": "Level 50",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "massUsed": false,
+                "airUsed": false,
+                "gravityUsed":false
+            },
+            "observables":{
+                "massManip": 0,
+                "airManip": 0,
+                "gravityManip": 0
+            }
+        },
+        "event": {
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "adjusted",
+            "object": "control",
+            "context": "Level 50",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gemeObjectType": "AirResistanceValueManipulator",
+                "oldValue": 0,
+                "newValue": 5,
+                "method": "slider"
+            }
+        },
+        "rule": {
+            "name": "Air Slider flag",
+            "doc": "Set the flag and increment counter if air slider is used..",
+            "verb": "adjusted",
+            "object": "control",
+            "context": "Manip Lvls",
+            "ruleType": "Status",
+            "priority": 5, 
+            "conditions": {
+                "event.data.gemeObjectType":["AirResistanceValueManipulator","MassValueManipulator","GravityValueManipulator"],
+                "event.data.oldValue":{"?ne":"event.data.newValue"}
+            },
+            "predicate": {
+                "!set":{"state.flags.airUsed":true},
+                "!incr":{"state.observables.airManip":1}
+            }
+        },"queryResult":true,
+          "final":{
+            "uid": "Test0",
+            "context": "Level 50",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "massUsed": false,
+                "airUsed": true,
+                "gravityUsed":false
+            },
+            "observables":{
+                "massManip":0,
+                "airManip":1,
+                "gravityManip":0
+            } 
+        }
+    },
+    {
+      "name":"Gravity Slider flag",
+  "doc":"",
+    "initial": {
+            "uid": "Test0",
+            "context": "Level 50",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "massUsed": false,
+                "airUsed": false,
+                "gravityUsed":false
+            },
+            "observables":{
+                "massManip": 0,
+                "airManip": 0,
+                "gravityManip": 0
+            }
+        },
+        "event": {
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "adjusted",
+            "object": "control",
+            "context": "Level 50",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gemeObjectType": "GravityValueManipulator",
+                "oldValue": 0,
+                "newValue": 5,
+                "method": "slider"
+            }
+        },
+        "rule": {
+            "name": "Gravity Slider flag",
+            "doc": "Set the flag and increment counter if gravity slider is used..",
+            "verb": "adjusted",
+            "object": "control",
+            "context": "Manip Lvls",
+            "ruleType": "Status",
+            "priority": 5, 
+            "conditions": {
+                "event.data.gemeObjectType":["AirResistanceValueManipulator","MassValueManipulator","GravityValueManipulator"],
+                "event.data.oldValue":{"?ne":"event.data.newValue"}
+            },
+            "predicate": {
+                "!set":{"state.flags.gravityUsed":true},
+                "!incr":{"state.observables.gravityManip":1}
+            }
+        },"queryResult":true,
+          "final":{
+            "uid": "Test0",
+            "context": "Level 50",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "massUsed": false,
+                "airUsed": false,
+                "gravityUsed":true
+            },
+            "observables":{
+                "airManip":0,
+                "massManip":0,
+                "gravityManip":1
+            } 
+        }
+    },
+    
+    {
+       "name":"Reset Manipulation Flags and Counters",
+       "doc":"",
+       "initial": {
+            "uid": "Test0",
+            "context": "Level 50",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "massUsed": true,
+                "airUsed": true,
+                "gravityUsed":true
+            },
+            "observables":{
+                "massManip":2,
+                "airManip":1,
+                "gravityManip":3
+            }
+        },
+        "event": {
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "play",
+            "object": "params",
+            "context": "Level 50",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+              "gemeObjectType": ["MassValueManipulator", "AirResistanceValueManipulator", "GravityValueManipulator"]
+            }
+        },
+        "rule": {
+            "name": "Reset Manipulation Flags and Counters",
+            "doc": "Set flags to false and Counters to 0",
+            "verb": "play",
+            "object": "params",
+            "context": "Manip Lvls",
+            "ruleType": "Reset",
+            "priority": 10,       // Want to run late
+            "conditions": {
+              "event.data.gemeObjectType":["AirResistanceValueManipulator","MassValueManipulator","GravityValueManipulator"]
+            },
+            "predicate": {
+                "!set":{"state.flags.massUsed":false,
+                        "state.flags.airUsed":false,
+                        "state.flags.gravityUsed":false,
+                        "state.observables.gravityManip":0,
+                        "state.observables.airManip":0,
+                        "state.observables.massManip":0}
+            }
+        },
+        "queryResult": true,
+          "final":{
+            "uid": "Test0",
+            "context": "Level 50",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "massUsed": false,
+                "airUsed": false,
+                "gravityUsed":false
+            },
+            "observables":{
+                "massManip":0,
+                "airManip":0,
+                "gravityManip":0
+            } 
+        }
+    }
+]

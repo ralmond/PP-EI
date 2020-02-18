@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Coin rule",
+        "doc": "Set the value of the badge to the coin the player earned.",
+        "verb": "satisfied",
+        "object": "achievement",
+        "context": "ALL",
+        "ruleType": "Observable", 
+        "priority": 5,
+        "conditions": {
+            "event.data.badge":["silver","gold","none"]
+        },
+        "predicate": {
+            "!set":{"state.observables.TrophyLevel":"event.data.badge"}
+        }
+    },
+    {
+        "name": "Attempt Counter",
+        "doc": "Increments the attempt counter when game starts, restarts.",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Status",
+        "priority": 2,
+        "conditions": {
+            "state.context": {"?eq":"event.data.gameLevelId"}
+        },
+        "predicate": {
+            "!incr": {"state.observables.NumberAttempts":1}
+        }
+    },
+    {
+        "name": "Game Started",
+        "doc": "When player logs in, set context to *INITIAL*",
+        "verb": "logged-in",
+        "object": "game (Physics Playground)",
+        "context": "ALL",
+        "ruleType": "Context",
+        "priority": 1,
+        "conditions": {
+        },
+        "predicate": {
+            "!set": {"state.context":"*INITIAL*"}
+        }
+    },
+    {
+        "name": "New Level Started",
+        "doc": "Indicates that we should change level",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Context",
+        "priority": 1,
+        "conditions": {
+            "state.context": {"?ne":"event.data.gameLevelId"}
+        },
+        "predicate": {
+            "!set": {"state.context":"event.data.gameLevelId"}
+        }
+    },
+    {
+        "name": "Pause on Suspend",
+        "doc": "When Level is paused, pause the timer",
+        "verb": "suspended",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Status",
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{"state.timers.levelTime.running":false}
+        }
+    },
+    {
+        "name": "Resume on Resume",
+        "doc": "When Level is paused, pause the timer",
+        "verb": "resumed",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Status",
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{"state.timers.levelTime.running":true}
+        }
+    },
+    {
+        "name": "Set time on level exit.",
+        "doc": "When Level is exited, set total time.",
+        "verb": "exited",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Status",
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{"state.timers.levelTime.running":false,
+                    "state.observables.Duration":"state.timers.levelTime"}
+        }
+    },
+    {
+        "name": "Set time on level completion",
+        "doc": "When Level is passed, set total time; and set completed.",
+        "verb": "passed",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Status",
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{"state.timers.levelTime.running":false,
+                    "state.observables.Duration":"state.timers.levelTime.time",
+                    "state.observables.Completed":true}
+        }
+    },
+    {
+        "name": "New Level Trigger",
+        "doc": "When a new level starts, send the observables.",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Trigger", 
+        "priority": 2,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"},
+            "state.oldContext":{"?ne":"*INITIAL*"}
+        },
+        "predicate": {
+            "!send":{
+                "mess":"New Observables",
+                "context":"state.oldContext",
+                "data":{}
+            }
+        }
+    },
+    {
+        "name": "Start Timer",
+        "doc": "When Level Starts, Start the timer",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Reset",
+        "priority": 10,
+        "conditions": {
+        },
+        "predicate": {
+            "!start":"state.timers.levelTime"
+        }
+    },
+    {
+        "name": "Grand Reset",
+        "doc": "When new level, clear observables",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Reset",
+        "priority": 2,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!set":{"state.observables.NumberAttempts":1,
+                    "state.observables.Completed":false},
+            "!unset":{"state.observables.TrophyLevel":"Delete",
+                      "state.observables.Duration":"Delete"}
+        }
+    }
+]

@@ -1,0 +1,3 @@
+nohup ./EIEventRerun linear >logs/EIR_linear.Rout &
+nohup ./EIEventRerun adaptive >logs/EIR_adaptive.Rout &
+nohup ./EIEventRerun userControl >logs/EIR_userControl.Rout &

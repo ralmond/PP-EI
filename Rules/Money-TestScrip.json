@@ -1,0 +1,119 @@
+[
+    {
+        "name":"Money Earned event test",
+        "doc":"",
+        "initial":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+            },
+            "observables":{
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "moneyEarned",
+            "object": "goldWin",
+            "context": "Level 1",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "moneyEarned":"20"
+            }
+        },
+        "rule":{
+            "name": "Money Earned in PP",
+            "doc": "When money is earned, record what was the money amount and item.",
+            "verb": "moneyEarned",
+            "object": "ALL",
+            "context": "ALL",
+            "ruleType": "Trigger", 
+            "priority": 2,
+            "conditions": {
+            },
+            "predicate": {
+                "!send":{
+                    "mess":"Money Earned",
+                    "context":"state.oldContext",
+                    "data":{
+                        "money":"event.data.moneyEarned",
+                        "onWhat":"event.object"
+                    }
+                }
+            }
+        },
+        "queryResult":true,
+        "final":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{
+            },
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+            },
+            "observables":{
+            } 
+        }
+    }, 
+
+    {
+        "name":"Money Spent event test",
+        "doc":"",
+        "initial":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+            },
+            "observables":{
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "moneySpent",
+            "object": "game_bg_sky2",
+            "context": "Level 1",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "moneyEarned":"20"
+            }
+        },
+        "rule":{
+            "name": "Money Spent in PP",
+            "doc": "When money is spent, record what was the money amount and item.",
+            "verb": "moneySpent",
+            "object": "ANY",
+            "context": "ALL",
+            "ruleType": "Trigger", 
+            "priority": 2,
+            "conditions": {
+            },
+            "predicate": {
+                "!send":{
+                    "mess":"Money Spent",
+                    "context":"state.oldContext",
+                    "data":{
+                        "money":"event.data.moneyEarned",
+                        "onWhat":"event.object"
+                    }
+                }
+            }
+        },
+        "queryResult":true,
+        "final":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{
+            },
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+            },
+            "observables":{
+            } 
+        }
+    }
+]

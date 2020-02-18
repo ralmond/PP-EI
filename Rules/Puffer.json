@@ -1,0 +1,120 @@
+[
+{"name": "Click Puffer test",
+"doc":"",
+  "initial": {
+    "uid": "Test0",
+    "context": "25",
+    "timers":{},
+    "timestamp":"2018-09-25 12:12:28 EDT", 
+    "flags":{
+      "PufferUsed": false
+    },
+    "observables":{
+      "NumberPufferManip": 0 
+    }
+  },
+  "event": {
+          "app":"https://epls.coe.fsu.edu/PPTest",
+          "uid": "Test0",
+          "verb": "adjusted",
+          "object": "control",
+          "context": "25",
+          "timestamp":"2018-09-25 12:12:28 EDT",   
+          "data": {
+              "gemeObjectType": "Puffer",
+              "position": "(258.8, 398.9)",
+              "method": "input"
+          }
+  },
+  "rule": {
+    "name": "Click Puffer",
+    "doc": "Increments the click counter",
+    "verb": "adjusted",
+    "object": "control",
+    "context": "Manipulation Levels",
+    "ruleType": "Status",
+    "priority": 2,
+    "conditions": {
+      "event.data.gemeObjectType": "Puffer" 
+    },
+    "predicate": {
+      "!set":{"state.flags.PufferUsed": true},
+      "!incr":{"state.observables.NumberPufferManip": 1}
+    }
+  },
+  "queryResult":true,
+    "final":{
+      "uid": "Test0",
+      "context": "25",
+      "timers":{},
+      "timestamp":"2018-09-25 12:12:28 EDT", 
+      "flags":{
+        "PufferUsed": true
+      },
+      "observables":{
+        "NumberPufferManip": 1
+      }
+    }
+},
+{"name": "Count for Puffer test",
+  "doc":"",
+  "initial": {
+    "uid": "Test0",
+    "context": "25",
+    "timers":{},
+    "timestamp":"2018-09-25 12:12:28 EDT", 
+    "flags":{
+      "PufferUsed": false,
+      "PufferPositionVal": "NA"
+    },
+    "observables":{
+      "PufferManip":"Clicked"
+    }
+  },
+  "event": {
+          "app":"https://epls.coe.fsu.edu/PPTest",
+          "uid": "Test0",
+          "verb": "adjusted",
+          "object": "control",
+          "context": "25",
+          "timestamp":"2018-09-25 12:12:28 EDT",   
+          "data": {
+            "gemeObjectType": "Puffer",
+            "position": "(258.8, 398.9)",
+            "method": "input"
+          }
+  },
+  "rule": {
+    "name": "Count for Puffer",
+    "doc": "Set the value of position for the Puffer",
+    "verb": "adjusted",
+    "object": "control",
+    "context": "Manipulation Levels",
+    "ruleType": "Status",
+    "priority": 5,
+    "conditions": {
+      "event.data.gemeObjectType":"Puffer"
+    },
+    "predicate": {
+      "!set":{
+        "state.flags.PufferUsed":true,
+        "state.flags.PufferPositionVal":"event.data.position"
+      }
+    }
+  },
+  "queryResult":true,
+    "final":{
+      "uid": "Test0",
+      "context": "25",
+      "timers":{},
+      "timestamp":"2018-09-25 12:12:28 EDT", 
+      "flags":{
+        "PufferUsed": true,
+        "PufferPositionVal": "(258.8, 398.9)"
+      },
+      "observables":{
+        "PufferManip":"Clicked"
+      } 
+  }
+}
+]

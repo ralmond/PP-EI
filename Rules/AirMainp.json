@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Air Adjustement",
+    "doc": "Every time the air slider is adjusted, update the current value.",
+    "verb": "adjusted",
+    "object": "control",
+    "context": "AirResistanceLevels",
+    "ruleType": "Status",
+    "priority": 5,
+    "conditions": {
+      "event.data.gemeObjectType":"AirResistanceValueManipulator"
+    },  
+    "predicate": {
+      "!set":{"state.flags.currentAirVal":"event.data.newValue"}
+    } 
+},
+ {
+    "name": "Air Initialization",
+    "doc": "When the control panel is initialized, set the initial value for Air Resistance",
+    "verb": "initialized",
+    "object": "control panel",
+    "context": "AirResistanceLevels",
+    "ruleType": "Status",
+    "priority": 10,
+    "conditions": {
+    },  
+    "predicate": {
+      "!set":{"state.flags.previousAirVal":"state.flags.currentAirVal"}
+    } 
+},
+{
+    "name": "Air Increment",
+    "doc": "When the play button is pressed, update the air resistance counter",
+    "verb": "play",
+    "object": "params",
+    "context": "AirResistanceLevels",
+    "ruleType": "Status",
+    "priority": 2,
+    "conditions": {
+      "state.flags.currentAirVal":{"?ne":"state.flags.previousAirVal"}
+    },  
+    "predicate": {
+      "!incr":{"state.observables.airManip":1}
+    } 
+},
+{
+    "name": "Air Play",
+    "doc": "When the play button is pressed, update the previous value for Air Resistance",
+    "verb": "play",
+    "object": "params",
+    "context": "AirResistanceLevels",
+    "ruleType": "Status",
+    "priority": 10,
+    "conditions": {
+    },  
+    "predicate": {
+      "!set":{"state.flags.previousAirVal":"state.flags.currentAirVal"}
+    } 
+},
+    {
+        "name": "Air Reset",
+        "doc": "When new level, clear air observables",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Reset",
+        "priority": 3,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!set":{"state.observables.airManip":0},
+            "!unset":{"state.flags.previousAirVal":"NA",
+                      "state.flags.currentAirVal":"NA"}
+        }
+    }
+]

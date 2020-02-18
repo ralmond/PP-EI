@@ -1,0 +1,71 @@
+CID,InBigStudy,Number,Name,BlowerLevels,NameInFile,Manipulation,MultiBlower,LeftBlower,RightBlower,TopBlower,BottomBlower,MassLevels,GravityLevels,AirResistanceLevels,SliderAdjust,BlowerAdjustments,PufferClicks,BlowerNoPlay,CheckBounciness,Context
+Manipulation,0,-200,Manipulation Levels,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Context set for all manipulation levels
+MultiBlower,0,-201,Multiple Blower Levels,1,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Context set for levels with multiple blowers
+LeftBlower,0,-205,LeftBlower Levels,1,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Context set for Blower at left Levels
+RightBlower,0,-210,RightBlower Levels,1,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Context set for Blower at right Levels
+TopBlower,0,-215,TopBlower Levels,1,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Context set for Blower at top Levels
+BottomBlower,0,-220,BottomBlower Levels,1,,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Context set for Blower at bottom Levels
+MassLevels,0,-225,Mass Levels,0,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Context set for Mass Levels
+GravityLevels,0,-230,Gravity Levels,0,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Context set for Gravity Levels
+AirResistanceLevels,0,-235,Air Resistance Levels,1,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Context set for Air Resistence Levels
+SliderAdjustments,0,-240,# of slider adjustment Levels,1,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Context set for # of slider adjustment Levels
+BlowerAdjustments,0,-245,# of blower adjustment Levels,1,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Context set for # of blower adjustment Levels
+PufferClicks,0,-250,# of puffer clicks Levels,1,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Context set for # of puffer clicks Levels
+BlowerNoPlay,0,-202,Blower levels without Play Button,1,,1,0,0,0,0,0,0,0,0,0,1,0,1,0,Context set for levels with no play button
+CheckBounciness,0,-255,Check Bounciness Levels,1,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Context set for Check Bounciness Levels
+Angels,1,135,Angels,0,Angels,1,0,0,0,0,0,1,0,0,1,0,0,0,1,
+BackandForth,1,168,Back and Forth,0,Back and Forth,1,0,0,0,0,0,0,0,0,0,0,1,0,0,
+Balance,1,65,Balance,1,Balance ,1,1,1,1,0,1,0,0,0,0,1,0,1,0,
+BasementStairs,1,136,Basement Stairs,0,Basement Stairs,1,0,0,0,0,0,1,0,1,1,0,0,0,1,
+Blocked,1,49,Blocked ,1,Blocked,1,0,1,0,0,0,0,0,1,1,1,0,0,0,
+BlockedbyBlocks,1,48,Blocked by Blocks,1,Blocked by Blocks,1,0,0,0,0,0,0,0,1,1,0,0,0,0,
+Bowtie,1,84,Bowtie,0,Bowtie,1,0,0,0,0,0,0,1,0,1,0,1,0,0,
+BreakfastTime,1,76,Breakfast time,0,Breakfast Time,1,0,0,0,0,0,1,0,1,1,0,0,0,0,
+BreaktheMaze,1,75,Break the maze,1,Break the Maze,1,1,1,1,0,0,1,0,0,1,1,0,0,0,
+BrokenGuitar,1,72,Broken Guitar,0,Broken Guitar,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+BrokenHeart,1,80,Broken Heart,0,Broken Heart,1,0,0,0,0,0,0,0,1,1,0,0,0,0,
+Chain,1,63,Chain,1,Chain,1,1,0,0,1,1,0,0,0,0,1,0,1,0,
+Collision,1,51,Collision,0,Collision,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+CookieMonster,1,50,Cookie Monster,0,Cookie Monster,1,0,0,0,0,0,0,1,1,1,0,0,0,1,
+Dominos,1,55,Dominos,0,Dominos,1,0,0,0,0,0,0,0,1,1,0,0,0,0,
+Fireworks,1,71,Fireworks,0,Fireworks,1,0,0,0,0,0,1,0,1,1,0,0,0,1,
+Florida,1,79,Florida,0,Florida,1,0,0,0,0,0,0,0,1,1,0,0,0,1,
+FlyingBrooms,1,139,Flying Brooms,0,Flying Brooms,1,0,0,0,0,0,0,0,0,0,0,0,0,1,
+Frog,1,13,Frog,0,Frog,1,0,0,0,0,0,0,0,1,1,0,0,0,1,
+GlacierView,1,140,Glacier View,0,Glacier View,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+Hammock ,1,73,Hammock,0,Hammock,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+HitandRun,1,70,Hit and Run,0,Hit and Run,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+One-eyeBob,0,69,One-eye Bob,0,One-eye Bob,1,0,0,0,0,0,1,1,0,0,0,0,0,1,
+InvisibleChef,1,141,Invisible Chef,0,Invisible Chef,1,0,0,0,0,0,1,0,0,1,0,0,0,1,
+KindCloud,1,66,Kind Cloud,0,Kind Cloud,1,0,0,0,0,0,1,1,0,1,0,0,0,1,
+LaundryDay,1,142,Laundry Day,0,Laundry Day,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+Lighthouse,1,62,Lighthouse,0,Lighthouse,1,0,0,0,0,0,0,1,0,1,0,1,0,1,
+Lollipop,1,85,Lollipop,0,Lollipop,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+MagicBean,1,68,Magic Bean,0,Magic Bean,1,0,0,0,0,0,1,0,0,1,0,0,0,1,
+Mobile,1,83,Mobile,0,Mobile,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+NeedforSpeed,1,167,Need for Speed,0,Need for Speed,1,0,0,0,0,0,0,0,0,0,0,1,0,0,
+Pipes,1,143,Pipes,0,Pipes,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+PizzaHill,1,166,Pizza Hill,1,Pizza Hill,1,1,1,0,0,1,0,0,0,0,1,0,1,0,
+PlumBlossom ,1,60,Plum Blossom,0,Plum Blossom ,1,0,0,0,0,0,0,1,0,1,0,1,0,0,
+RabbitsHole,1,144,Rabbits' hole,0,Rabbits' Hole,1,0,0,0,0,0,1,1,0,1,0,1,0,0,
+RightbetweentheEyes,1,145,Right Between the Eyes,0,Right between the Eyes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,
+RollingStone,1,52,Rolling Stone,0,Rolling Stone,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+Seesaw,1,82,Seesaw,0,Seesaw,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+Shelves,1,54,Shelves,0,Shelves,1,0,0,0,0,0,1,0,1,1,0,0,0,0,
+SkatePark,1,77,Skate Park,0,Skate Park,1,0,0,0,0,0,0,0,1,1,0,0,0,0,
+Socks,1,78,Socks,0,Socks,1,0,0,0,0,0,0,0,1,1,0,0,0,0,
+Spiral,1,146,Spiral,1,Spiral,1,1,1,0,0,0,0,0,0,0,1,0,1,0,
+Spring,1,74,Spring,0,Spring,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+St.PatricksDay,1,53,St. Patrick's Day,0,St. Patrick's Day,1,0,0,0,0,0,1,0,0,1,0,0,0,0,
+TheMuseum,1,147,The Museum,0,The Museum,1,0,0,0,0,0,1,0,0,1,0,0,0,1,
+Tricks,1,56,Tricks,0,Tricks,1,0,0,0,0,0,1,0,1,1,0,0,0,0,
+TwinPeaks,1,67,Twin Peaks,1,Twin Peaks,1,1,0,0,0,1,0,0,0,0,1,0,1,0,
+UFO2,1,61,UFO2,0,UFO3,1,0,0,0,0,0,0,0,0,0,0,1,0,1,
+UndertheCandlestick,1,148,Under the Candlestick,0,Under the Candlestick,1,0,0,0,0,0,1,0,1,1,0,0,0,0,
+Whale,1,81,Whale,0,Whale,1,0,0,0,0,0,0,0,1,1,0,0,0,0,
+WindyDay,1,64,Windy Day,1,Windy Day,1,1,1,0,0,1,0,0,0,0,1,0,1,0,
+Air_Resistance,1,162,Air Resistance,0,Air_Resistance,1,0,0,0,0,0,0,0,1,1,0,0,0,0,Tutorial for Air_Resistence
+Bounciness,1,88,Bounciness,0,Bounciness,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Tutorial for Bounciness
+Gravity,1,165,Gravity,0,Gravity,1,0,0,0,0,0,0,1,0,1,0,0,0,0,Tutorial for Gravity
+Mass,1,164,Mass,0,Mass,1,0,0,0,0,0,1,0,0,1,0,0,0,0,Tutorial for Mass
+PufferBlowers,1,163,Puffer & Blowers,1,Puffer_&_Blowers,1,1,1,1,1,1,0,0,0,0,1,1,1,0,Tutorial for Puffer_&_Blowers

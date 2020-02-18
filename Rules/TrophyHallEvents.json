@@ -1,0 +1,151 @@
+[
+    {
+        "statement":   {
+            "version": "1.0.0",
+            "actor": {
+                "objectType": "Agent",
+                "account": {
+                    "homePage": "http://54.210.82.207/",
+                    "name": "002c1"
+                }
+            },
+            "verb": {
+                "id": "http://54.210.82.207/learninglocker/public/IRIs/verbs/games/moneyEarned",
+                "display": {
+                    "en-US": "moneyEarned"
+                }
+            },
+            "object": {
+                "objectType": "Activity",
+                "id": "http://54.210.82.207/learninglocker/public/IRIs/activities/games/goldWin",
+                "definition": {
+                    "name": {
+                        "en-US": "goldWin"
+                    },
+                    "description": {
+                        "en-US": "money earned by winning a level or using a learning support in Physics Playground"
+                    },
+                    "extensions": {
+                        "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/gameLevelId": "Down Hill",
+                        "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/moneyEarned": "20",
+                        "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/currentMoney": "20",
+                        "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/adaptive"
+                    }
+                }
+            },
+            "context": {
+                "extensions": {
+                    "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/systemTime": "04/29/19 19:14:34.785000",
+                    "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/ballPosition": "(1638.8, 0.6)"
+                }
+            },
+            "id": "d0b0d2ee-b4f3-478f-bc3d-a01b80a4d31e",
+            "authority": {
+                "objectType": "Agent",
+                "name": "New Client",
+                "mbox": "mailto:hello@learninglocker.net"
+            },
+            "stored": "2019-04-29T19:11:43.714800+00:00"
+        },
+        "timestamp": "2019-04-29T19:11:43.714800+00:00"
+    },
+    {
+        "statement": {
+    "version": "1.0.0",
+    "actor": {
+      "objectType": "Agent",
+      "account": {
+        "homePage": "http://54.210.82.207/",
+        "name": "002c1"
+      }
+    },
+    "verb": {
+      "id": "http://54.210.82.207/learninglocker/public/IRIs/verbs/games/moneyEarned",
+      "display": {
+        "en-US": "moneyEarned"
+      }
+    },
+    "object": {
+      "objectType": "Activity",
+      "id": "http://54.210.82.207/learninglocker/public/IRIs/activities/games/glossary",
+      "definition": {
+        "name": {
+          "en-US": "glossary"
+        },
+        "description": {
+          "en-US": "money earned by winning a level or using a learning support in Physics Playground"
+        },
+        "extensions": {
+          "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/gameLevelId": "Tetris",
+          "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/moneyEarned": "5",
+          "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/currentMoney": "15",
+          "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/adaptive"
+        }
+      }
+    },
+    "context": {
+      "extensions": {
+        "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/systemTime": "04/29/19 19:18:45.775000",
+        "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/ballPosition": "(445.2, -564.9)"
+      }
+    },
+    "id": "26c79763-d742-49aa-b45c-5ad8bdaba970",
+    "authority": {
+      "objectType": "Agent",
+      "name": "New Client",
+      "mbox": "mailto:hello@learninglocker.net"
+    },
+    "stored": "2019-04-29T19:18:00.983200+00:00"
+        },
+         "timestamp": "2019-04-29T19:18:00.983200+00:00"
+    },
+    {
+        "statement": {
+    "version": "1.0.0",
+    "actor": {
+      "objectType": "Agent",
+      "account": {
+        "homePage": "http://54.210.82.207/",
+        "name": "002c1"
+      }
+    },
+    "verb": {
+      "id": "http://54.210.82.207/learninglocker/public/IRIs/verbs/games/moneySpent",
+      "display": {
+        "en-US": "moneySpent"
+      }
+    },
+    "object": {
+      "objectType": "Activity",
+      "id": "http://54.210.82.207/learninglocker/public/IRIs/activities/games/game_bg_sky2",
+      "definition": {
+        "name": {
+          "en-US": "game_bg_sky2"
+        },
+        "description": {
+          "en-US": "an item that was purchased in Physics Playground's store"
+        },
+        "extensions": {
+          "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/gameLevelId": "Down Hill",
+          "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/moneySpent": "20",
+          "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/currentMoney": "0",
+          "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/adaptive"
+        }
+      }
+    },
+    "context": {
+      "extensions": {
+        "http://54.210.82.207/learninglocker/public/IRIs/extensions/games/systemTime": "04/29/19 19:14:44.321000"
+      }
+    },
+    "id": "0d25eab3-3245-4628-b206-debfac34b77a",
+    "authority": {
+      "objectType": "Agent",
+      "name": "New Client",
+      "mbox": "mailto:hello@learninglocker.net"
+    },
+    "stored": "2019-04-29T19:11:37.894300+00:00"
+        },
+        "timestamp": "2019-04-29T19:11:37.894300+00:00"
+    }
+]

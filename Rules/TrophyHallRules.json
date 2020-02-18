@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Add Gold Trophy to Hall",
+        "doc": "When the player earns gold, the first time.",
+        "verb": "moneyEarned",
+        "object": "goldWin",
+        "context": "ALL",
+        "ruleType": "Observable",
+        "priority": 5, 
+        "conditions": {
+        },
+        "predicate": {
+            "!setKeyValue":{
+               "state.observables.trophyHall":{
+                   "key":"event.data.gameLevelId",
+                   "value":"gold"
+               }
+            }
+        }
+    },
+    {
+        "name": "Add Silver Trophy to Hall",
+        "doc": "When the player earns gold, the first time.",
+        "verb": "moneyEarned",
+        "object": "silverWin",
+        "context": "ALL",
+        "ruleType": "Observable",
+        "priority": 5, 
+        "conditions": {
+        },
+        "predicate": {
+            "!setKeyValue":{
+                "state.observables.trophyHall":{
+                    "key":"event.data.gameLevelId",
+                    "value":"silver"
+                }
+            }
+        }
+    },
+    {
+        "name": "Bank Money Earned",
+        "doc": "When the player earns money, update the balance.",
+        "verb": "moneyEarned",
+        "object": "ANY",
+        "context": "ALL",
+        "ruleType": "Observable",
+        "priority": 5, 
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{
+                "state.observables.bankBalance": "event.data.currentMoney"
+            }
+        }
+    },
+    {
+        "name": "Bank Money Spent",
+        "doc": "When the player spends money, update the balance.",
+        "verb": "moneySpent",
+        "object": "ANY",
+        "context": "ALL",
+        "ruleType": "Observable",
+        "priority": 5, 
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{
+                "state.observables.bankBalance": "event.data.currentMoney"
+            }
+        }
+    },
+    {
+        "name": "Money Earned Trigger",
+        "doc": "When money is earned, update Players state.",
+        "verb": "moneyEarned",
+        "object": "ANY",
+        "context": "ALL",
+        "ruleType": "Trigger", 
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!send":{
+                "mess":"Money Earned",
+                "context":"state.oldContext",
+                "data":{
+                    "trophyHall":"state.observables.trophyHall",
+                    "bankBalance":"state.observables.bankBalance"
+                }
+            }
+        }
+    },
+    {
+        "name": "Money Spent Trigger",
+        "doc": "When money is spent, update Players state.",
+        "verb": "moneySpent",
+        "object": "ANY",
+        "context": "ALL",
+        "ruleType": "Trigger", 
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!send":{
+                "mess":"Money Spent",
+                "context":"state.oldContext",
+                "data":{
+                    "trophyHall":"state.observables.trophyHall",
+                    "bankBalance":"state.observables.bankBalance"
+                }
+            }
+        }
+    }    
+]

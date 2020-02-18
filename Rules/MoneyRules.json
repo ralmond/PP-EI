@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Money Earned in PP",
+        "doc": "When money is earned, record what was the money amount and item.",
+        "verb": "moneyEarned",
+        "object": "ANY",
+        "context": "ALL",
+        "ruleType": "Trigger", 
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!send":{
+                "mess":"Coins Earned",
+                "context":"state.oldContext",
+                "data":{
+                    "currentMoney":"event.data.currentMoney",
+                    "money":"event.data.moneyEarned",
+                    "onWhat":"event.object"
+                }
+            }
+        }
+    },
+    {
+        "name": "Money Spent in PP",
+        "doc": "When money is spent, record what was the money amount and item.",
+        "verb": "moneySpent",
+        "object": "ANY",
+        "context": "ALL",
+        "ruleType": "Trigger", 
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!send":{
+                "mess":"Coins Spent",
+                "context":"state.oldContext",
+                "data":{
+                    "currentMoney":"event.data.currentMoney",
+                    "money":"event.data.moneySpent",
+                    "onWhat":"event.object"
+                }
+            }
+        }
+    }
+]

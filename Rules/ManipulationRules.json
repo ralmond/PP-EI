@@ -1,0 +1,337 @@
+[
+    {
+            "name": "Blower flag",
+            "doc": "Set the flag and increment counter blower is used..",
+            "verb": "adjusted",
+            "object": "control",
+            "context": "BlowerAdjustments",
+            "ruleType": "Status",
+            "priority": 5, 
+            "conditions": {
+                "event.data.gemeObjectType":"blower",
+                "event.data.oldValue":{"?ne":"event.data.newValue"}
+            },
+            "predicate": {
+                "!set":{"state.flags.blowerUsed":true}
+            }
+    },
+    {
+        "name": "Increment Blower Counter",
+        "doc": "Increments counter if blower flag set, when play pressed.",
+        "verb": "play",
+        "object": "params",
+        "context": "BlowerAdjustment",
+        "ruleType": "Observable",
+        "priority": 5,       
+        "conditions": {
+            "state.flags.blowerUsed":true
+        },
+        "predicate": {
+            "!set":{"state.flags.blowerUsed":false},
+            "!incr":{"state.observables.blowerManip":1}
+        }
+    },
+    {
+        "name": "Increment Blower Counter Special",
+        "doc": "Increments counter if blower set on levels with no play button pressed.",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "BlowerAdjustments",
+        "ruleType": "Observable",
+        "priority": 5,       
+        "conditions": {
+            "event.data.gemeObjectType":"blower",
+            "state.flags.blowerUsed":true
+        },
+        "predicate": {
+            "!set":{"state.flags.blowerUsed":false,
+                    "state.observables.Attempted":true},
+            "!incr":{"state.observables.blowerManip":1}
+        }
+    },
+    {
+        "name": "Bounciness Off",
+        "doc": "When player unchecks bounciness, clear flag.",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "Manipulation",
+        "ruleType": "Status",
+        "priority": 2,
+        "conditions": {
+            "event.data.gemeObjectType": "Bounciness",
+            "event.data.newValue": 0
+        },
+        "predicate": {
+            "!set":{"state.flags.BouncinessOn":false}
+        }
+    },
+    {
+        "name": "Bounciness On",
+        "doc":"",
+        "initial": "When player checks bounciness, set flag.",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "Manipulation",
+        "ruleType": "Status",
+        "priority": 2,
+        "conditions": {
+            "event.data.gemeObjectType": "Bounciness",
+            "event.data.newValue": 0.8
+        },
+        "predicate": {
+            "!set":{"state.flags.BouncinessOn":true}
+        }
+    },
+    {
+        "name": "Bouncy Run Check.",
+        "doc": "Set the bounciness observable if bounciness flag is set.",
+        "verb": "play",
+        "object": "params",
+        "context": "Manipulation",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "state.flags.BouncinessOn":true
+        },
+        "predicate": {
+            "!set":{
+                "state.observables.BouncinessRun":true
+            }
+        }
+    },
+    {
+        "name": "Click Puffer",
+        "doc": "Increments the click counter",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "PufferClicks",
+        "ruleType": "Status",
+        "priority": 2,
+        "conditions": {
+            "event.data.gemeObjectType": "puffer" 
+        },
+        "predicate": {
+            "!set":{"state.flags.PufferUsed": true,
+                    "state.observables.Attempted":true},
+            "!incr":{"state.observables.PufferClicks": 1}
+        }
+    },
+    {
+        "name": "Mass Slider flag",
+        "doc": "Set the flag and increment counter if mass slider is used..",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "Manipulation",
+        "ruleType": "Status",
+        "priority": 5, 
+        "conditions": {
+            "event.data.gemeObjectType":"MassValueManipulator",
+            "event.data.oldValue":{"?ne":"event.data.newValue"}
+        },
+        "predicate": {
+            "!set":{"state.flags.massUsed":true}
+        }
+    },
+    {
+        "name": "Increment Mass Counter",
+        "doc": "Increments counter if mass flag set, when play pressed.",
+        "verb": "play",
+        "object": "params",
+        "context": "Manipulation",
+        "ruleType": "Observable",
+        "priority": 5,       
+        "conditions": {
+            "state.flags.massUsed":true
+        },
+        "predicate": {
+            "!set":{"state.flags.massUsed":false},
+            "!incr":{"state.observables.massManip":1}
+        }
+    },
+    {
+        "name": "Air Slider flag",
+        "doc": "Set the flag and increment counter if air slider is used..",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "Manipulation",
+        "ruleType": "Status",
+        "priority": 5, 
+        "conditions": {
+            "event.data.gemeObjectType":"AirResistanceValueManipulator",
+            "event.data.oldValue":{"?ne":"event.data.newValue"}
+        },
+        "predicate": {
+            "!set":{"state.flags.airUsed":true}
+        }
+    },
+    {
+        "name": "Increment Air Counter",
+        "doc": "Increments counter if air flag set, when play pressed.",
+        "verb": "play",
+        "object": "params",
+        "context": "Manipulation",
+        "ruleType": "Observable",
+        "priority": 5,       
+        "conditions": {
+            "state.flags.airUsed":true
+        },
+        "predicate": {
+            "!set":{"state.flags.airUsed":false},
+            "!incr":{"state.observables.airManip":1}
+        }
+    },
+    {
+        "name": "Gravity Slider flag",
+        "doc": "Set the flag and increment counter if gravity slider is used..",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "Manipulation",
+        "ruleType": "Status",
+        "priority": 5, 
+        "conditions": {
+            "event.data.gemeObjectType":"GravityValueManipulator",
+            "event.data.oldValue":{"?ne":"event.data.newValue"}
+        },
+        "predicate": {
+            "!set":{"state.flags.gravityUsed":true}
+        }
+    },
+    {
+        "name": "Increment gravity Counter",
+        "doc": "Increments counter if gravity flag set, when play pressed.",
+        "verb": "play",
+        "object": "params",
+        "context": "Manipulation",
+        "ruleType": "Observable",
+        "priority": 5,       
+        "conditions": {
+            "state.flags.gravityUsed":true
+        },
+        "predicate": {
+            "!set":{"state.flags.gravityUsed":false},
+            "!incr":{"state.observables.gravityManip":1}
+        }
+    },
+    {
+        "name": "Applicable Adjustment Count",
+        "doc": "Handles special rules for applicable sliders.",
+        "verb": "play",
+        "object": "params",
+        "context": "Manipulation",
+        "ruleType": "Observable",
+        "priority": 10,       
+        "predicate": {
+            "!setCall":{"state.observables.SliderAdjust":
+                        "applicableAdjustments"}
+
+        }
+    },
+    {
+        "name": "Applicable Slider Flags",
+        "doc": "Handles special rules for applicable sliders.",
+        "verb": "play",
+        "object": "params",
+        "context": "Manipulation",
+        "ruleType": "Observable",
+        "priority": 10,       
+        "predicate": {
+            "!setCall":{"state.observables.AppropriateSlider":
+                        "mostlyApplicable"}
+
+        }
+    },
+    {
+        "name": "Increment attempt counter.",
+        "doc": "Increment the attempt counter each time play is pressed.",
+        "verb": "play",
+        "object": "params",
+        "context": "Manipulation",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{
+                "state.observables.Attempted":true
+            },
+            "!incr":{"state.observables.NumberAttempts":1}
+        }
+    },
+    {
+        "name": "Manipulation Reset",
+        "doc": "When new level, clear manipulation observables",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "Manipulation",
+        "ruleType": "Reset",
+        "priority": 2,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!set":{"state.observables.agentsUsed":[],
+                    "state.observables.blowerManip":0,
+                    "state.observables.BouncinessRun":false,
+                    "state.observables.NumberAttempts":0,
+                    "state.observables.ObjectCount":0,
+                    "state.flags.PufferUsed": false,
+                    "state.observables.PufferClicks": 0,
+                    "state.flags.massUsed":false,
+                    "state.flags.airUsed":false,
+                    "state.flags.gravityUsed":false,
+                    "state.observables.gravityManip":0,
+                    "state.observables.airManip":0,
+                    "state.observables.massManip":0,
+                    "state.observables.SliderAdjust":"NA",
+                    "state.observables.AppropriateSlider":"NA",
+                    "state.observables.Attempted":false,
+                    "state.flags.applicable":[]},
+            "!unset": {"state.observables.Agent":"NA"}
+        }
+    },
+    {
+        "name": "Mass Slider Appropriate",
+        "doc": "Mark the air slider as appropriate in this level.  This will make the slider value be included in the slider adjustments.",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "MassLevels",
+        "ruleType": "Reset",
+        "priority": 3,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!push":{"state.flags.applicable":"massManip"}
+        }
+    },
+    {
+        "name": "Gravity Slider Appropriate",
+        "doc": "Mark the air slider as appropriate in this level.",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "GravityLevels",
+        "ruleType": "Reset",
+        "priority": 4,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!push":{"state.flags.applicable":"gravityManip"}
+        }
+    },
+    {
+        "name": "Air Slider Appropriate",
+        "doc": "Mark the air slider as appropriate in this level.",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "AirResistanceLevels",
+        "ruleType": "Reset",
+        "priority": 5,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!push":{"state.flags.applicable":"airManip"}
+        }
+    }
+]

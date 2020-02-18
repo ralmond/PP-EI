@@ -1,0 +1,139 @@
+[
+    {
+      "name": "Update agent used.",
+      "doc": "Adds the agent to the agent list, and sets the last agent.",
+      "verb": "identified",
+      "object": "game object",
+      "context": "Sketching",
+      "ruleType": "Observable",
+      "priority": 5,
+      "conditions": {
+        "event.data.gemeObjectType":["Ramp","Lever","Springboard","Pendulum"]
+      },
+      "predicate": {
+        "!push":{"state.observables.agentsUsed":
+            "event.data.gemeObjectType"},
+        "!set": {"state.observables.Agent":
+            "event.data.gemeObjectType"}
+      }
+    },
+    {
+        "name": "Sketching Reset",
+        "doc": "When new level, clear observables",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "Sketching",
+        "ruleType": "Reset",
+        "priority": 2,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!set":{"state.observables.Attempted":false,
+                    "state.observables.ObjectCount":0},
+            "!unset":{"state.observables.blowerManip":"NA",
+                      "state.observables.BouncinessRun":"NA",
+                      "state.observables.TrophyLevel":"Delete",
+                      "state.flags.PufferUsed": "NA",
+                      "state.observables.NumberPufferManip": "NA",
+                      "state.observables.massManip":"NA",
+                      "state.observables.airManip":"NA",
+                      "state.observables.gravityManip":"NA",
+                      "state.observables.SliderAdjust":"NA",
+                      "state.observables.AppropriateSlider":"NA"
+                     }
+        }
+    },
+    {
+        "name": "Reset Agents",
+        "doc": "Reset the agentlist",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Reset",
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{ "state.observables.agentsUsed":[]},
+            "!unset": {"state.observables.ApplicableAgent":"NA",
+                       "state.observables.Agent":"NA",
+                       "state.flags.Agent":"NA"}
+        }
+    },
+    {
+        "name": "Ramp is Applicable",
+        "doc": "If this a ramp level, and ramp was used, set applicable agent to true.",
+        "verb": "identified",
+        "object": "game object",
+        "context": "RampLevels",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "event.data.gemeObjectType":"Ramp"
+        },
+        "predicate": {
+            "!set": {"state.observables.ApplicableAgent":true}
+        }
+    },
+    {
+        "name": "Lever is Applicable",
+        "doc": "If this a ramp level, and ramp was used, set applicable agent to true.",
+        "verb": "identified",
+        "object": "game object",
+        "context": "LeverLevels",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "event.data.gemeObjectType":"Lever"
+        },
+        "predicate": {
+            "!set": {"state.observables.ApplicableAgent":true}
+        }
+    },
+    {
+        "name": "Pendulum is Applicable",
+        "doc": "If this a ramp level, and ramp was used, set applicable agent to true.",
+        "verb": "identified",
+        "object": "game object",
+        "context": "PendulumLevels",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "event.data.gemeObjectType":"Pendulum"
+        },
+        "predicate": {
+            "!set": {"state.observables.ApplicableAgent":true}
+        }
+    },
+    {
+        "name": "Springboard is Applicable",
+        "doc": "If this a ramp level, and ramp was used, set applicable agent to true.",
+        "verb": "identified",
+        "object": "game object",
+        "context": "SpringboardLevels",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "event.data.gemeObjectType":"Springboard"
+        },
+        "predicate": {
+            "!set": {"state.observables.ApplicableAgent":true}
+        }
+    },
+    {
+        "name": "Drew an object",
+        "doc": "Increments the object counter and sets the attempted flag.",
+        "verb": "identified",
+        "object": "game object",
+        "context": "SpringboardLevels",
+        "ruleType": "Sketching",
+        "priority": 5,
+        "conditions": {
+        },
+        "predicate": {
+            "!set": {"state.observables.Attempted":true},
+            "!incr":{"state.observables.ObjectCount":1}
+        }
+    }
+]

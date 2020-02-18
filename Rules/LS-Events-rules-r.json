@@ -1,0 +1,195 @@
+[
+    {
+        "name":"LS event start test",
+        "doc":"",
+        "initial":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+            },
+            "observables":{
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "initialized",
+            "object": "learning support",
+            "context": "Level 1",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "learningSupportType": "sbAnim"
+            }
+        },
+        "rule":{
+            "name": "Learning Support Clicked and Timer Started",
+            "doc": "Every time any LS is clicked record the LS Type and Start the Timer",
+            "verb": "initialized",
+            "object": "learning support",
+            "context": "ALL",
+            "ruleType": "Status",
+            "priority": 4,
+            "conditions": {
+            },
+            "predicate": {
+                "!set": {"state.flags.learningSupportType":"event.data.learningSupportType"},
+                "!start" :"state.timers.LS_duration"
+            } 
+        },
+        "queryResult":true,
+        "final":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{
+                "LS_duration":{
+                    "name":"LS_duration",
+                    "startTime": "2018-09-25 12:12:28 EDT",
+                    "totalTime": {"time":0, "units":"secs"}
+                }
+            },
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "learningSupportType":"sbAnim"
+            },
+            "observables":{
+            } 
+        }
+    },
+    
+    {
+        "name":"LS event stop test 1",
+        "doc":"",
+        "initial":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{
+                "LS_duration":{
+                    "name":"LS_duration",
+                    "startTime": "2018-09-25 12:12:28 EDT",
+                    "totalTime": {"time":0, "units":"secs"}
+                }
+            },
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+                "learningSupportType":"sbAnim"
+            },
+            "observables":{
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "exited",
+            "object": "learning support",
+            "context": "Level 1",
+            "timestamp":"2018-09-25 12:13:28 EDT",   
+            "data": {
+                "learningSupportType": "sbAnim"
+            }
+        },
+        "rule":{
+            "name": "Learnig Support Stop Time",
+            "doc": "Every time the LS is closed stop the timer",
+            "verb": "exited",
+            "object": "learning support",
+            "context": "ALL",
+            "ruleType": "Status",
+            "priority": 4,
+            "conditions": {
+            },
+            "predicate": {
+                "!set":{"state.timers.LS_duration.running":false}
+            } 
+        },
+        "queryResult":true,
+        "final":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{
+                "LS_duration":{
+                    "name":"LS_duration",
+                    "startTime": "NA",
+                    "totalTime":{"time":60, "units":"secs"}
+                }
+            },
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "learningSupportType": "sbAnim"
+            },
+            "observables":{
+            } 
+        }
+    },
+    {
+        "name":"LS event stop test 2",
+        "doc":"",
+        "initial":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{
+                "LS_duration":{
+                    "name":"LS_duration",
+                    "startTime": "NA",
+                    "totalTime":{"time":60, "units":"secs"}
+                }
+            },
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+                "learningSupportType": "sbAnim"
+            },
+            "observables":{
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "exited",
+            "object": "learning support",
+            "context": "Level 1",
+            "timestamp":"2018-09-25 12:13:28 EDT",   
+            "data": {
+                "learningSupportType": "sbAnim"
+            }
+        },
+        "rule":{
+            "name": "Learnig Support Record Time",
+            "doc": "Every time the LS is closed stop the timer",
+            "verb": "exited",
+            "object": "learning support",
+            "context": "ALL",
+            "ruleType": "Observable",
+            "priority": 4,
+            "conditions": {
+            },
+            "predicate": {
+                "!set":{"state.observables.LS_duration":
+                        "state.timers.LS_duration",
+                        "state.observables.learningSupportType":
+                        "state.flags.learningSupportType"}
+            } 
+        },
+        "queryResult":true,
+        "final":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{
+                "LS_duration":{
+                    "name":"LS_duration",
+                    "startTime": "NA",
+                    "totalTime":{"time":60, "units":"secs"}
+                }
+            },
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "learningSupportType":"sbAnim"
+            },
+            "observables":{
+                "learningSupportType":"sbAnim",
+                "LS_duration":{"time":60, "units":"secs"}
+            } 
+        }
+    }
+
+]

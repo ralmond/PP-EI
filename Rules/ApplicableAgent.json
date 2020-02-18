@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Reset Agents",
+        "doc": "Reset the agentlist",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Reset",
+        "priority": 2,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{ "state.observables.agentsUsed":[]},
+            "!unset": {"state.observables.ApplicableAgent":"NA",
+                       "state.flags.Agent":"NA"}
+        }
+    },
+    {
+        "name": "Update agent used.",
+        "doc": "Adds the agent to the agent list, and sets the last agent.",
+        "verb": "identified",
+        "object": "game object",
+        "context": "Sketching",
+        "ruleType": "Status",
+        "priority": 5,
+        "conditions": {
+            "event.data.gemeObjectType":["Ramp","Lever","Springboard","Pendulum"]
+        },
+        "predicate": {
+            "!push":{"state.observables.agentsUsed":
+                     "event.data.gemeObjectType"},
+            "!set": {"state.flags.Agent":
+                     "event.data.gemeObjectType"}
+        }
+    },
+    {
+        "name": "Ramp is Applicable",
+        "doc": "If this a ramp level, and ramp was used, set applicable agent to true.",
+        "verb": "passed",
+        "object": "game level",
+        "context": "RampLevels",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "state.flags.Agent":"Ramp"
+        },
+        "predicate": {
+            "!set": {"state.observables.ApplicableAgent":true}
+        }
+    },
+    {
+        "name": "Lever is Applicable",
+        "doc": "If this a ramp level, and ramp was used, set applicable agent to true.",
+        "verb": "passed",
+        "object": "game level",
+        "context": "LeverLevels",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "state.flags.Agent":"Lever"
+        },
+        "predicate": {
+            "!set": {"state.observables.ApplicableAgent":true}
+        }
+    },
+    {
+        "name": "Pendulum is Applicable",
+        "doc": "If this a ramp level, and ramp was used, set applicable agent to true.",
+        "verb": "passed",
+        "object": "game level",
+        "context": "PendulumLevels",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "state.flags.Agent":"Pendulum"
+        },
+        "predicate": {
+            "!set": {"state.observables.ApplicableAgent":true}
+        }
+    },
+    {
+        "name": "Springboard is Applicable",
+        "doc": "If this a ramp level, and ramp was used, set applicable agent to true.",
+        "verb": "passed",
+        "object": "game level",
+        "context": "SpringboardLevels",
+        "ruleType": "Observable",
+        "priority": 5,
+        "conditions": {
+            "state.flags.Agent":"Springboard"
+        },
+        "predicate": {
+            "!set": {"state.observables.ApplicableAgent":true}
+        }
+    }
+]
+    
+    
+    
+

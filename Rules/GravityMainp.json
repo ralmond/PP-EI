@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Gravity Adjustement",
+    "doc": "Every time the gravity slider is adjusted, update the current value.",
+    "verb": "adjusted",
+    "object": "control",
+    "context": "GravitySliderLevels",
+    "ruleType": "Status",
+    "priority": 5,
+    "conditions": {
+      "event.data.gemeObjectType":"GravityValueManipulator"
+    },  
+    "predicate": {
+      "!set":{"state.flags.currentGravityVal":"event.data.newValue"}
+    } 
+},
+ {
+    "name": "Gravity Initialization",
+    "doc": "When the control panel is initialized, set the initial value for Gravity",
+    "verb": "initialized",
+    "object": "control panel",
+    "context": "GravitySliderLevels",
+    "ruleType": "Status",
+    "priority": 10,
+    "conditions": {
+    },  
+    "predicate": {
+      "!set":{"state.flags.previousGravityVal":"state.flags.currentGravityVal"}
+    } 
+},
+{
+    "name": "Gravity Increment",
+    "doc": "When the play button is pressed, update the gravity counter",
+    "verb": "play",
+    "object": "params",
+    "context": "GravitySliderLevels",
+    "ruleType": "Status",
+    "priority": 2,
+    "conditions": {
+      "state.flags.currentGravityVal":{"?ne":"state.flags.previousGravityVal"}
+    },  
+    "predicate": {
+      "!incr":{"state.observables.gravityManip":1}
+    } 
+},
+{
+    "name": "Gravity Play",
+    "doc": "When the play button is pressed, update the previous value for Gravity",
+    "verb": "play",
+    "object": "params",
+    "context": "GravitySliderLevels",
+    "ruleType": "Status",
+    "priority": 10,
+    "conditions": {
+    },  
+    "predicate": {
+      "!set":{"state.flags.previousGravityVal":"state.flags.currentGravityVal"}
+    } 
+},
+    {
+        "name": "Gravity Reset",
+        "doc": "When new level, clear air observables",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Reset",
+        "priority": 3,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!set":{"state.observables.gravityManip":0},
+            "!unset":{"state.flags.previousGravityVal":"NA",
+                      "state.flags.currentGravityVal":"NA"}
+        }
+    }
+]

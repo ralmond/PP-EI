@@ -1,0 +1,50 @@
+[
+    "Don't use this file."
+    {
+        "name": "Learning Support Clicked and Timer Started",
+        "doc": "Every time any LS is clicked record the LS Type and Start the Timer",
+        "verb": "initialized",
+        "object": "learning support",
+        "context": "ALL",
+        "ruleType": "Status",
+        "priority": 4,
+        "conditions": {
+        },
+        "predicate": {
+            "!set": {"state.flags.learningSupportType":"event.data.learningSupportType"},
+            "!start" :"state.timers.LS_duration"
+        } 
+    },
+    {
+        "name": "Learnig Support Stop Time",
+        "doc": "Every time the LS is closed stop the timer",
+        "verb": "exited",
+        "object": "learning support",
+        "context": "ALL",
+        "ruleType": "Status",
+        "priority": 4,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{"state.timers.LS_duration.running":false}
+        } 
+    },
+    {
+        "name": "Learnig Support Record Time",
+        "doc": "Every time the LS is closed stop the timer",
+        "verb": "exited",
+        "object": "learning support",
+        "context": "ALL",
+        "ruleType": "Observable",
+        "priority": 4,
+        "conditions": {
+        },
+        "predicate": {
+            "!set":{"state.observables.LS_duration":
+                    "state.timers.LS_duration",
+                    "state.observables.learningSupportType":
+                    "state.flags.learningSupportType"}
+        } 
+    }
+
+]

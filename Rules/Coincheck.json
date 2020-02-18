@@ -1,0 +1,155 @@
+[
+  {"name": "Coin rule test",
+   "doc":"",
+  "initial":{
+      "uid": "Test0",
+      "context": "84",
+      "timers":{},
+      "timestamp":"2018-09-25 12:12:28 EDT",
+      "flags":{
+      },
+      "observables":{
+        "badge":"none"
+      }
+    },
+    "event":{
+      "app":"https://epls.coe.fsu.edu/PPTest",
+      "uid": "Test0",
+      "verb": "satisfied",
+      "object": "game level",
+      "context": "84",
+      "timestamp":"2018-09-25 12:12:28 EDT",   
+      "data": {
+        "badge":"gold"
+      }
+    },
+    "rule":{
+      "name": "Coin rule",
+      "doc": "Set the value of the badge to the coin the player earned.",
+      "verb": "satisfied",
+      "object": "game level",
+      "context": "ALL",
+      "ruleType": "Observable", 
+      "priority": 5,
+      "conditions": {
+          "event.data.badge":["silver","gold","none"]
+      },
+      "predicate": {
+        "!set":{"state.observables.badge":"event.data.badge"}
+      }
+    },"queryResult":true,
+          "final":{
+      "uid": "Test0",
+      "context": "84",
+      "timers":{},
+      "timestamp":"2018-09-25 12:12:28 EDT",
+      "flags":{
+      },
+      "observables":{
+        "badge":"gold"
+      } 
+    }
+  },
+   {"name": "silver coin test",
+    "doc":"",
+  "initial":{
+      "uid": "Test0",
+      "context": "84",
+      "timers":{},
+      "timestamp":"2018-09-25 12:12:28 EDT",
+      "flags":{
+      },
+      "observables":{
+        "badge":"silver"
+      }
+    },
+    "event":{
+      "app":"https://epls.coe.fsu.edu/PPTest",
+      "uid": "Test0",
+      "verb": "satisfied",
+      "object": "game level",
+      "context": "84",
+      "timestamp":"2018-09-25 12:12:28 EDT",   
+      "data": {
+        "badge":"silver"
+      }
+    },
+    "rule":{
+      "name": "silver coin",
+      "doc": "The player got a silver coin for this level",
+      "verb": "satisfied",
+      "object": "game level",
+      "context": "ALL",
+      "ruleType": "observables",
+      "priority": 2,
+      "conditions": {
+        "event.data.badge":["silver","gold","none"]
+      },
+      "predicate": {
+        "!set":{"state.observables.badge":"silver"}
+      }
+    },"queryResult":true,
+          "final":{
+      "uid": "Test0",
+      "context": "84",
+      "timers":{},
+      "timestamp":"2018-09-25 12:12:28 EDT",
+      "flags":{
+      },
+      "observables":{
+        "badge":"silver"
+      } 
+    }
+  },
+     {"name": "no coin test",
+      "doc":"",
+  "initial":{
+      "uid": "Test0",
+      "context": "84",
+      "timers":{},
+      "timestamp":"2018-09-25 12:12:28 EDT",
+      "flags":{
+      },
+      "observables":{
+        "badge":"none"
+      }
+    },
+    "event":{
+      "app":"https://epls.coe.fsu.edu/PPTest",
+      "uid": "Test0",
+      "verb": "satisfied",
+      "object": "game level",
+      "context": "84",
+      "timestamp":"2018-09-25 12:12:28 EDT",   
+      "data": {
+        "badge":"none"
+      }
+    },
+    "rule":{
+      "name": "no coin",
+      "doc": "The player got no coin for this level",
+      "verb": "satisfied",
+      "object": "game level",
+      "context": "ALL",
+      "ruleType": "observables",
+      "priority": 2,
+      "conditions": {
+        "event.data.badge":["silver","gold","none"]
+      },
+      "predicate": {
+        "!set":{"state.observables.badge":"silver"}
+      }
+    },"queryResult":true,
+          "final":{
+      "uid": "Test0",
+      "context": "84",
+      "timers":{},
+      "timestamp":"2018-09-25 12:12:28 EDT",
+      "flags":{
+      },
+      "observables":{
+        "badge":"none"
+      } 
+    }
+  }
+  ]

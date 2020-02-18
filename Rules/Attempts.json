@@ -1,0 +1,261 @@
+[
+    {
+      "name":"Attempt Counter test",
+      "doc":"",
+          "initial":{
+            "uid": "Test0",
+            "context": "42",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+            },
+            "observables":{
+                "attempts":1
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "initialized",
+            "object": "game level",
+            "context": "42",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gameLevelID": "42"
+            }
+        },
+        "rule":{
+            "name": "Attempt Counter",
+            "doc": "Increments the attempt counter when game starts, restarts.",
+            "verb": "initialized",
+            "object": "game level",
+            "context": "ALL",
+            "ruleType": "Status",
+            "priority": 2,
+            "conditions": {
+                "state.context": {"?eq":"event.data.gameLevelID"}
+            },
+            "predicate": {
+                "!incr": {"state.observables.attempts":1}
+            }
+        },
+        "queryResult":true,
+          "final":{
+            "uid": "Test0",
+            "context": "42",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+            },
+            "observables":{
+                "attempts":2
+            }
+        }
+    },
+    {
+      "name":"Attempt Counter test",
+      "doc":"",
+        "initial":{
+            "uid": "Test0",
+            "context": "42",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+            },
+            "observables":{
+                "attempts":1
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "initialized",
+            "object": "game object",
+            "context": "42",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gameLevelID": "42"
+            }
+        },
+        "rule":{
+            "name": "Attempt Counter",
+            "doc": "Increments the attempt counter when game starts, restarts.",
+            "verb": "initialized",
+            "object": "game level",
+            "context": "ALL",
+            "ruleType": "Status",
+            "priority": 2,
+            "conditions": {
+                "state.context": {"?eq":"event.data.gameLevelID"}
+            },
+            "predicate": {
+                "!incr": {"state.observables.attempts":1}
+            }
+        },"queryResult":true,
+          "final":{
+            "uid": "Test0",
+            "context": "42",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+            },
+            "observables":{
+                "attempts": 2
+            } 
+        }
+    },
+    {"name":"Attempt Counter test",
+    "doc":"",
+        "initial":{
+            "uid": "Test0",
+            "context": "12",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+            },
+            "observables":{
+                "attempts":1
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "initialized",
+            "object": "game level",
+            "context": "42",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gameLevelID": "42"
+            }
+        },
+        "rule":{
+            "name": "Attempt Counter",
+            "doc": "Increments the attempt counter when game starts, restarts.",
+            "verb": "initialized",
+            "object": "game level",
+            "context": "ALL",
+            "ruleType": "Status",
+            "priority": 2,
+            "conditions": {
+                "state.context": {"?eq":"event.data.gameLevelID"}
+            },
+            "predicate": {
+                "!incr": {"state.observables.attempts":1}
+            }
+        },"queryResult":false,
+          "final":{
+            "uid": "Test0",
+            "context": "12",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+            },
+            "observables":{
+                "attempts": 1
+            } 
+        }
+    },
+    {"name":"Reset Agents test",
+    "doc":"",
+    "initial":{
+            "uid": "Test0",
+            "context": "42",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+            },
+            "observables":{
+                "attempts":1
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "exited",
+            "object": "game level",
+            "context": "42",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gameLevelID": "42"
+            }
+        },
+        "rule":{
+            "name": "Attempt Counter",
+            "doc": "Increments the attempt counter when game starts, restarts.",
+            "verb": "initialized",
+            "object": "game level",
+            "context": "ALL",
+            "ruleType": "Status",
+            "priority": 2,
+            "conditions": {
+                "state.context": {"?eq":"event.data.gameLevelID"}
+            },
+            "predicate": {
+                "!incr": {"state.observables.attempts":1}
+            }
+        },"queryResult":true,
+          "final":{
+            "uid": "Test0",
+            "context": "42",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+            },
+            "observables":{
+                "attempts": 2
+            } 
+        }
+    },
+    {"name":"Reset Agents test",
+    "doc":"",
+    "initial":{
+            "uid": "Test0",
+            "context": "12",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",  
+            "flags":{
+            },
+            "observables":{
+                "attempts":1
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "initialized",
+            "object": "game level",
+            "context": "42",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gameLevelID": "42"
+            }
+        },
+        "rule":{
+            "name": "New Level Started",
+            "doc": "Indicates that we should change level",
+            "verb": "initialized",
+            "object": "game level",
+            "context": "ALL",
+            "ruleType": "Context",
+            "priority": 1,
+            "conditions": {
+                "state.context": {"?ne":"event.data.gameLevelID"}
+            },
+            "predicate": {
+                "!set": {"state.context":"event.data.gameLevelID"}
+            }
+        },"queryResult":true,
+          "final":{
+            "uid": "Test0",
+            "context": "42",
+            "oldContext":"12",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+            },
+            "observables":{
+                "attempts": 1
+            } 
+        }
+    }
+]

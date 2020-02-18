@@ -1,0 +1,53 @@
+[
+    {"name":"XXX test",
+    "doc":"",
+          "initial":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+            },
+            "observables":{
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "XXX",
+            "object": "XXXr",
+            "context": "Level 1",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "gemeObjectType": "AirResistanceValueManipulator",
+                "oldValue": 0,
+                "newValue": 5,
+                "method": "input"
+            }
+        },
+        "rule":{
+            "name": "XXX",
+            "doc": "XXX",
+            "verb": "ALL",
+            "object": "ALL",
+            "context": "ALL",
+            "ruleType": "Status",
+            "priority": 2,
+            "conditions": {
+              "event.data.gemeObjectType":["AirResistanceValueManipulator","MassValueManipulator","GravityValueManipulator"]
+            },
+            "predicate": {
+            }
+        },"queryResult":true,
+          "final":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+            },
+            "observables":{
+            } 
+        }
+    }
+]

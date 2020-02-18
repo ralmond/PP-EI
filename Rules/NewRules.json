@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Help Button Clicked",
+    "doc": "Every time the Help Button is clicked update the Help Button Clicked counter",
+    "verb": "initialized",
+    "object": "learning support",
+    "context": "ALL",
+    "ruleType": "Status",
+    "priority": 5,
+    "conditions": {
+        "event.data.learningSupportType": "helpBClicked"
+    },  
+    "predicate": {
+        "!incr":{"state.observables.helpBClicked":1}
+    } 
+},
+  {
+    "name": "Help Button Clicked Reset",
+    "doc": "When new level, Help Button Clicked",
+    "verb": "initialized",
+    "object": "game level",
+    "context": "ALL",
+    "ruleType": "Reset",
+    "priority": 5,
+    "conditions": {
+        "state.context":{"?ne":"state.oldContext"}
+    },
+    "predicate": {
+        "!set":{"state.observables.helpBClicked":0}
+    }
+},
+  {
+    "name": "Learning Support Clicked and Timer Started",
+    "doc": "Every time any LS is clicked record the LS Type and Start the Timer",
+    "verb": "initialized",
+    "object": "learning support",
+    "context": "ALL",
+    "ruleType": "Status",
+    "priority": 4,
+    "conditions": {
+      },
+    "predicate": {
+        "!set": {"state.flags.learningSupportType":"event.data.learningSupportType"},
+        "!start" :"state.timers.LS_duration"
+    }
+},
+{
+    "name": "Learnig Support Closed Time",
+    "doc": "Every time the LS is closed stop the timer",
+    "verb": "exited",
+    "object": "learning support",
+    "context": "ALL",
+    "ruleType": "Status",
+    "priority": 4,
+    "conditions": {
+      },
+    "predicate": {
+        "!set":{"state.timers.LS_duration.running":false}
+    }
+},
+{
+    "name": "Learning Support Add To List",
+    "doc": "Every time the LS record name and duration",
+    "verb": "exited",
+    "object": "learning support",
+    "context": "ALL",
+    "ruleType": "Trigger",
+    "priority": 4,
+    "conditions": {
+      },
+    "predicate": {
+        "!send":{
+            "mess":"Learning Support Used",
+            "context":"state.oldContext",
+            "data":{"support":"state.flags.learningSupportType",
+            "duration":"state.timers.LS_duration"}
+        }
+    }
+},
+{
+    "name": "Learning Support Clicked and Timer Started",
+    "doc": "Every time any LS is clicked record the LS Type and Start the Timer",
+    "verb": "initialized",
+    "object": "learning support",
+    "context": "ALL",
+    "ruleType": "Status",
+    "priority": 4,
+    "conditions": {
+      },
+    "predicate": {
+        "!set": {"state.flags.learningSupportType":"event.data.learningSupportType"}
+    }
+},
+{
+    "name": "Learning Support Add To List",
+    "doc": "Every time the LS record name and duration",
+    "verb": "exited",
+    "object": "learning support",
+    "context": "ALL",
+    "ruleType": "Trigger",
+    "priority": 4,
+    "conditions": {
+      },
+    "predicate": {
+        "!send":{
+            "uId":"state.actor.name",            
+            "mess":"Learning Support Used",
+            "context":"state.oldContext",
+            "data":{"support":"state.flags.learningSupportType",
+            "duration":"state.timers.LS_duration"}
+        }
+    }
+},
+{
+    "name": "Money Earned in PP",
+    "doc": "When money is earned, record what was the money amount and item.",
+    "verb": "moneyEarned",
+    "object": "ANY",
+    "context": "ALL",
+    "ruleType": "Trigger", 
+    "priority": 2,
+    "conditions": {
+    },
+    "predicate": {
+        "!send":{
+            "mess":"Money Earned",
+            "context":"state.oldContext",
+            "data":{
+                "uId":"state.actor.name",                
+                "money":"state.data.moneyEarned",
+                "onWhat":"state.object.name",
+                "timestamp":"state.data.timestamp",
+                "appId":"state.data.gameappid",
+                "context":"state.data.gameLevelId"                
+            }
+        }
+    }
+},
+{
+    "name": "Money Spent in PP",
+    "doc": "When money is spent, record what was the money amount and item.",
+    "verb": "moneySpent",
+    "object": "ANY",
+    "context": "ALL",
+    "ruleType": "Trigger", 
+    "priority": 2,
+    "conditions": {
+    },
+    "predicate": {
+        "!send":{
+            "mess":"Money Spent",
+            "context":"state.oldContext",
+            "data":{
+                "uId":"state.actor.name",
+                "money":"state.data.moneyEarned",
+                "onWhat":"state.object.name",
+                "timestamp":"state.data.timestamp",
+                "appId":"state.data.gameappid",
+                "context":"state.data.gameLevelId"
+            }
+        }
+    }
+}
+]
+
+
+

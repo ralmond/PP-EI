@@ -1,0 +1,112 @@
+[
+    {
+        "name":"Help Button Clicked test",
+        "doc":"",
+        "initial":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT", 
+            "flags":{
+                "learningSupportType":"helpBClicked"
+            },
+            "observables":{
+                "helpBClicked":0
+            }
+        },
+        "event":{
+            "app":"https://epls.coe.fsu.edu/PPTest",
+            "uid": "Test0",
+            "verb": "initialized",
+            "object": "learning support",
+            "context": "Level 1",
+            "timestamp":"2018-09-25 12:12:28 EDT",   
+            "data": {
+                "learningSupportType": "helpBClicked"
+            }
+        },
+        "rule":{
+            "name": "Help Button Clicked",
+            "doc": "Every time the Help Button is clicked update the Help Button Clicked counter",
+            "verb": "initialized",
+            "object": "learning support",
+            "context": "ALL",
+            "ruleType": "Status",
+            "priority": 5,
+            "conditions": {
+                "event.data.learningSupportType": "helpBClicked"
+            },  
+            "predicate": {
+                "!incr":{"state.observables.helpBClicked":1}
+            } 
+        },
+        "queryResult":true,
+        "final":{
+            "uid": "Test0",
+            "context": "Level 1",
+            "timers":{},
+            "timestamp":"2018-09-25 12:12:28 EDT",
+            "flags":{
+                "learningSupportType":"helpBClicked"
+            },
+            "observables":{
+                "helpBClicked":1
+            } 
+        }
+    },
+
+    {"name":"Help Button reset test",
+        "doc":"",
+              "initial":{
+                "uid": "Test0",
+                "context": "Level 2",
+                "oldContext": "Level 1",
+                "timers":{},
+                "timestamp":"2018-09-25 12:12:28 EDT", 
+                "flags":{
+                },
+                "observables":{
+                    "helpBClicked":1
+                }
+            },
+            "event":{
+                "app":"https://epls.coe.fsu.edu/PPTest",
+                "uid": "Test0",
+                "verb": "initialized",
+                "object": "game level",
+                "context": "Level 2",
+                "timestamp":"2018-09-25 12:12:28 EDT",   
+                "data": {
+                    "gameLevelID": "Level 2"
+                }
+            },
+            "rule":{
+                "name": "Help Button Clicked Reset",
+                "doc": "When new level, Help Button Clicked",
+                "verb": "initialized",
+                "object": "game level",
+                "context": "ALL",
+                "ruleType": "Reset",
+                "priority": 5,
+                "conditions": {
+                    "state.oldContext":{"?ne":"event.data.gameLevelID"}
+                },
+                "predicate": {
+                    "!set":{"state.observables.helpBClicked":0}
+                }
+            },"queryResult":true,
+              "final":{
+                "uid": "Test0",
+                "context": "Level 2",
+                "oldContext": "Level 1",
+                "timers":{},
+                "timestamp":"2018-09-25 12:12:28 EDT",
+                "flags":{
+                },
+                "observables":{
+                    "helpBClicked":0
+                } 
+            }
+        }
+    
+]

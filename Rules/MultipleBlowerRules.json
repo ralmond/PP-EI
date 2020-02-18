@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Left Blower flag",
+        "doc": "Set the flag and increment counter if left blower is used..",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "BlowerLevels",
+        "ruleType": "Status",
+        "priority": 5, 
+        "conditions": {
+            "event.data.gemeObjectType":"blower",
+            "event.data.blowerName":"bLeft",
+            "event.data.oldValue":{"?ne":"event.data.newValue"}
+        },
+        "predicate": {
+            "!incr":{"state.observables.LeftBlower":1}
+        }
+    },
+    {
+        "name": "Right Blower flag",
+        "doc": "Set the flag and increment counter if right blower is used..",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "BlowerLevels",
+        "ruleType": "Status",
+        "priority": 5, 
+        "conditions": {
+            "event.data.gemeObjectType":"blower",
+            "event.data.blowerName":"bRight",
+            "event.data.oldValue":{"?ne":"event.data.newValue"}
+        },
+        "predicate": {
+            "!incr":{"state.observables.RightBlower":1}
+        }
+    },
+    {
+        "name": "Bottom Blower flag",
+        "doc": "Set the flag and increment counter if Bottom blower is used..",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "BlowerLevels",
+        "ruleType": "Status",
+        "priority": 5, 
+        "conditions": {
+            "event.data.gemeObjectType":"blower",
+            "event.data.blowerName":"bBottom",
+            "event.data.oldValue":{"?ne":"event.data.newValue"}
+        },
+        "predicate": {
+            "!incr":{"state.observables.BottomBlower":1}
+        }
+    },
+    {
+        "name": "Top Blower flag",
+        "doc": "Set the flag and increment counter if Top blower is used..",
+        "verb": "adjusted",
+        "object": "control",
+        "context": "BlowerLevels",
+        "ruleType": "Status",
+        "priority": 5, 
+        "conditions": {
+            "event.data.gemeObjectType":"blower",
+            "event.data.blowerName":"bTop",
+            "event.data.oldValue":{"?ne":"event.data.newValue"}
+        },
+        "predicate": {
+            "!incr":{"state.observables.TopBlower":1}
+        }
+    },
+    {
+        "name": "Multi Blower Manipulation Reset 2",
+        "doc": "When new level, clear manipulation observables",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "ALL",
+        "ruleType": "Reset",
+        "priority": 2,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!unset":{"state.observables.LeftBlower":"NA",
+                      "state.observables.RightBlower":"NA",
+                      "state.observables.TopBlower":"NA",
+                      "state.observables.BottomBlower":"NA"
+                     }
+        }
+    },
+    {
+        "name": "Multi Blower Manipulation Reset 8",
+        "doc": "When new level, clear manipulation observables",
+        "verb": "initialized",
+        "object": "game level",
+        "context": "BlowerLevels",
+        "ruleType": "Reset",
+        "priority": 8,
+        "conditions": {
+            "state.context":{"?ne":"state.oldContext"}
+        },
+        "predicate": {
+            "!set":{
+                "state.observables.LeftBlower":0,
+                "state.observables.RightBlower":0,
+                "state.observables.TopBlower":0,
+                "state.observables.BottomBlower":0
+            }
+        }
+    }
+]
