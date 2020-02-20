@@ -1,9 +1,11 @@
 {
-  apps:[],
-  contextDescriptions:[],
-  rules:[],
-  rulesWithTests[],
-  defaultRecordData:{},
-  rerunMode: true,
-  rescoreQuery:{}
+  "apps":["linear","adaptive","userControl"],
+  "contextDescriptions":["ContextSketching","ContextManipulation"],
+  "rules":["AllLevelRules","SketchingRules","ManipulationRUles","TrophyHallRules","MoneyRules",
+         "LS-Events","MultipleBlowerRules"],
+  "rulesWithTests":[],
+  // rulesWithTests:["LS-HelpB-rules1"],
+  "defaultRecordData":{bankBalance:0, trophyHall:[]},
+  "rerunMode": true,
+  "rescoreQuery":{"app":"$app","processed":true}
   }
