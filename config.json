@@ -1,0 +1,9 @@
+{
+  apps:[],
+  contextDescriptions:[],
+  rules:[],
+  rulesWithTests[],
+  defaultRecordData:{},
+  rerunMode: true,
+  rescoreQuery:{}
+  }
