@@ -20,6 +20,10 @@ Here are the steps that need to be done to do a scoring run.
    run.
 3. Run the `EILoader` script to load the configuration into the
    database.
+   This needs a `config.json` file that specifies:
+   * The names of the context description csv files.
+   * The names of the rules files.
+   * The fields to be set in the default student record.
 4. If running in server mode, run the EIEvent script to start the
    server.
 5. In running in rerun mode, run a query to mark appropriate events as
