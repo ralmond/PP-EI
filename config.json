@@ -1,11 +1,102 @@
 {
-  "apps":["linear","adaptive","userControl"],
-  "contextDescriptions":["ContextSketching","ContextManipulation"],
-  "rules":["AllLevelRules","SketchingRules","ManipulationRUles","TrophyHallRules","MoneyRules",
-         "LS-Events","MultipleBlowerRules"],
-  "rulesWithTests":[],
-  "comment":{"rulesWithTests":["LS-HelpB-rules1"]},
-  "defaultRecordData":{"bankBalance":0, "trophyHall":[]},
-  "rerunMode": true,
-  "rescoreQuery":{"app":"$app","processed":true}
+    "ConfigName":"PP-main",
+    "Branch":"PP-main",
+    "Version":"0.5.1",
+    "Date":"2020-02-25",
+    "appStem":["linear","adaptive","userControl"],
+    "logLevel":"INFO"
+    "logname":"EI_<app>0.log",
+    "statfile":"stats-P4Test.csv",
+    "contextDescriptions":["ContextSketching","ContextManipulation"],
+    "rules":["AllLevelRules","SketchingRules","ManipulationRUles",
+	     "TrophyHallRules","MoneyRules",
+             "LS-Events","MultipleBlowerRules"],
+    "rulesWithTests":[],
+    "comment":{"rulesWithTests":["LS-HelpB-rules1"]},
+    "defaultRecordData":{"bankBalance":0, "trophyHall":[]},
+    "listeners":[
+	{
+	    "name":"ppObs.<app>",
+	    "type":"TableListener",
+	    "messages":["New Observables"],
+	    "fields":{
+		"uid":"character",
+		"context":"character",
+		"timestamp":"character",
+		"blowerManip":"numeric", 
+		"BouncinessRun":"logical",
+		"Agent":"factor(Lever,Pendulum,Ramp,Springboard)",
+		"ApplicableAgent":"logical",
+		"ObjectCount":"numeric",
+		"TrophyLevel":"ordered(none,silver,gold)",
+		"NumberAttempts":"numeric",
+		"PufferClicks":"numeric",
+		"massManip":"numeric",
+		"airManip":"numeric",
+		"gravityManip":"numeric",
+		"Duration":"difftime",
+		"SliderAdjust":"numeric",
+		"AppropriateSlider":"ordered(almostAlways,mostly,mostlyNot,almostNever)",
+		"bankBalance":"numeric",
+		"helpBClicked":"numeric",
+		"LeftBlower":"numeric",
+		"RightBlower":"numeric",
+		"TopBlower":"numeric",
+		"BottomBlower":"numeric"
+	    }
+	},
+	{
+	    "name":"ppLS<app>",
+	    "type":"TableListener",
+	    "messages":["Coins Earned","Coins Spent", "LS Watched"],
+	    "fields":{
+		"uid":"character",
+		"context":"character",
+		"timestamp":"character",
+		"currentMoney":"numeric",
+		"appId":"numeric", 
+		"mess":"character",
+		"money":"numeric", 
+		"onWhat":"character", 
+		"LS_duration":"difftime",
+		"learningSupportType":"character"
+	    }
+	},
+	{
+	    "name":"ToEA",
+	    "type":"InjectionListener",
+	    "sender":"EI_<app>",
+	    "dburi":"<dburi>",
+	    "dbname":"EARecords",
+	    "colname":"EvidenceSets",
+	    "messages"["New Observables"]
+	},
+	{
+	    "name":"PPPersistantData",
+	    "type":"UpdateListener",
+	    "sender":"EI_<app>",
+	    "dburi":"<dburi>",
+	    "dbname":"Proc4",
+	    "colname":"Players",
+	    "targetField":"data",
+	    "jsonEncoder":"trophy2json",
+	    "messages"["Money Earned", "Money Spent"]
+	}
+    ],
+    "EIEngine":{
+        "waittime":0.25,
+        "clearStudentRecords":true
+    },
+    "filter":{
+        "RemoveComment":"Records matching query are removed.",
+        "doRemove":false,
+        "remove":{},
+	"importFile":"",
+        "ReprocessComment":"Records matching query are set processed<-true",
+        "doReprocess":true,
+        "reprocess":{}
+    },
+    "mode":"rerun",
+    "extensions":"extensions.R",
+    "limitNN":"Inf"
   }
