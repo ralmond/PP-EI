@@ -69,7 +69,7 @@
 	    "dburi":"<dburi>",
 	    "dbname":"EARecords",
 	    "colname":"EvidenceSets",
-	    "messages"["New Observables"]
+	    "messages":["New Observables"]
 	},
 	{
 	    "name":"PPPersistantData",
@@ -80,7 +80,7 @@
 	    "colname":"Players",
 	    "targetField":"data",
 	    "jsonEncoder":"trophy2json",
-	    "messages"["Money Earned", "Money Spent"]
+	    "messages":["Money Earned", "Money Spent"]
 	}
     ],
     "EIEngine":{
