@@ -2,11 +2,12 @@
     "ConfigName":"PP-main",
     "Branch":"PP-main",
     "Version":"0.5.1",
-    "Date":"2020-02-25",
+    "Date":"2020-06-09",
     "appStem":["linear","adaptive","userControl"],
     "logLevel":"INFO"
     "logname":"EI_<app>0.log",
     "statfile":"stats-P4Test.csv",
+    "ruledir":"rules",
     "contextDescriptions":["ContextSketching","ContextManipulation"],
     "rules":["AllLevelRules","SketchingRules","ManipulationRUles",
 	     "TrophyHallRules","MoneyRules",
@@ -14,6 +15,10 @@
     "rulesWithTests":[],
     "comment":{"rulesWithTests":["LS-HelpB-rules1"]},
     "defaultRecordData":{"bankBalance":0, "trophyHall":[]},
+    "sender":"EA_<app>",
+    "dbname":"EARecords",
+    "admindbname":"Proc4",
+    "lscolname":"Messages",
     "listeners":[
 	{
 	    "name":"ppObs.<app>",
@@ -69,34 +74,39 @@
 	    "dburi":"<dburi>",
 	    "dbname":"EARecords",
 	    "colname":"EvidenceSets",
-	    "messages"["New Observables"]
+	    "messages":["New Observables"]
 	},
 	{
 	    "name":"PPPersistantData",
 	    "type":"UpdateListener",
-	    "sender":"EI_<app>",
 	    "dburi":"<dburi>",
 	    "dbname":"Proc4",
 	    "colname":"Players",
 	    "targetField":"data",
 	    "jsonEncoder":"trophy2json",
-	    "messages"["Money Earned", "Money Spent"]
+	    "messages":["Money Earned", "Money Spent"]
 	}
     ],
+    "listenerReset":"ALL",
+    "clearStudentRecords":true,
     "EIEngine":{
-        "waittime":0.25,
-        "clearStudentRecords":true
+        "waittime":0.25
     },
     "filter":{
         "RemoveComment":"Records matching query are removed.",
         "doRemove":false,
         "remove":{},
 	"importFile":"",
+        "doPurge":false,
+        "purge":[{"verb":"nudged","object":"game object"},
+                 {"verb":"initialized","object":"game object"},
+                 {"verb":"snapshot","object":"game object"}],
         "ReprocessComment":"Records matching query are set processed<-true",
         "doReprocess":true,
         "reprocess":{}
     },
     "mode":"rerun",
     "extensions":"extensions.R",
+    "limitComment":"Use ALL to rerun all, Inf for server mode.",
     "limitNN":"Inf"
   }
