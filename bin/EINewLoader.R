@@ -1,8 +1,6 @@
 library(utils)
 library(EIEvent)
 
-
-
 source("/usr/local/share/Proc4/EIini.R")
 
 EI.config <- fromJSON(file.path(config.dir,"config.json"),FALSE)
@@ -14,7 +12,6 @@ apps <- as.character(Proc4.config$apps[appStem])
 if (length(apps)==0L || any(apps=="NULL")) {
   stop("Could not find apps for ",appStem)
 }
-
 
 logfile <- (file.path(logpath, sub("<app>","Loader",EI.config$logname)))
 if (interactive()) {
