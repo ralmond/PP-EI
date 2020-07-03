@@ -7,7 +7,7 @@
     "logLevel":"INFO",
     "logname":"EI_<app>0.log",
     "statfile":"stats-P4Test.csv",
-    "ruledir":"rules"
+    "ruledir":"rules",
     "contextDescriptions":["ContextSketching","ContextManipulation"],
     "rules":["AllLevelRules","SketchingRules","ManipulationRUles",
 	     "TrophyHallRules","MoneyRules",
