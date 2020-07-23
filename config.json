@@ -3,13 +3,13 @@
     "Branch":"PP-main",
     "Version":"0.5.1",
     "Date":"2020-06-09",
-    "appStem":["linear","adaptive","userControl"],
+    "appStem":["P4test"],
     "logLevel":"INFO",
     "logname":"EI_<app>0.log",
     "statfile":"stats-P4Test.csv",
     "ruledir":"Rules",
     "contextDescriptions":["ContextSketching","ContextManipulation"],
-    "rules":["AllLevelRules","SketchingRules","ManipulationRUles",
+    "rules":["AllLevelRules","SketchingRules","ManipulationRules",
 	     "TrophyHallRules","MoneyRules",
              "LS-Events","MultipleBlowerRules"],
     "rulesWithTests":[],
@@ -108,5 +108,5 @@
     "mode":"rerun",
     "extensions":"extensions.R",
     "limitComment":"Use ALL to rerun all, Inf for server mode.",
-    "limitNN":"Inf"
+    "limitNN":"ALL"
   }
