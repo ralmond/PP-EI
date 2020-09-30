@@ -11,7 +11,7 @@ source("/usr/local/share/Proc4/EIini.R")
 EI.config <- fromJSON(file.path(config.dir,"config.json"),FALSE)
 
 app <- as.character(Proc4.config$apps[appStem])
-if (length(apps)==0L || any(apps=="NULL")) {
+if (length(app)==0L || any(app=="NULL")) {
   stop("Could not find apps for ",appStem)
 }
 if (!(appStem %in% EI.config$appStem)) {
