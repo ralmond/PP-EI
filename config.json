@@ -2,7 +2,7 @@
     "ConfigName":"Camps Live",
     "Branch":"SummerCamp",
     "Version":"0.5.2",
-    "Date":"2020-06-09",
+    "Date":"2020-11-28",
     "appStem":["SummerCamp"],
     "logLevel":"INFO",
     "logname":"EI_<app>0.log",
@@ -104,7 +104,7 @@
                  {"verb":"initialized","object":"game object"},
                  {"verb":"snapshot","object":"game object"}],
         "ReprocessComment":"Records matching query are set processed<-true",
-        "doReprocess":true,
+        "doReprocess":false,
         "reprocess":{}
     },
     "extensions":"",
