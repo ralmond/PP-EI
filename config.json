@@ -1,12 +1,13 @@
 {
-    "ConfigName":"SummerCamp",
-    "Branch":"SummerCamp",
-    "Version":"0.5.2",
-    "Date":"2020-06-12",
-    "appStem":["SummerCamp"],
+    "ConfigName":"PP-main",
+    "Branch":"PP-main",
+    "Version":"0.5.1",
+    "Date":"2020-06-09",
+    "appStem":["adaptive","linear","userControl"],
     "logLevel":"INFO",
     "logname":"EI_<app>0.log",
     "statfile":"stats-P4Test.csv",
+    "ruledir":"Rules",
     "contextDescriptions":["ContextSketching","ContextManipulation"],
     "ruledir":"Rules",
     "rules":["AllLevelRules","SketchingRules","ManipulationRules",
@@ -14,6 +15,9 @@
              "LS-Events","MultipleBlowerRules"],
     "rulesWithTests":[],
     "defaultRecordData":{"bankBalance":0, "trophyHall":[]},
+    "sender":"EA_<app>",
+    "dbname":"EARecords",
+    "admindbname":"Proc4",
     "lscolname":"Messages",
     "listeners":[
 	{
@@ -47,7 +51,7 @@
 	    }
 	},
 	{
-	    "name":"ppLS<app>",
+	    "name":"ppLS.<app>",
 	    "type":"TableListener",
 	    "messages":["Coins Earned","Coins Spent", "LS Watched"],
 	    "fields":{
@@ -84,7 +88,9 @@
 	}
     ],
     "SRResetComment":"Set to false, so we don't accidentally overwrite trophy info.", 
-    "SRReset":false,
+    "SRReset":true,
+    "listenerReset":"ALL",
+    "clearStudentRecords":true,
     "EIEngine":{
         "waittime":0.25
     },
@@ -93,10 +99,15 @@
         "doRemove":false,
         "remove":{},
 	"importFile":"",
+        "doPurge":false,
+        "purge":[{"verb":"nudged","object":"game object"},
+                 {"verb":"initialized","object":"game object"},
+                 {"verb":"snapshot","object":"game object"}],
         "ReprocessComment":"Records matching query are set processed<-true",
         "doReprocess":true,
         "reprocess":{}
     },
     "extensions":"",
-    "limitNN":"Inf"
+    "limitComment":"Use ALL to rerun all, Inf for server mode.",
+    "limitNN":"ALL"
   }
