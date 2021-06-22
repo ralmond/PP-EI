@@ -38,7 +38,23 @@
         "ruleType": "Status",
         "priority": 4,
         "conditions": {
-            "event.object": { "?in": ["formula", "glossary", "definition"] }
+            "event.object": { "?in": ["formula", "glossary", "definition", "hvideo"] }
+        },
+        "predicate": {
+            "!set": { "state.flags.learningSupportType": "event.object" },
+            "!start": "state.timers.LS_duration"
+        }
+    },
+    {
+        "name": "Record and write out the physic animations",
+        "doc": "Listing the four types of Phys_anim to capture their init and duration.",
+        "verb": "initialized",
+        "object": "ANY",
+        "context": "ALL",
+        "ruleType": "Status",
+        "priority": 4,
+        "conditions": {
+            "event.object": { "?in": ["physAnim_lever", "physAnim_springboard", "physAnim_ramp", "physAnim_pendulum"] }
         },
         "predicate": {
             "!set": { "state.flags.learningSupportType": "event.object" },
