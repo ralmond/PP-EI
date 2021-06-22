@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Reset Learning Support Timer",
         "doc": "At the start of the level, reset learning support timer.",
         "verb": "initialized",
@@ -8,11 +7,11 @@
         "ruleType": "Reset",
         "priority": 4,
         "conditions": {
-            "state.context":{"?ne":"state.oldContext"}
+            "state.context": { "?ne": "state.oldContext" }
         },
         "predicate": {
-            "!reset" :"state.timers.LS_duration"
-        } 
+            "!reset": "state.timers.LS_duration"
+        }
     },
     {
         "name": "Learning Support Clicked and Timer Started",
@@ -23,12 +22,12 @@
         "ruleType": "Status",
         "priority": 4,
         "conditions": {
-            "event.data.learningSupportType":{"?ne":"helpBClicked"}
+            "event.data.learningSupportType": { "?ne": "helpBClicked" }
         },
         "predicate": {
-            "!set": {"state.flags.learningSupportType":"event.data.learningSupportType"},
-            "!start" :"state.timers.LS_duration"
-        } 
+            "!set": { "state.flags.learningSupportType": "event.data.learningSupportType" },
+            "!start": "state.timers.LS_duration"
+        }
     },
     {
         "name": "Learning Support Event Started with money and Timer Started",
@@ -39,12 +38,12 @@
         "ruleType": "Status",
         "priority": 4,
         "conditions": {
-            "event.object":{"?in":["formula", "glossary", "definition", "hvideo"]}
-	},
+            "event.object": { "?in": ["formula", "glossary", "definition"] }
+        },
         "predicate": {
-            "!set": {"state.flags.learningSupportType":"event.object"},
-            "!start" :"state.timers.LS_duration"
-        } 
+            "!set": { "state.flags.learningSupportType": "event.object" },
+            "!start": "state.timers.LS_duration"
+        }
     },
     {
         "name": "Learning Support Stop Time",
@@ -54,11 +53,10 @@
         "context": "ALL",
         "ruleType": "Status",
         "priority": 4,
-        "conditions": {
-        },
+        "conditions": {},
         "predicate": {
-            "!set":{"state.timers.LS_duration.running":false}
-        } 
+            "!set": { "state.timers.LS_duration.running": false }
+        }
     },
     {
         "name": "Learning Support Record Time",
@@ -69,14 +67,14 @@
         "ruleType": "Observable",
         "priority": 4,
         "conditions": {
-            "event.data.learningSupportType":{"?ne":"allLearningSupports"}
+            "event.data.learningSupportType": { "?ne": "allLearningSupports" }
         },
         "predicate": {
-            "!set":{"state.observables.LS_duration":
-                    "state.timers.LS_duration",
-                    "state.observables.learningSupportType":
-                    "event.data.learningSupportType"}
-        } 
+            "!set": {
+                "state.observables.LS_duration": "state.timers.LS_duration",
+                "state.observables.learningSupportType": "event.data.learningSupportType"
+            }
+        }
     },
     {
         "name": "LS Trigger",
@@ -84,20 +82,20 @@
         "verb": "exited",
         "object": "learning support",
         "context": "ALL",
-        "ruleType": "Trigger", 
+        "ruleType": "Trigger",
         "priority": 2,
         "conditions": {
-            "event.data.learningSupportType":{"?ne":"allLearningSupports"}
+            "event.data.learningSupportType": { "?ne": "allLearningSupports" }
         },
         "predicate": {
-            "!send":{
-                "mess":"LS Watched",
-                "context":"state.oldContext",
-                "data":{
-                    "money":"state.flags.moneyEarned",
-                    "onWhat":"state.observables.learningSupportType",
-                    "LS_duration":"state.observables.LS_duration",
-                    "learningSupportType":"state.observables.learningSupportType"
+            "!send": {
+                "mess": "LS Watched",
+                "context": "state.oldContext",
+                "data": {
+                    "money": "state.flags.moneyEarned",
+                    "onWhat": "state.observables.learningSupportType",
+                    "LS_duration": "state.observables.LS_duration",
+                    "learningSupportType": "state.observables.learningSupportType"
                 }
             }
         }
