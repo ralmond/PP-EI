@@ -38,7 +38,7 @@
         "ruleType": "Status",
         "priority": 4,
         "conditions": {
-            "event.object": { "?in": ["formula", "glossary", "definition"] }
+            "event.object": { "?in": ["formula", "glossary", "definition", "hvideo"] }
         },
         "predicate": {
             "!set": { "state.flags.learningSupportType": "event.object" },
