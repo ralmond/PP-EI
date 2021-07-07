@@ -49,7 +49,7 @@
         "name": "Record and write out the physic animations",
         "doc": "Listing the four types of Phys_anim to capture their init and duration.",
         "verb": "initialized",
-        "object": "ANY",
+        "object": "learning support",
         "context": "ALL",
         "ruleType": "Status",
         "priority": 4,
