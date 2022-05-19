@@ -1,0 +1,472 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:07.497Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:07.674Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:08.062Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "10",
+      "newValue": "10",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:08.066Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:08.074Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:08.080Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "Bounciness",
+      "oldValue": "0.8",
+      "newValue": "0",
+      "method": "",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:08.090Z"
+    },
+    "verb": "initialized",
+    "object": "control panel",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:08.381Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "10",
+      "newValue": "10",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:08.384Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:08.392Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:11.557Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "10",
+      "newValue": "0.7127315",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:11.666Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0.7127315",
+      "newValue": "0.71",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:11.668Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0.71",
+      "newValue": "0.71",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:12.348Z"
+    },
+    "verb": "play",
+    "object": "params",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:12.485Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectId": "4",
+      "gemeObjectPosition": "(8.7, 1.7)",
+      "gemeObjectRotation": "3.609071",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:13.636Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectId": "2",
+      "gemeObjectPosition": "(8.8, 2.1)",
+      "gemeObjectRotation": "3.948645",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:14.154Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectId": "4",
+      "gemeObjectPosition": "(8.6, 1.7)",
+      "gemeObjectRotation": "8.291182",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:15.603Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectId": "2",
+      "gemeObjectPosition": "(8.9, 2.0)",
+      "gemeObjectRotation": "332.0797",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:15.952Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gemeObjectId": "4",
+      "gemeObjectPosition": "(8.6, 1.7)",
+      "gemeObjectRotation": "7.561123",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:45:16.144Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:46:01.497Z"
+    },
+    "verb": "initialized",
+    "object": "nextButton",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:46:05.411Z"
+    },
+    "verb": "moneyEarned",
+    "object": "silverWin",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "moneyEarned": "10",
+      "currentMoney": "480",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Air Resistance",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:46:05.533Z"
+    },
+    "verb": "satisfied",
+    "object": "achievement",
+    "data": {
+      "gameLevelId": "Air Resistance",
+      "badge": "silver",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

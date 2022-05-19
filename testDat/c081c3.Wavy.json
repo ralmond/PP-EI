@@ -1,0 +1,2756 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:44.010Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "113",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:45.096Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "113",
+      "gemeObjectLinePoints": "(-54.8, -77.4);(-48.0, -86.2);(-41.2, -93.9);(-33.0, -101.3);(-24.6, -107.4);(-15.1, -111.4);(-4.6, -113.4);(6.1, -113.0);(18.1, -109.6);(28.1, -105.5);(36.9, -100.3);(46.6, -91.6);(54.8, -83.1);(63.0, -74.4);(71.8, -65.2);(80.0, -56.5);(88.8, -47.7);(96.2, -40.4);(105.0, -31.6);(113.0, -23.9);(122.3, -15.3);(131.0, -7.0);(139.5, 1.2);(147.4, 9.8);(154.5, 18.5);(161.5, 26.9);(169.8, 36.4);(177.9, 45.2);(186.0, 54.2);(193.3, 62.3);(200.8, 70.0);(208.6, 77.4)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:45.233Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "113",
+      "gemeObjectPosition": "(11.4, 5.0)",
+      "gemeObjectRotation": "335.2222",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:46.933Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "113",
+      "gemeObjectPosition": "(11.7, 5.0)",
+      "gemeObjectRotation": "324.0765",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:47.268Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "114",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:48.733Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "113",
+      "gemeObjectPosition": "(11.7, 5.0)",
+      "gemeObjectRotation": "324.0763",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:49.336Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "114",
+      "gemeObjectLinePoints": "(-8.7, -61.5);(0.5, -55.9);(8.4, -44.6);(14.0, -30.6);(17.3, -19.0);(18.5, -8.8);(7.6, -5.1);(-4.9, -8.5);(-18.0, -18.9);(-27.5, -29.6);(-34.4, -40.4);(-38.5, -50.0);(-27.0, -53.0);(-15.6, -49.2);(-4.1, -37.8);(4.5, -23.7);(9.6, -12.0);(11.9, -1.8);(0.5, -5.3);(-6.4, -15.0);(1.1, -6.4);(-0.4, -16.9);(9.5, -6.7);(16.2, 10.1);(20.3, 28.3);(21.1, 46.3);(19.2, 58.0);(12.0, 49.4);(1.8, 35.8);(-8.8, 17.7);(-16.4, -1.2);(-20.9, -16.5);(-20.8, -27.3);(-8.4, -30.6);(7.5, -22.2);(21.0, -6.7);(30.8, 14.1);(36.6, 34.7);(38.5, 50.6);(35.2, 60.9);(24.1, 61.5);(14.6, 56.7);(8.5, 47.0);(-2.4, 39.2);(-15.3, 23.7);(-24.3, 8.8);(-30.8, -7.7);(-33.6, -19.3);(-24.0, -26.2);(-12.7, -25.9);(-1.1, -18.6);(8.3, -6.2);(13.9, 5.7);(17.3, 16.0);(23.7, 24.6);(10.7, 26.5);(-0.2, 24.5);(-10.4, 17.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:50.535Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "114",
+      "gemeObjectPosition": "(14.1, 4.8)",
+      "gemeObjectRotation": "329.6173",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:50.663Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "113",
+      "gemeObjectPosition": "(11.7, 5.0)",
+      "gemeObjectRotation": "324.0569",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:52.336Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "114",
+      "gemeObjectPosition": "(14.3, 4.6)",
+      "gemeObjectRotation": "300.1452",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:52.437Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "114",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:52.499Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "113",
+      "gemeObjectPosition": "(11.7, 5.0)",
+      "gemeObjectRotation": "324.04",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:53.616Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "113",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:56.235Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "115",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:57.340Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "115",
+      "gemeObjectLinePoints": "(-5.4, -66.7);(5.4, -66.7);(15.9, -63.1);(25.8, -56.9);(34.1, -50.4);(41.5, -42.9);(47.9, -34.0);(54.2, -25.1);(60.0, -16.1);(65.4, -7.2);(70.7, 1.8);(75.9, 10.8);(82.2, 20.2);(88.3, 29.9);(94.4, 39.2);(100.5, 48.5);(106.1, 57.6);(111.5, 66.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:57.746Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "115",
+      "gemeObjectPosition": "(10.7, 4.0)",
+      "gemeObjectRotation": "349.9332",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:59.226Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "116",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:55:59.452Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "115",
+      "gemeObjectPosition": "(10.7, 4.0)",
+      "gemeObjectRotation": "349.8843",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:01.308Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "116",
+      "gemeObjectLinePoints": "(-2.9, -14.0);(0.3, -23.6);(5.4, -13.7);(8.5, -3.0);(9.1, 7.4);(-0.1, 14.0);(-11.2, 13.6);(-26.7, -1.0);(-36.4, -14.6);(-40.2, -28.8);(-38.5, -38.8);(-25.4, -43.7);(-8.8, -39.4);(4.8, -29.6);(15.3, -14.6);(22.0, 3.7);(24.9, 20.6);(23.0, 33.6);(17.0, 42.2);(5.1, 43.7);(-4.9, 39.4);(-12.1, 30.9);(-16.4, 19.7);(-17.8, 8.2);(-15.8, -1.8);(-9.1, -9.5);(0.6, -2.5);(6.4, 7.7);(7.5, 20.2);(-3.5, 21.7);(-13.2, 14.7);(-19.5, 2.4);(-23.3, -11.0);(-22.3, -22.6);(-14.5, -30.7);(-3.9, -21.2);(2.5, -9.5);(6.0, 1.1);(-6.0, -9.7);(-13.5, -21.4);(-18.1, -33.3);(-6.4, -21.5);(1.0, -9.3);(5.4, 2.4);(-5.5, 3.9);(-14.4, -1.3);(-20.2, -10.0);(-19.7, -20.4);(-9.8, -27.4);(3.4, -25.6);(13.7, -17.8);(21.4, 1.3);(25.7, 18.0);(26.7, 29.2);(19.2, 36.7);(7.2, 34.1);(-1.2, 27.2);(-5.5, 16.8);(-10.9, 6.5);(-14.1, -4.9);(-10.8, -14.5);(-2.4, -7.1);(1.4, 2.5);(-5.5, -8.1);(0.7, -17.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:01.448Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "115",
+      "gemeObjectPosition": "(10.7, 4.0)",
+      "gemeObjectRotation": "349.8843",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:02.185Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "116",
+      "gemeObjectPosition": "(12.0, 4.8)",
+      "gemeObjectRotation": "357.6667",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:03.135Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "115",
+      "gemeObjectPosition": "(10.4, 4.4)",
+      "gemeObjectRotation": "321.3713",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:04.008Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "116",
+      "gemeObjectPosition": "(10.8, 3.7)",
+      "gemeObjectRotation": "326.4549",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:04.933Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "115",
+      "gemeObjectPosition": "(10.6, 4.0)",
+      "gemeObjectRotation": "345.16",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:05.241Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "115",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:05.386Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:05.453Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "116",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:09.002Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "118",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:10.243Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "118",
+      "gemeObjectLinePoints": "(-35.5, -95.8);(-25.5, -100.2);(-15.5, -103.3);(-5.1, -105.1);(5.2, -106.2);(15.3, -106.8);(25.4, -103.6);(35.5, -96.1);(43.9, -87.6);(51.0, -78.5);(57.6, -68.6);(64.4, -56.7);(70.4, -46.0);(76.1, -35.9);(81.5, -26.7);(87.5, -17.5);(93.9, -9.2);(100.6, -1.5);(107.4, 6.4);(115.4, 15.5);(122.7, 23.8);(130.2, 33.1);(136.7, 42.3);(142.7, 51.5);(148.6, 61.0);(154.2, 69.4);(159.9, 78.5);(166.2, 87.6);(172.7, 95.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:10.379Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "118",
+      "gemeObjectPosition": "(10.5, 4.0)",
+      "gemeObjectRotation": "32.58677",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:11.153Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "118",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:11.259Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:12.365Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "120",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:14.441Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "120",
+      "gemeObjectLinePoints": "(102.1, 98.1);(92.5, 90.1);(83.9, 81.7);(76.8, 73.9);(70.5, 65.6);(63.5, 55.8);(57.0, 46.3);(50.2, 37.0);(43.8, 28.7);(36.7, 19.2);(29.2, 8.8);(23.2, 0.5);(17.1, -8.1);(11.5, -16.8);(5.7, -26.0);(0.3, -35.2);(-5.4, -43.9);(-11.6, -53.9);(-17.3, -62.7);(-23.6, -72.4);(-28.9, -81.0);(-35.3, -89.3);(-44.4, -95.6);(-54.6, -98.1);(-65.9, -98.0);(-76.3, -96.0);(-86.2, -93.1);(-94.9, -87.8);(-102.1, -80.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:14.588Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "120",
+      "gemeObjectPosition": "(11.7, 4.6)",
+      "gemeObjectRotation": "7.423788",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:16.302Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "121",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:16.495Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "120",
+      "gemeObjectPosition": "(11.6, 4.2)",
+      "gemeObjectRotation": "335.759",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:18.200Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "120",
+      "gemeObjectPosition": "(11.6, 4.2)",
+      "gemeObjectRotation": "335.7588",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:19.246Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "121",
+      "gemeObjectLinePoints": "(-38.8, -37.9);(-31.2, -29.5);(-26.6, -18.0);(-34.7, -25.6);(-22.7, -30.9);(-10.7, -30.5);(-0.7, -25.0);(6.4, -15.8);(10.4, -4.6);(6.3, 6.1);(-4.9, 7.7);(-15.7, 3.1);(-23.7, -4.5);(-28.9, -17.1);(-26.9, -28.6);(-15.6, -36.3);(-0.9, -35.7);(14.0, -26.6);(24.9, -13.5);(32.6, 3.5);(37.3, 20.2);(36.9, 33.0);(29.8, 41.4);(17.2, 42.9);(2.4, 37.0);(-12.9, 24.6);(-25.2, 8.0);(-33.0, -7.5);(-36.1, -19.3);(-27.2, -27.9);(-17.0, -32.7);(-6.9, -32.8);(1.9, -24.0);(7.3, -15.2);(4.5, -5.4);(-8.0, 0.4);(-19.5, 0.7);(-29.2, -6.3);(-33.0, -16.6);(-26.5, -25.5);(-17.8, -30.8);(-6.2, -28.1);(4.0, -18.8);(11.3, -3.2);(15.7, 13.3);(15.9, 27.6);(10.4, 36.6);(0.4, 39.6);(-12.5, 33.8);(-26.6, 20.7);(-37.1, 7.3);(-44.1, -5.6);(-48.4, -17.3);(-42.5, -25.9);(-29.0, -30.3);(-14.5, -27.7);(0.6, -18.2);(13.2, -5.3);(21.6, 9.7);(26.7, 23.1);(27.3, 33.5);(14.9, 38.1);(1.8, 34.9);(-12.8, 21.4);(-22.8, 6.5);(-28.8, -7.3);(-29.2, -19.1);(-24.2, -28.2);(-14.4, -34.9);(-2.2, -38.9);(12.4, -37.3);(26.7, -27.5);(37.3, -12.9);(44.5, 5.1);(48.4, 20.7);(44.7, 32.9);(34.1, 38.6);(17.0, 33.6);(0.7, 22.6);(-14.7, 7.2);(-24.7, -6.0);(-30.7, -20.4);(-33.1, -31.4);(-24.2, -39.6);(-13.2, -42.9);(0.2, -37.3);(10.6, -24.7);(17.2, -12.4);(19.6, -2.2);(8.3, 4.7);(-6.5, 4.1);(-19.8, 0.1);(-30.6, -5.9);(-37.9, -13.9);(-32.6, -23.5);(-21.9, -29.2);(-8.6, -29.9);(4.1, -24.7);(14.2, -14.4);(20.2, -2.2);(22.2, 9.5);(10.2, 18.6);(-3.0, 20.4);(-16.9, 15.1);(-27.6, 7.5);(-35.3, -3.9);(-29.1, -13.9);(-17.4, -17.1);(-7.1, -10.2);(-1.8, 0.3);(-13.0, -0.6);(-20.9, -8.7);(-22.0, -18.8);(-9.5, -21.2);(1.6, -16.3);(11.0, -4.1);(17.1, 7.6);(20.4, 17.4);(8.3, 14.9);(-0.9, 10.2);(-7.3, 0.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:20.018Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "120",
+      "gemeObjectPosition": "(11.6, 4.2)",
+      "gemeObjectRotation": "335.7588",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:20.214Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "121",
+      "gemeObjectPosition": "(13.2, 5.4)",
+      "gemeObjectRotation": "0.5924509",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:20.554Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "120",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:20.799Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "Lever",
+      "gemeObjectId": "120",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:21.915Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "121",
+      "gemeObjectPosition": "(14.0, 3.7)",
+      "gemeObjectRotation": "319.6471",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:23.448Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "120",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:23.584Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:23.651Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "121",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:29.165Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "123",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:29.976Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "123",
+      "gemeObjectLinePoints": "(-69.0, -40.0);(-67.8, -57.6);(-61.8, -69.8);(-54.7, -78.6);(-46.8, -86.0);(-37.7, -91.2);(-27.0, -94.3);(-15.0, -93.4);(-5.0, -90.8);(4.6, -87.3);(14.4, -82.8);(23.9, -78.1);(33.9, -72.0);(43.6, -66.0);(52.2, -59.6);(60.9, -52.6);(69.0, -44.3);(76.6, -35.8);(83.6, -26.7);(89.8, -18.0);(96.7, -6.8);(102.0, 2.3);(107.2, 11.8);(112.8, 21.1);(119.3, 30.7);(125.2, 40.0)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:30.133Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.8, 4.5)",
+      "gemeObjectRotation": "4.19912",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:31.071Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "124",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:31.814Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.8, 4.5)",
+      "gemeObjectRotation": "4.201401",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:32.213Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "124",
+      "gemeObjectLinePoints": "(4.0, -21.1);(10.4, -11.5);(4.2, -3.3);(-6.7, -7.2);(-14.8, -15.6);(-4.5, -9.8);(2.9, -0.3);(7.3, 10.6);(12.4, 21.1);(-0.2, 14.2);(-9.3, 4.9);(-15.6, -5.5);(-19.4, -14.9);(-8.4, -14.2);(0.1, -6.6);(11.7, 0.0);(19.4, 7.6);(10.0, 2.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:32.814Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "124",
+      "gemeObjectPosition": "(12.2, 5.3)",
+      "gemeObjectRotation": "1.005593",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:33.616Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.8, 4.6)",
+      "gemeObjectRotation": "353.9643",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:34.437Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "124",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:35.433Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.8, 4.6)",
+      "gemeObjectRotation": "354.0015",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:35.580Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "125",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:37.232Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.8, 4.6)",
+      "gemeObjectRotation": "354.0078",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:37.706Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "125",
+      "gemeObjectLinePoints": "(-3.7, -26.2);(-0.1, -13.4);(2.1, -2.5);(1.8, 7.6);(-8.8, 4.1);(-19.2, -5.2);(-26.6, -14.8);(-31.8, -25.0);(-33.4, -35.1);(-23.1, -34.7);(-13.3, -26.1);(-5.9, -13.3);(-1.4, -2.1);(1.3, 7.9);(-5.9, 15.4);(-14.6, 9.2);(-5.8, 3.8);(3.0, 9.8);(-8.1, 6.2);(1.7, 12.9);(8.3, 24.0);(12.3, 34.7);(1.5, 32.8);(-7.4, 26.4);(-13.1, 15.8);(-6.9, 7.0);(3.6, 10.5);(-2.9, 2.2);(6.8, -1.9);(18.2, 9.6);(25.4, 21.7);(29.4, 34.1);(19.0, 38.0);(7.9, 34.3);(15.3, 26.5);(25.3, 28.2);(32.5, 35.7);(12.4, 26.9);(-4.8, 12.9);(-18.0, -1.6);(-27.0, -15.4);(-32.5, -28.5);(-29.0, -38.0);(-19.3, -31.7);(-13.0, -23.1);(-10.1, -12.3);(0.5, -9.9);(7.2, -1.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:38.533Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "125",
+      "gemeObjectPosition": "(12.4, 5.0)",
+      "gemeObjectRotation": "349.5966",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:39.034Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.7, 5.1)",
+      "gemeObjectRotation": "314.6825",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:40.334Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "125",
+      "gemeObjectPosition": "(10.9, 4.0)",
+      "gemeObjectRotation": "316.2712",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:40.666Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "125",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:40.829Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.5, 4.8)",
+      "gemeObjectRotation": "321.0052",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:41.770Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:42.630Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.5, 4.8)",
+      "gemeObjectRotation": "321.0052",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:42.847Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "126",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:44.227Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "126",
+      "gemeObjectLinePoints": "(-277.7, 0.0);(-266.5, -2.0);(-255.0, -4.4);(-242.9, -7.0);(-231.6, -9.8);(-221.6, -12.3);(-211.3, -14.2);(-198.2, -16.1);(-187.2, -17.3);(-176.6, -18.0);(-162.7, -18.4);(-149.5, -18.6);(-136.8, -18.8);(-124.3, -18.5);(-111.7, -17.1);(-98.9, -15.0);(-86.4, -13.4);(-74.1, -11.7);(-63.6, -10.6);(-50.4, -10.0);(-39.3, -9.6);(-26.3, -9.3);(-14.0, -10.8);(-3.1, -13.3);(7.1, -15.6);(18.4, -18.1);(28.3, -20.5);(39.9, -21.9);(50.5, -22.7);(63.2, -23.2);(74.0, -23.5);(84.1, -23.7);(95.0, -23.8);(105.1, -23.9);(117.6, -24.3);(127.9, -25.0);(141.2, -26.6);(152.1, -29.2);(165.8, -33.1);(177.2, -36.7);(188.0, -40.0);(198.9, -42.8);(209.9, -45.3);(220.4, -47.2);(232.4, -48.7);(244.8, -49.6);(255.8, -50.2);(266.0, -48.5);(273.3, -41.5);(277.7, -31.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:44.348Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.5, 4.1)",
+      "gemeObjectRotation": "5.423541",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:44.549Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.5, 4.9)",
+      "gemeObjectRotation": "322.4751",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:46.015Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:46.146Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "5.970922",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:46.332Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.5, 4.9)",
+      "gemeObjectRotation": "319.3648",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:47.250Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:47.515Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:47.848Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "5.970917",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:48.032Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.5, 4.9)",
+      "gemeObjectRotation": "319.3679",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:48.219Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:48.348Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:48.733Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:48.913Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:49.099Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:49.264Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:49.630Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "5.970933",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:49.831Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "123",
+      "gemeObjectPosition": "(10.5, 4.9)",
+      "gemeObjectRotation": "319.3707",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:51.237Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "123",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:51.432Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "5.970934",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:52.447Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:52.780Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:52.964Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:53.213Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "5.970917",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:55.015Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:55.129Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "5.970922",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:55.346Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:55.530Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:55.714Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:56.565Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "127",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:56.830Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "5.970922",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:57.886Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "127",
+      "gemeObjectLinePoints": "(-140.7, -7.3);(-136.7, -18.5);(-131.9, -27.6);(-123.0, -35.1);(-112.9, -39.6);(-101.2, -42.3);(-89.0, -42.7);(-78.5, -42.6);(-67.4, -41.7);(-55.1, -39.9);(-43.4, -36.9);(-31.1, -32.3);(-21.3, -28.3);(-9.1, -22.3);(1.1, -17.1);(10.7, -12.0);(22.6, -6.1);(34.9, -1.0);(45.8, 2.5);(58.0, 4.9);(69.7, 6.4);(80.3, 7.3);(91.9, 7.1);(103.3, 4.5);(113.7, 0.6);(140.7, -4.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:58.060Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "127",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:58.791Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "6.99831",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:56:59.622Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "128",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:00.623Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "128",
+      "gemeObjectLinePoints": "(-48.8, -27.8);(-38.4, -31.8);(-27.8, -35.0);(-16.6, -37.3);(-6.3, -38.7);(3.9, -39.5);(14.0, -40.0);(24.1, -38.3);(36.5, -34.9);(48.8, -30.4);(58.6, -26.6);(68.8, -22.7);(79.4, -18.7);(90.5, -14.7);(100.4, -10.7);(110.7, -6.4);(120.1, -2.1);(129.7, 1.6);(139.9, 5.5);(150.4, 9.4);(161.1, 13.7);(172.4, 18.3);(182.7, 22.3);(194.1, 25.5);(204.5, 27.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:00.715Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "7.022549",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:00.801Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.2, 4.7)",
+      "gemeObjectRotation": "350.1371",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:02.408Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "7.022554",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:02.548Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.1, 4.6)",
+      "gemeObjectRotation": "353.5691",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:03.027Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "129",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:03.355Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "129",
+      "gemeObjectLinePoints": "(15.2, -9.9);(11.6, 1.7);(4.6, 9.1);(-6.8, 9.9);(-15.2, 3.6);(-8.6, -5.4);(1.3, -8.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:04.119Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "129",
+      "gemeObjectPosition": "(13.7, 4.8)",
+      "gemeObjectRotation": "31.18475",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:04.337Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "126",
+      "gemeObjectPosition": "(13.7, 4.1)",
+      "gemeObjectRotation": "7.022549",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:04.341Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.2, 4.7)",
+      "gemeObjectRotation": "344.0187",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:05.924Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "129",
+      "gemeObjectPosition": "(13.4, 4.3)",
+      "gemeObjectRotation": "30.89096",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:06.120Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "126",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:06.264Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.3, 4.9)",
+      "gemeObjectRotation": "335.6956",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:06.850Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "129",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:07.932Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.2, 4.7)",
+      "gemeObjectRotation": "347.8315",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:08.097Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameObjectId": "130",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:09.285Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "130",
+      "gemeObjectLinePoints": "(-200.5, 0.0);(-195.7, -10.4);(-189.6, -19.4);(-181.9, -26.9);(-173.0, -32.5);(-162.8, -36.3);(-152.3, -38.6);(-141.5, -40.0);(-128.7, -40.8);(-117.0, -41.3);(-106.8, -41.6);(-94.3, -41.3);(-83.6, -41.2);(-71.1, -41.1);(-60.9, -40.7);(-49.9, -40.4);(-38.9, -40.2);(-26.8, -40.1);(-16.6, -40.1);(-4.2, -40.5);(6.5, -41.1);(16.9, -42.6);(29.2, -44.8);(39.3, -47.3);(50.2, -50.0);(61.5, -53.2);(72.3, -56.7);(82.4, -60.8);(92.5, -66.5);(102.1, -72.3);(111.9, -77.4);(122.5, -81.6);(133.3, -84.2);(144.6, -86.5);(157.0, -88.3);(167.2, -90.2);(179.7, -92.1);(190.4, -94.5);(200.5, -96.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:09.416Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "130",
+      "gemeObjectPosition": "(14.6, 5.0)",
+      "gemeObjectRotation": "359.357",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:09.733Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.4, 5.0)",
+      "gemeObjectRotation": "329.9579",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:11.130Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "130",
+      "gemeObjectPosition": "(14.7, 5.0)",
+      "gemeObjectRotation": "4.90353",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:11.553Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.3, 4.9)",
+      "gemeObjectRotation": "336.515",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:12.932Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "130",
+      "gemeObjectPosition": "(14.7, 5.0)",
+      "gemeObjectRotation": "4.90559",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:13.330Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.3, 4.9)",
+      "gemeObjectRotation": "336.504",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:14.716Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "130",
+      "gemeObjectPosition": "(14.7, 5.0)",
+      "gemeObjectRotation": "4.911995",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:15.134Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.3, 4.9)",
+      "gemeObjectRotation": "336.4704",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:15.549Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:15.728Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:16.566Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "130",
+      "gemeObjectPosition": "(14.7, 5.0)",
+      "gemeObjectRotation": "4.911423",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:16.664Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:16.897Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:17.016Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.3, 4.9)",
+      "gemeObjectRotation": "336.481",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:17.830Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:18.033Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:18.340Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "130",
+      "gemeObjectPosition": "(14.7, 5.0)",
+      "gemeObjectRotation": "4.911037",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:18.715Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gemeObjectId": "128",
+      "gemeObjectPosition": "(11.3, 4.9)",
+      "gemeObjectRotation": "336.4859",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:57:19.948Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Wavy",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:58:00.066Z"
+    },
+    "verb": "satisfied",
+    "object": "achievement",
+    "data": {
+      "gameLevelId": "Wavy",
+      "badge": "silver",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Wavy",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:58:00.529Z"
+    },
+    "verb": "moneyEarned",
+    "object": "silverWin",
+    "data": {
+      "gameLevelId": "Wavy",
+      "moneyEarned": "10",
+      "currentMoney": "590",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

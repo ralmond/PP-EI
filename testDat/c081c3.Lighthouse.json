@@ -1,0 +1,2349 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:43.439Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:43.701Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:44.016Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:44.149Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "Bounciness",
+      "oldValue": "0.8",
+      "newValue": "0",
+      "method": "",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:44.152Z"
+    },
+    "verb": "initialized",
+    "object": "control panel",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:44.157Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:44.160Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:44.180Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:44.225Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:01.234Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "Bounciness",
+      "oldValue": "0",
+      "newValue": "0.8",
+      "method": "",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.374Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.407551",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.477Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.407551",
+      "newValue": "0.41",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.515Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.41",
+      "newValue": "0.41",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.646Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.87",
+      "newValue": "3.483055",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.655Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.87",
+      "newValue": "2.87",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.657Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.41",
+      "newValue": "2.867951",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.664Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.483055",
+      "newValue": "3.48",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.677Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.48",
+      "newValue": "3.48",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.726Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.867951",
+      "newValue": "2.87",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.970Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.56",
+      "newValue": "4.56",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.978Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.48",
+      "newValue": "4.559477",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.981Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.559477",
+      "newValue": "4.56",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.991Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.328353",
+      "newValue": "5.33",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:04.993Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.56",
+      "newValue": "5.328353",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:05.370Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.33",
+      "newValue": "5.635905",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:05.378Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.64",
+      "newValue": "6.251005",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:05.385Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.33",
+      "newValue": "5.33",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:05.396Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.64",
+      "newValue": "5.64",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:05.398Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.635905",
+      "newValue": "5.64",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:05.465Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.251005",
+      "newValue": "6.25",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:05.998Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.25",
+      "newValue": "6.712328",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.010Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.71",
+      "newValue": "7.01988",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.016Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.01988",
+      "newValue": "7.02",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.018Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.712328",
+      "newValue": "6.71",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.021Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.71",
+      "newValue": "6.71",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.023Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.25",
+      "newValue": "6.25",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.394Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.481205",
+      "newValue": "7.48",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.402Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.02",
+      "newValue": "7.327427",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.406Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.33",
+      "newValue": "7.481205",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.409Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.33",
+      "newValue": "7.33",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.412Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.327427",
+      "newValue": "7.33",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.415Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.02",
+      "newValue": "7.02",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.806Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.94",
+      "newValue": "4.098155",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.810Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.48",
+      "newValue": "7.48",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.813Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.94",
+      "newValue": "5.94",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.817Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.098155",
+      "newValue": "4.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.820Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "5.943452",
+      "newValue": "5.94",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:06.821Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.48",
+      "newValue": "5.943452",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.214Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.48",
+      "newValue": "1.48",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.217Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.222Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.48",
+      "newValue": "0.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.228Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.1",
+      "newValue": "4.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.232Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.483975",
+      "newValue": "1.48",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.235Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.1",
+      "newValue": "1.483975",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.550Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.182425",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.733Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.18",
+      "newValue": "9.18",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.758Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.18",
+      "newValue": "8.564862",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.761Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.182425",
+      "newValue": "9.18",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.766Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.56",
+      "newValue": "8.56",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.772Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.564862",
+      "newValue": "8.56",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:07.781Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.56",
+      "newValue": "7.947287",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.037Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.638501",
+      "newValue": "7.64",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.045Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.95",
+      "newValue": "7.95",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.050Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.33",
+      "newValue": "7.020934",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.052Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.947287",
+      "newValue": "7.95",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.053Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.95",
+      "newValue": "7.638501",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.054Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.64",
+      "newValue": "7.64",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.442Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.33",
+      "newValue": "7.33",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.450Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.020934",
+      "newValue": "7.02",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.454Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.329722",
+      "newValue": "7.33",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.460Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.02",
+      "newValue": "7.02",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.462Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.02",
+      "newValue": "5.477006",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.467Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.64",
+      "newValue": "7.329722",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.865Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.48",
+      "newValue": "3.933078",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.873Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.933078",
+      "newValue": "3.93",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.877Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.93",
+      "newValue": "3.93",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.881Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.477006",
+      "newValue": "5.48",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.885Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.48",
+      "newValue": "5.48",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:08.892Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.93",
+      "newValue": "2.697939",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.137Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.697939",
+      "newValue": "2.7",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.142Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.7",
+      "newValue": "2.7",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.148Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.7",
+      "newValue": "1.771578",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.153Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.77",
+      "newValue": "1.77",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.156Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.77",
+      "newValue": "1.154011",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.160Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.771578",
+      "newValue": "1.77",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.462Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.15",
+      "newValue": "1.15",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.474Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.85",
+      "newValue": "0.5364391",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.478Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.154011",
+      "newValue": "1.15",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.482Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.15",
+      "newValue": "0.845228",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.483Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.845228",
+      "newValue": "0.85",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.486Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.85",
+      "newValue": "0.85",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.878Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.5364391",
+      "newValue": "0.54",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.880Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.23",
+      "newValue": "0.23",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.884Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.2276502",
+      "newValue": "0.23",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.889Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.23",
+      "newValue": "0",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.895Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.54",
+      "newValue": "0.54",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:09.898Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0.54",
+      "newValue": "0.2276502",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:10.212Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:11.132Z"
+    },
+    "verb": "play",
+    "object": "params",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:11.807Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:11.985Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:12.148Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:12.318Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:12.467Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:12.623Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:12.802Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:12.949Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:13.137Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:13.280Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:13.453Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gemeObjectType": "puffer",
+      "position": "(668.7, 377.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:49:16.302Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:51:13.541Z"
+    },
+    "verb": "satisfied",
+    "object": "achievement",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "badge": "gold",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Lighthouse",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:51:13.792Z"
+    },
+    "verb": "moneyEarned",
+    "object": "goldWin",
+    "data": {
+      "gameLevelId": "Lighthouse",
+      "moneyEarned": "20",
+      "currentMoney": "530",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+        {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

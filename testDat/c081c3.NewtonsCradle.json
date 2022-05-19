@@ -1,0 +1,5420 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:07:55.586Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:07:56.854Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.333727",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:07:56.861Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.123765",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:00.398Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.113629",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:00.477Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.299092",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:02.847Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "10",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:04.214Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.13139",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:04.274Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.310462",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:08.001Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.100746",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:08.063Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.27533",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:16.457Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "11",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:17.458Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "11",
+      "gemeObjectLinePoints": "",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:18.109Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "12",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:19.142Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "11",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:19.700Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "12",
+      "gemeObjectLinePoints": "",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:21.494Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "12",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:21.618Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "13",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:25.568Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:33.388Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "14",
+      "gemeObjectLinePoints": "(78.9, 143.6);(77.3, 131.2);(73.5, 111.8);(70.1, 94.5);(67.6, 78.6);(65.7, 65.4);(64.2, 55.1);(62.9, 44.9);(61.7, 34.8);(60.6, 23.1);(59.9, 12.9);(58.7, 1.2);(58.0, -11.0);(57.2, -22.0);(56.3, -32.9);(55.3, -43.5);(53.9, -55.5);(52.3, -69.0);(51.0, -80.8);(49.3, -92.6);(47.6, -105.3);(46.5, -115.3);(34.7, -114.2);(24.8, -109.9);(17.6, -101.7);(17.7, -91.2);(26.6, -83.6);(37.5, -79.1);(48.1, -82.8);(54.4, -92.3);(55.0, -103.5);(53.0, -113.9);(46.9, -123.3);(36.5, -130.5);(23.9, -134.9);(5.9, -132.3);(-16.1, -121.9);(-35.7, -107.7);(-53.1, -90.4);(-65.5, -75.2);(-73.3, -61.7);(-78.0, -50.4);(-73.7, -40.4);(-62.2, -34.4);(-47.4, -33.2);(-31.7, -36.5);(-17.8, -43.6);(-7.9, -53.9);(-1.6, -66.9);(1.0, -80.7);(-1.8, -94.2);(-9.9, -105.9);(-23.6, -115.7);(-37.0, -122.0);(-50.6, -124.5);(-65.6, -117.7);(-77.8, -103.2);(-85.1, -85.6);(-89.5, -66.3);(-89.7, -50.4);(-87.1, -38.0);(-82.3, -28.9);(-70.6, -29.5);(-61.6, -34.7);(-55.4, -47.4);(-51.7, -58.2);(-52.2, -69.1);(-48.2, -58.8);(-38.6, -51.0);(-23.2, -46.0);(-5.5, -42.9);(9.0, -42.3);(21.0, -44.3);(31.4, -52.8);(37.6, -61.0);(34.5, -74.0);(29.5, -83.7);(19.2, -91.2);(8.7, -93.3);(1.6, -84.9);(-0.7, -74.7);(5.5, -63.0);(15.3, -55.5);(26.7, -51.1);(40.0, -53.6);(51.2, -60.7);(58.7, -71.0);(63.2, -83.1);(64.7, -94.8);(61.2, -106.3);(53.1, -115.1);(42.2, -117.6);(32.5, -114.7);(24.2, -107.4);(18.9, -95.8);(15.7, -81.6);(15.8, -68.3);(19.0, -56.8);(26.2, -47.4);(36.1, -43.0);(47.2, -48.8);(54.7, -57.4);(59.2, -68.2);(59.1, -81.1);(56.2, -92.0);(46.1, -101.8);(35.2, -108.0);(22.7, -110.6);(9.6, -108.1);(-3.1, -100.2);(-13.5, -88.3);(-20.1, -72.3);(-22.1, -55.5);(-18.5, -40.3);(-11.1, -28.3);(-1.9, -20.7);(7.6, -17.0);(17.7, -19.2);(26.6, -26.8);(32.7, -39.5);(36.8, -54.6);(38.8, -69.7);(37.7, -83.6);(34.2, -94.7);(28.1, -103.8);(19.6, -110.4);(7.3, -114.8);(-4.0, -115.4);(-14.5, -111.8);(-22.3, -104.4);(-27.8, -94.8);(-31.1, -83.4);(-28.3, -71.0);(-17.4, -58.0);(-2.9, -49.3);(15.0, -44.2);(33.4, -43.0);(49.6, -46.8);(62.1, -55.4);(70.4, -67.8);(75.4, -82.4);(76.8, -96.8);(74.8, -109.8);(69.7, -121.3);(62.6, -129.7);(53.9, -135.2);(44.3, -138.5);(34.1, -137.2);(25.6, -130.9);(19.7, -115.1);(16.6, -94.8);(21.1, -72.2);(27.0, -55.5);(33.4, -43.5);(40.4, -35.8);(50.6, -35.7);(59.5, -40.7);(66.1, -48.6);(70.0, -59.3);(70.0, -71.3);(64.7, -84.2);(55.6, -95.5);(44.1, -104.2);(30.4, -109.9);(15.8, -112.9);(0.7, -109.1);(-13.2, -100.4);(-24.0, -86.4);(-30.4, -69.6);(-32.3, -51.9);(-27.8, -35.7);(-19.5, -23.2);(-7.8, -15.3);(4.5, -10.5);(18.3, -13.3);(31.3, -22.5);(41.6, -35.7);(48.1, -55.2);(51.2, -72.0);(51.1, -85.0);(47.0, -96.3);(40.2, -104.4);(31.3, -109.2);(20.3, -112.1);(9.4, -111.4);(-1.2, -104.2);(-7.6, -95.5);(-5.4, -83.4);(1.5, -74.6);(10.9, -68.9);(20.9, -65.5);(31.3, -67.9);(40.7, -76.1);(47.6, -88.2);(51.7, -101.5);(54.2, -113.8);(52.9, -125.3);(46.5, -134.9);(33.9, -141.1);(16.7, -143.6);(1.2, -140.7);(-10.9, -133.8);(-18.6, -123.2);(-22.8, -110.9);(-20.5, -97.9);(-12.0, -85.7);(0.4, -76.8);(12.6, -71.0);(23.9, -67.6);(34.7, -67.1);(22.0, -69.2);(10.8, -65.7);(3.2, -56.8);(10.7, -47.8);(22.0, -57.2);(29.1, -68.9);(33.4, -78.7);(33.6, -89.0);(23.3, -94.3);(13.2, -87.6);(7.1, -72.3);(6.2, -57.1);(13.7, -40.4);(24.6, -26.4);(37.1, -16.4);(49.8, -10.4);(63.9, -11.6);(74.7, -17.5);(82.4, -27.5);(87.0, -39.4);(89.7, -50.2);(87.4, -63.1);(79.2, -72.4);(68.3, -78.0);(55.3, -80.6);(43.6, -80.1);(31.3, -76.2);(22.3, -70.3);(17.0, -59.5);(20.9, -48.3);(30.9, -40.7);(42.9, -41.8);(51.7, -53.2);(57.0, -65.7);(59.8, -76.8);(59.0, -87.8);(55.4, -97.6);(46.8, -104.7);(36.0, -103.0);(28.0, -96.0);(23.1, -84.9);(20.2, -74.3);(21.7, -62.7);(31.8, -58.6);(41.4, -63.7);(48.0, -74.0);(52.0, -83.7);(54.3, -94.0);(53.4, -104.6);(47.6, -112.9);(37.3, -106.7);(30.3, -96.6);(26.2, -83.7);(24.5, -70.0);(26.2, -57.3);(30.1, -47.4);(38.8, -39.4);(48.1, -34.6);(60.4, -37.3);(70.6, -42.9);(77.5, -50.3);(82.1, -60.7);(84.8, -71.0);(82.8, -83.6);(78.9, -94.3);(70.9, -102.3);(59.7, -98.8);(52.6, -87.0);(49.9, -76.0);(52.7, -64.9);(60.4, -57.1);(71.8, -60.0);(79.8, -72.2);(84.7, -84.7);(86.4, -96.9);(85.4, -108.7);(81.2, -120.2);(75.1, -129.1);(65.0, -130.4);(56.2, -124.0);(48.9, -112.1);(44.1, -96.6);(41.2, -82.9);(39.5, -69.5);(39.7, -59.1)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:33.423Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.298597",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:33.458Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.080353",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:33.481Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.9, 5.3)",
+      "gemeObjectRotation": "1.718764",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:33.536Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.1, 5.4)",
+      "gemeObjectRotation": "0.7109384",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:34.243Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:34.515Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:34.774Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "15",
+      "gemeObjectLinePoints": "(0.0, -6.2);(-70.8, -5.4);(-133.3, -1.3);(-178.8, 3.1);(-208.9, 6.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:35.226Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.99434",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:36.239Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:38.928Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.660044",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:39.074Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.89026",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:42.448Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "2.69461",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:42.533Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.964498",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:42.654Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "16",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:46.049Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "2.827199",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:46.162Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "5.106909",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:49.666Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "2.720748",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:08:49.774Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.999888",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:51.216Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:52.725Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.123763",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:52.875Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.333745",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:55.912Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "10",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:56.317Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.113629",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:56.416Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.299094",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:57.122Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "11",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:00.045Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.112008",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:00.149Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.289853",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:05.590Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.132488",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:05.659Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.32377",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:12.519Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "10",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:15.050Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "10",
+      "gemeObjectLinePoints": "(141.5, 92.9);(132.7, 88.9);(122.2, 84.1);(110.7, 78.8);(101.0, 74.4);(92.0, 70.6);(82.6, 65.5);(70.1, 57.6);(58.3, 49.3);(48.4, 42.3);(39.6, 35.7);(31.2, 28.6);(23.7, 21.1);(15.6, 13.0);(7.6, 4.9);(0.7, -1.9);(-7.0, -9.6);(-14.0, -16.2);(-21.4, -23.0);(-29.1, -30.2);(-36.0, -37.0);(-43.0, -43.9);(-49.6, -52.0);(-54.0, -61.2);(-55.8, -70.8);(-46.9, -79.3);(-36.3, -83.7);(-24.8, -83.5);(-13.5, -79.3);(-3.1, -72.5);(4.7, -62.7);(9.8, -51.7);(12.5, -39.1);(9.3, -25.9);(1.0, -13.6);(-13.6, -3.4);(-32.0, 3.1);(-53.0, 7.0);(-73.2, 7.3);(-91.3, 3.5);(-106.6, -3.1);(-118.6, -11.9);(-127.8, -22.0);(-134.1, -33.7);(-137.8, -46.7);(-140.1, -59.7);(-141.5, -71.5);(-141.1, -83.3);(-138.9, -92.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:16.729Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "10",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:18.171Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "11",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:18.971Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "12",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:23.393Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "12",
+      "gemeObjectLinePoints": "(171.3, -75.1);(159.3, -65.1);(144.5, -53.5);(127.6, -40.2);(109.0, -26.1);(91.1, -12.1);(75.2, 0.3);(62.4, 10.1);(51.9, 18.4);(43.3, 25.4);(35.3, 32.0);(26.5, 39.2);(18.8, 45.4);(11.4, 52.0);(3.7, 58.8);(-3.7, 65.6);(-12.9, 69.7);(-22.4, 71.8);(-33.0, 71.8);(-45.3, 70.2);(-55.9, 68.1);(-65.4, 65.2);(-76.7, 57.9);(-85.9, 47.1);(-91.5, 38.2);(-94.8, 28.9);(-86.4, 24.1);(-75.7, 27.2);(-68.1, 34.7);(-63.6, 44.4);(-63.2, 54.2);(-72.6, 62.1);(-83.1, 64.8);(-98.5, 57.6);(-111.4, 48.1);(-121.6, 36.4);(-128.0, 23.8);(-131.9, 11.8);(-131.0, 1.1);(-125.3, -7.4);(-114.7, -13.3);(-98.3, -16.8);(-79.3, -14.5);(-61.1, -8.4);(-46.1, -0.3);(-34.4, 9.4);(-26.1, 19.6);(-21.2, 29.3);(-22.2, 41.1);(-30.0, 50.2);(-45.5, 55.7);(-68.0, 58.6);(-86.3, 58.7);(-103.3, 56.0);(-118.7, 50.3);(-129.1, 42.2);(-135.4, 32.4);(-136.3, 21.0);(-131.3, 9.4);(-119.9, -1.6);(-103.8, -9.4);(-85.8, -14.1);(-67.4, -14.5);(-50.7, -10.0);(-37.5, -2.4);(-28.4, 8.1);(-22.9, 21.2);(-22.5, 35.1);(-27.4, 48.2);(-37.1, 59.7);(-50.6, 67.8);(-67.4, 72.6);(-84.0, 75.1);(-99.1, 73.0);(-111.3, 67.0);(-119.9, 56.9);(-125.0, 44.1);(-127.7, 31.2);(-126.1, 19.5);(-119.2, 9.6);(-103.0, 4.5);(-86.5, 5.5);(-70.6, 11.2);(-58.3, 18.3);(-48.1, 28.5);(-41.5, 38.3);(-38.8, 47.7);(-45.6, 57.0);(-62.1, 63.7);(-87.1, 67.8);(-111.4, 67.4);(-131.1, 64.0);(-147.8, 58.4);(-160.2, 50.6);(-167.6, 42.3);(-171.3, 33.3);(-169.1, 23.6);(-162.1, 14.9);(-152.0, 8.5);(-134.7, 4.6);(-117.1, 4.7);(-100.2, 9.2);(-87.6, 14.7);(-77.7, 22.8);(-71.3, 31.2);(-72.7, 41.1);(-83.1, 48.6);(-92.6, 53.1);(-102.2, 53.8);(-109.2, 46.2);(-101.4, 37.7);(-90.4, 35.0);(-80.5, 36.1);(-70.6, 41.6);(-76.7, 50.9);(-86.7, 56.5);(-96.3, 59.1);(-106.5, 54.6);(-105.8, 41.9);(-99.4, 31.9);(-90.3, 24.7);(-80.1, 20.0);(-69.6, 17.5);(-59.6, 18.9);(-50.9, 24.5);(-44.8, 34.6);(-46.0, 45.1);(-54.7, 51.8);(-64.7, 54.3);(-75.1, 50.9);(-83.8, 43.7);(-90.2, 33.8);(-94.0, 24.2);(-94.7, 12.5);(-87.1, 3.4);(-71.8, -1.6);(-55.8, 0.2);(-38.2, 7.3);(-23.2, 17.1);(-13.0, 27.8);(-6.9, 37.8);(-10.0, 47.5);(-25.5, 54.4);(-51.6, 58.6);(-76.9, 58.7);(-98.4, 56.0);(-115.7, 50.7);(-128.1, 44.0);(-135.6, 37.2);(-131.2, 27.0);(-121.0, 19.0);(-106.1, 13.3);(-90.8, 10.0);(-77.6, 9.1);(-66.4, 11.4);(-57.8, 16.0);(-60.6, 26.8);(-73.0, 33.6);(-91.7, 37.7);(-111.7, 37.4);(-130.1, 34.4);(-144.4, 29.8);(-153.7, 24.2);(-153.7, 14.5);(-143.3, 7.4);(-131.9, 4.0);(-121.4, 4.4);(-112.0, 7.4);(-104.7, 14.8);(-106.7, 24.4)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:23.899Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.5, 7.2)",
+      "gemeObjectRotation": "23.3848",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.014Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.5, 6.7)",
+      "gemeObjectRotation": "34.53104",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.082Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.5, 7.1)",
+      "gemeObjectRotation": "25.09799",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.161Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.5, 6.8)",
+      "gemeObjectRotation": "32.52919",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.165Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.5, 6.9)",
+      "gemeObjectRotation": "28.69807",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.168Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.5, 7.0)",
+      "gemeObjectRotation": "26.86909",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.209Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.5, 6.9)",
+      "gemeObjectRotation": "30.58483",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.210Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.6, 6.5)",
+      "gemeObjectRotation": "38.70626",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.333Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.7, 6.2)",
+      "gemeObjectRotation": "45.39508",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.342Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.6, 6.4)",
+      "gemeObjectRotation": "40.87922",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.348Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.7, 6.3)",
+      "gemeObjectRotation": "43.10883",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.352Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.6, 6.6)",
+      "gemeObjectRotation": "36.59013",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.365Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.8, 6.2)",
+      "gemeObjectRotation": "47.73819",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.366Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.8, 6.1)",
+      "gemeObjectRotation": "50.1392",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.494Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.9, 6.0)",
+      "gemeObjectRotation": "52.60107",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.495Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(7.9, 5.9)",
+      "gemeObjectRotation": "55.13464",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.501Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(8.1, 5.7)",
+      "gemeObjectRotation": "60.30927",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.564Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "3.168855",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.689Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(9.7, 4.7)",
+      "gemeObjectRotation": "103.5453",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.695Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(9.7, 4.7)",
+      "gemeObjectRotation": "103.5453",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.772Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "3.616297",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.776Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.1, 5.4)",
+      "gemeObjectRotation": "1.595893",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.783Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.2, 5.4)",
+      "gemeObjectRotation": "8.385523",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.869Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.3, 5.4)",
+      "gemeObjectRotation": "7.416887",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.881Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.4, 5.4)",
+      "gemeObjectRotation": "10.37223",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.890Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.4, 5.4)",
+      "gemeObjectRotation": "8.878126",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:24.933Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.5, 5.5)",
+      "gemeObjectRotation": "11.85269",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:25.062Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "7",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:25.246Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "12",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:25.379Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "Lever",
+      "gemeObjectId": "7",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:26.492Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.4, 5.4)",
+      "gemeObjectRotation": "13.78803",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:26.579Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(10.2, 4.6)",
+      "gemeObjectRotation": "113.1027",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:26.761Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.6, 5.5)",
+      "gemeObjectRotation": "1.897831",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:26.803Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.0, 5.4)",
+      "gemeObjectRotation": "358.6905",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:28.357Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.8, 5.4)",
+      "gemeObjectRotation": "357.204",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:28.459Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(9.5, 4.7)",
+      "gemeObjectRotation": "97.77365",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:28.802Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.2, 5.6)",
+      "gemeObjectRotation": "19.4592",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:29.482Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(15.2, 5.8)",
+      "gemeObjectRotation": "36.88002",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:30.329Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.4, 5.4)",
+      "gemeObjectRotation": "14.36338",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:30.446Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(10.2, 4.6)",
+      "gemeObjectRotation": "113.6081",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:30.564Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "13",
+      "gemeObjectParent": "3",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:30.711Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.7, 5.8)",
+      "gemeObjectRotation": "36.73074",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:31.283Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:31.425Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(15.2, 5.8)",
+      "gemeObjectRotation": "36.00449",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:32.133Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.9, 5.4)",
+      "gemeObjectRotation": "358.4923",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:32.243Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(9.5, 4.7)",
+      "gemeObjectRotation": "98.9892",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:32.412Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.7, 5.8)",
+      "gemeObjectRotation": "36.75206",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:33.117Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(15.2, 5.8)",
+      "gemeObjectRotation": "36.0284",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:33.960Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "12",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:34.456Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.7, 5.8)",
+      "gemeObjectRotation": "36.76391",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:34.738Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "14",
+      "gemeObjectLinePoints": "(157.3, -66.9);(147.3, -62.1);(134.1, -54.8);(118.6, -46.5);(102.5, -37.8);(87.2, -29.5);(75.2, -23.2);(64.1, -17.1);(53.8, -11.0);(41.6, -3.4);(30.3, 3.2);(20.3, 8.8);(11.5, 13.7);(1.8, 18.6);(-6.8, 23.2);(-16.4, 27.6);(-26.9, 31.8);(-36.8, 35.5);(-48.0, 39.7);(-57.5, 43.5);(-68.0, 48.1);(-77.9, 52.9);(-87.0, 57.4);(-96.1, 61.3);(-105.9, 64.8);(-115.8, 66.9);(-125.0, 63.4);(-131.3, 54.9);(-135.0, 43.8);(-130.5, 34.7);(-120.2, 30.0);(-110.4, 28.9);(-99.7, 31.8);(-90.9, 37.9);(-86.0, 47.6);(-90.7, 56.6);(-100.3, 60.8);(-110.1, 53.7);(-115.9, 44.7);(-119.4, 34.4);(-118.7, 23.1);(-111.9, 13.9);(-102.6, 8.4);(-91.9, 10.3);(-85.0, 17.4);(-84.1, 27.7);(-95.9, 36.2);(-108.6, 41.4);(-123.1, 43.3);(-135.3, 41.6);(-145.1, 36.2);(-151.7, 28.5);(-155.7, 18.8);(-157.3, 7.3);(-154.3, -4.8);(-147.6, -15.2);(-137.7, -23.5);(-124.9, -28.9);(-111.6, -31.3);(-98.8, -29.5);(-87.2, -22.9);(-79.8, -16.5);(-75.0, -4.7);(-74.4, 6.8);(-78.9, 17.3);(-88.8, 26.0);(-103.2, 31.7);(-117.4, 35.0);(-130.3, 35.5);(-141.7, 32.5);(-149.3, 23.5);(-153.8, 14.6);(-153.4, 4.4);(-147.9, -5.7);(-138.2, -15.0);(-126.0, -21.8);(-111.5, -26.2);(-96.4, -26.5);(-81.7, -22.3);(-69.3, -14.1);(-59.9, -4.0);(-53.8, 6.8);(-51.0, 17.7);(-62.5, 29.1);(-80.9, 35.9);(-99.6, 37.2);(-116.1, 34.3);(-129.1, 28.2);(-138.5, 19.0);(-144.2, 7.8);(-146.8, -4.1);(-143.6, -16.0);(-137.2, -26.0);(-127.8, -33.1);(-115.8, -37.9);(-102.1, -39.9);(-90.4, -39.1);(-79.7, -35.4);(-70.9, -30.0);(-98.0, -4.4);(-99.9, -15.0);(-87.4, -3.4);(-79.5, 6.4);(-90.8, 27.5);(-104.4, 39.7);(-114.9, 44.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:35.257Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(15.2, 5.8)",
+      "gemeObjectRotation": "36.04111",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:35.709Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.4, 5.4)",
+      "gemeObjectRotation": "81.02032",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:36.129Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:36.336Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.7, 5.8)",
+      "gemeObjectRotation": "36.76999",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:36.516Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(12.1, 5.7)",
+      "gemeObjectRotation": "37.21124",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:36.684Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(10.7, 5.2)",
+      "gemeObjectRotation": "135.3434",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:38.051Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.1, 5.5)",
+      "gemeObjectRotation": "346.2356",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:38.187Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(13.5, 5.5)",
+      "gemeObjectRotation": "344.1671",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:39.632Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.0, 5.4)",
+      "gemeObjectRotation": "2.792536",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:39.750Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(9.3, 5.1)",
+      "gemeObjectRotation": "101.7731",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:40.310Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "15",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:40.451Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.7, 5.8)",
+      "gemeObjectRotation": "35.00942",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:40.665Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "16",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:41.226Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.7, 5.5)",
+      "gemeObjectRotation": "18.52035",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:41.712Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.7, 5.4)",
+      "gemeObjectRotation": "355.0843",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:41.825Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(9.0, 5.2)",
+      "gemeObjectRotation": "95.14085",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:42.215Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(11.7, 5.7)",
+      "gemeObjectRotation": "333.3708",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:43.658Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.4, 5.4)",
+      "gemeObjectRotation": "14.85433",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:43.795Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(9.7, 5.1)",
+      "gemeObjectRotation": "112.2953",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:44.312Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.7, 5.8)",
+      "gemeObjectRotation": "34.8181",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:45.553Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.6, 5.4)",
+      "gemeObjectRotation": "352.3414",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:46.067Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(13.1, 5.6)",
+      "gemeObjectRotation": "331.7083",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:46.212Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(11.7, 5.7)",
+      "gemeObjectRotation": "333.5539",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:46.988Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(9.0, 5.2)",
+      "gemeObjectRotation": "94.73651",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:47.606Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.6, 5.5)",
+      "gemeObjectRotation": "20.81308",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:48.123Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.5, 5.7)",
+      "gemeObjectRotation": "30.47644",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:48.842Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "16",
+      "gemeObjectLinePoints": "(165.1, -79.8);(155.9, -75.0);(139.9, -66.2);(123.6, -56.8);(106.6, -47.2);(90.0, -37.5);(76.0, -29.2);(61.6, -20.7);(50.6, -14.3);(39.6, -7.7);(29.0, -1.0);(20.6, 4.3);(12.0, 9.8);(3.6, 14.8);(-14.2, 26.5);(-27.7, 35.6);(-38.2, 43.0);(-46.9, 49.9);(-54.5, 56.4);(-62.7, 63.5);(-70.4, 69.4);(-79.8, 65.3);(-86.7, 55.2);(-90.8, 44.8);(-93.2, 34.1);(-87.5, 26.1);(-84.1, 36.6);(-86.8, 48.4);(-96.9, 59.9);(-106.1, 67.6);(-115.2, 72.2);(-126.7, 73.0);(-136.0, 70.3);(-144.8, 63.0);(-152.5, 52.7);(-158.7, 40.1);(-162.4, 25.7);(-164.6, 11.9);(-163.1, -0.4);(-158.7, -9.8);(-150.4, -15.8);(-135.4, -18.6);(-118.8, -15.5);(-103.7, -8.8);(-90.2, -0.4);(-79.7, 8.2);(-73.0, 17.4);(-69.0, 26.5);(-71.8, 38.4);(-81.8, 48.7);(-91.5, 55.7);(-106.9, 60.3);(-120.9, 63.0);(-132.5, 64.7);(-141.9, 59.3);(-147.5, 45.6);(-147.7, 31.8);(-143.0, 19.2);(-135.0, 8.8);(-125.8, 1.7);(-116.2, -2.5);(-106.5, -2.2);(-97.5, 1.9);(-89.3, 9.6);(-82.3, 21.4);(-77.4, 35.7);(-74.0, 50.7);(-72.4, 63.3);(-73.4, 73.6);(-81.2, 79.8);(-91.9, 76.0);(-100.7, 67.6);(-107.2, 56.6);(-111.1, 44.1);(-112.2, 32.1);(-109.3, 21.7);(-102.4, 13.9);(-91.8, 8.8);(-77.5, 6.5);(-62.1, 9.2);(-49.2, 14.0);(-39.1, 20.0);(-31.4, 28.1);(-26.8, 36.9);(-36.1, 51.8);(-52.4, 63.6);(-76.2, 70.6);(-95.3, 74.8);(-113.6, 76.2);(-130.5, 73.8);(-143.1, 68.7);(-151.0, 60.1);(-155.8, 49.7);(-157.9, 37.5);(-153.5, 22.6);(-148.1, 12.0);(-141.2, 4.5);(-131.9, -0.5);(-119.9, 3.8);(-111.1, 10.7);(-105.5, 18.9);(-102.1, 29.8);(-106.4, 38.7);(-115.8, 35.7);(-119.9, 25.9);(-117.9, 16.4);(-111.1, 7.9);(-96.3, 1.6);(-83.7, -2.2);(-67.4, -0.4);(-55.6, 2.2);(-45.0, 10.2);(-38.6, 19.8);(-34.7, 29.9);(-39.2, 41.6);(-47.1, 49.8);(-57.0, 54.8);(-69.8, 54.1);(-79.9, 49.7);(-88.3, 41.9);(-94.6, 30.0);(-98.3, 16.1);(-100.6, 4.5);(-98.3, -6.8);(-87.8, -14.0);(-75.4, -15.2);(-61.6, -11.4);(-47.4, -0.8);(-37.2, 8.4);(-29.9, 19.9);(-27.1, 35.2);(-33.9, 52.0);(-45.5, 63.7);(-62.1, 71.5);(-78.0, 76.1);(-95.6, 77.3);(-109.7, 74.9);(-120.6, 69.4);(-128.0, 61.3);(-132.4, 49.6);(-133.4, 37.0);(-130.0, 23.9);(-121.6, 12.0);(-109.3, 2.9);(-95.6, -3.4);(-81.7, -7.2);(-69.4, -7.1);(-59.2, -4.2);(-50.3, 4.4);(-45.0, 13.9);(-42.6, 23.6);(-51.1, 36.2);(-62.3, 44.2);(-72.1, 49.0);(-82.5, 49.9);(-93.1, 42.8);(-101.0, 31.3);(-106.2, 17.3);(-109.3, 1.6);(-107.6, -12.6);(-102.9, -23.9);(-95.3, -31.5);(-84.4, -36.0);(-69.4, -35.1);(-52.8, -29.0);(-37.3, -19.4);(-24.7, -7.5);(-16.8, 5.1);(-12.5, 17.9);(-15.9, 30.8);(-25.9, 41.8);(-42.7, 49.5);(-63.6, 54.2);(-84.5, 54.6);(-103.5, 51.2);(-119.3, 43.2);(-129.6, 33.6);(-135.7, 22.2);(-136.6, 9.8);(-133.1, -2.1);(-126.3, -12.0);(-117.3, -18.7);(-106.8, -22.8);(-95.3, -23.2);(-83.5, -19.9);(-73.3, -13.1);(-65.6, -3.8);(-60.1, 7.8);(-56.8, 19.5);(-57.7, 31.8);(-62.6, 42.7);(-71.1, 50.9);(-81.5, 55.8);(-93.7, 57.1);(-104.2, 50.8);(-110.9, 40.9);(-114.9, 27.4);(-115.3, 12.9);(-109.6, -2.2);(-102.1, -12.9);(-90.1, -19.6);(-75.6, -20.5);(-60.9, -15.9);(-45.7, -5.8);(-32.6, 7.4);(-23.2, 20.5);(-17.1, 33.9);(-14.6, 45.6);(-17.2, 55.0);(-24.7, 61.9);(-40.0, 66.0);(-56.0, 66.1);(-73.6, 60.9);(-89.7, 51.8);(-102.6, 39.5);(-110.7, 23.8);(-115.6, 7.1);(-113.4, -9.7);(-105.2, -24.5);(-93.9, -35.9);(-79.9, -43.0);(-65.9, -47.4);(-51.9, -46.8);(-40.7, -42.8);(-32.8, -35.6);(-27.7, -24.5);(-24.6, -11.4);(-27.5, 2.4);(-34.9, 15.1);(-45.7, 24.3);(-57.8, 30.3);(-69.9, 33.4);(-82.3, 31.7);(-94.6, 25.5);(-105.5, 14.6);(-114.1, 0.8);(-119.6, -13.5);(-123.0, -26.0);(-121.8, -35.9);(-113.0, -43.1);(-103.8, -47.0);(-91.1, -42.5);(-81.0, -34.7);(-74.2, -23.5);(-70.9, -5.3);(-73.7, 12.1);(-82.2, 27.7);(-95.3, 39.5);(-110.8, 47.0);(-124.4, 51.4);(-139.0, 50.5);(-151.0, 45.2);(-159.8, 35.2);(-165.1, 22.0);(-163.0, 3.6);(-155.4, -12.6);(-142.0, -26.3);(-124.8, -35.7);(-106.1, -41.4);(-86.4, -40.4);(-67.4, -33.3);(-50.4, -21.1);(-37.0, -5.4);(-28.2, 11.2);(-22.9, 28.4);(-22.9, 43.9);(-25.7, 55.2);(-31.8, 64.0);(-47.5, 65.3);(-62.5, 60.4);(-75.9, 51.5);(-85.5, 41.0);(-92.1, 29.0);(-96.0, 18.7);(-96.8, 8.5);(-90.1, -0.5);(-80.8, -5.8);(-66.1, -5.0);(-51.2, 0.7);(-36.3, 11.3);(-24.6, 24.0);(-16.7, 38.1);(-12.4, 51.3);(-17.4, 64.0);(-27.6, 72.1);(-43.0, 76.5);(-61.0, 74.4);(-77.8, 67.5);(-92.2, 56.6);(-102.9, 42.8);(-110.1, 26.9);(-114.5, 7.8);(-114.3, -8.0);(-110.5, -19.6);(-103.1, -27.3);(-92.6, -31.9);(-79.2, -30.7);(-65.5, -25.1);(-53.7, -17.4);(-44.2, -7.6);(-38.1, 4.3);(-34.4, 16.2);(-36.6, 27.0);(-44.0, 35.1);(-60.0, 40.3);(-77.2, 41.0);(-96.7, 35.5);(-114.4, 26.6);(-128.6, 15.2);(-138.7, 3.6);(-144.8, -9.0);(-148.5, -20.5);(-143.1, -31.9);(-125.8, -39.4);(-109.5, -43.6);(-90.9, -41.3);(-67.7, -31.1);(-49.8, -19.0);(-37.5, -5.3);(-30.1, 8.9);(-30.0, 23.4);(-36.0, 36.5);(-46.4, 46.4);(-58.6, 52.3);(-70.7, 55.8);(-82.0, 55.6);(-91.2, 51.4);(-98.7, 43.7);(-103.6, 31.9);(-106.5, 16.0);(-105.5, -0.7);(-101.3, -14.4);(-95.1, -25.0);(-85.9, -32.5);(-76.7, -36.2);(-65.6, -33.3);(-54.5, -25.1);(-44.3, -11.4);(-36.2, 8.8);(-31.3, 28.2);(-31.1, 44.2);(-35.5, 56.2);(-42.5, 63.8);(-55.9, 66.7);(-73.9, 60.5);(-91.9, 49.2);(-109.1, 32.4);(-123.9, 13.5);(-133.1, -5.8);(-138.6, -22.2);(-139.2, -35.3);(-132.7, -45.5);(-118.8, -51.6);(-98.1, -53.3);(-76.4, -49.9);(-56.2, -43.5);(-38.9, -36.0);(-25.3, -27.2);(-17.2, -18.6);(-12.7, -9.1);(-14.0, 1.0);(-20.4, 10.7);(-35.4, 19.3);(-57.6, 24.4);(-82.2, 23.5);(-107.3, 17.4);(-129.5, 8.1);(-144.5, -2.3);(-153.5, -12.9);(-158.1, -22.9);(-157.2, -32.9);(-152.3, -41.3);(-143.8, -47.1);(-132.6, -50.6);(-121.2, -49.9);(-111.1, -46.3);(-102.6, -40.1);(-96.8, -32.4);(-93.2, -23.4);(-94.7, -12.8);(-100.8, -5.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:49.048Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(9.5, 5.0)",
+      "gemeObjectRotation": "110.1658",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:49.409Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.6, 5.5)",
+      "gemeObjectRotation": "350.5936",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:49.583Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(13.4, 5.5)",
+      "gemeObjectRotation": "340.7566",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:50.750Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.5, 5.4)",
+      "gemeObjectRotation": "82.76247",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:51.215Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.3, 5.6)",
+      "gemeObjectRotation": "340.8329",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:52.558Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.5, 5.4)",
+      "gemeObjectRotation": "82.92062",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:52.994Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.3, 5.6)",
+      "gemeObjectRotation": "340.8552",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:53.490Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(11.9, 5.6)",
+      "gemeObjectRotation": "338.2825",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:54.364Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.5, 5.4)",
+      "gemeObjectRotation": "82.77577",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:54.785Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.3, 5.6)",
+      "gemeObjectRotation": "340.8149",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:55.618Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "17",
+      "gemeObjectParent": "16",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:56.190Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.5, 5.4)",
+      "gemeObjectRotation": "82.7738",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:56.563Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.3, 5.6)",
+      "gemeObjectRotation": "340.6896",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:57.003Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "18",
+      "gemeObjectParent": "16",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:57.982Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.5, 5.4)",
+      "gemeObjectRotation": "82.71301",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:58.396Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.3, 5.6)",
+      "gemeObjectRotation": "340.659",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:11:59.781Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.5, 5.4)",
+      "gemeObjectRotation": "82.65871",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:00.422Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.0, 5.6)",
+      "gemeObjectRotation": "342.3531",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:00.527Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.4, 5.5)",
+      "gemeObjectRotation": "345.0194",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:01.611Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:03.093Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "2.349294",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:03.185Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.628333",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:03.952Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "16",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:06.068Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.2, 5.6)",
+      "gemeObjectRotation": "19.51815",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:06.344Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "19",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:06.817Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.426445",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:09.886Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.1, 5.6)",
+      "gemeObjectRotation": "16.69629",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:10.448Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.811029",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:12.105Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "19",
+      "gemeObjectLinePoints": "(173.9, -72.8);(113.5, -36.8);(50.0, -1.6);(8.4, 21.5);(-18.2, 36.2);(-34.6, 45.8);(-44.4, 51.5);(-53.5, 56.6);(-66.1, 61.2);(-76.5, 64.4);(-86.4, 67.5);(-99.5, 70.6);(-111.3, 72.8);(-122.0, 67.4);(-129.7, 58.9);(-134.2, 48.6);(-132.6, 36.0);(-126.8, 25.3);(-118.1, 16.0);(-106.9, 8.1);(-93.8, 1.7);(-76.3, -2.5);(-63.4, -5.0);(-52.5, -6.1);(-43.5, -2.0);(-37.8, 10.9);(-36.3, 23.0);(-39.0, 34.7);(-45.5, 44.1);(-54.5, 50.5);(-63.6, 54.4);(-73.4, 56.7);(-87.7, 52.9);(-98.6, 48.2);(-109.2, 40.2);(-118.0, 29.8);(-124.0, 17.5);(-127.7, 5.0);(-127.0, -7.3);(-121.5, -18.3);(-111.7, -26.5);(-97.9, -31.8);(-82.4, -35.0);(-67.9, -34.9);(-57.2, -32.5);(-48.3, -26.2);(-43.1, -12.9);(-49.5, 7.2);(-64.9, 26.0);(-89.4, 38.4);(-114.1, 45.9);(-134.5, 49.6);(-152.3, 49.1);(-165.0, 45.5);(-173.1, 39.8);(-173.9, 24.3);(-168.4, 10.7);(-157.1, -1.1);(-143.1, -9.8);(-127.9, -15.0);(-114.0, -17.3);(-101.6, -15.9);(-91.4, -7.9);(-85.7, 1.7);(-87.1, 13.1);(-95.1, 23.9);(-110.3, 32.4);(-125.4, 37.5);(-138.9, 40.6);(-151.0, 41.2);(-160.6, 38.8);(-167.2, 28.6);(-170.4, 17.6);(-169.1, 7.4);(-164.3, -1.1);(-155.8, -6.6);(-140.7, -9.5);(-124.5, -7.2);(-109.1, -1.5);(-89.1, 11.2);(-75.5, 22.0);(-65.8, 33.3);(-59.9, 42.4);(-59.6, 52.3);(-69.4, 57.9);(-84.5, 52.4);(-95.1, 45.9);(-102.7, 36.0);(-107.3, 26.5);(-97.2, 15.6);(-78.8, 8.6);(-60.1, 7.2);(-43.3, 10.0);(-29.6, 14.5);(-18.6, 20.4);(-11.6, 27.5);(-13.4, 39.4);(-19.3, 48.9);(-28.0, 55.0);(-40.5, 58.3);(-51.1, 55.4);(-57.9, 46.9);(-59.2, 37.0);(-53.2, 29.1);(-43.9, 25.5);(-52.8, 35.4);(-63.3, 41.3);(-73.6, 44.9);(-84.6, 42.2);(-91.6, 33.0);(-95.8, 22.7);(-95.5, 12.5);(-87.0, 3.6);(-75.4, -1.8);(-60.9, -0.2);(-49.0, 3.9);(-34.6, 15.6);(-24.8, 27.9);(-18.9, 39.6);(-21.0, 52.2);(-30.2, 61.4);(-47.8, 66.9);(-65.1, 70.2);(-84.3, 66.2);(-98.2, 59.8);(-107.8, 51.5);(-113.5, 41.8);(-116.6, 31.6);(-111.6, 20.2);(-102.6, 13.0);(-90.0, 8.7);(-75.6, 8.9);(-63.8, 11.4);(-53.5, 16.1);(-45.8, 22.5);(-42.7, 32.4);(-49.7, 40.7);(-61.4, 44.9);(-72.5, 39.8);(-79.6, 32.0);(-83.8, 21.6);(-85.9, 11.9);(-76.4, 0.8);(-64.7, -5.9);(-53.7, -9.0);(-41.8, -7.8);(-31.1, -3.4);(-24.3, 8.0);(-27.8, 21.7);(-40.4, 33.5);(-56.3, 40.6);(-72.6, 44.8);(-88.8, 46.6);(-102.9, 44.4);(-113.8, 39.9);(-121.5, 33.2);(-126.2, 23.6);(-128.9, 12.6);(-128.2, 0.9);(-123.0, -10.2);(-114.2, -18.9);(-97.0, -24.4);(-76.6, -24.2);(-57.6, -19.2);(-43.0, -12.3);(-30.3, 1.5);(-24.6, 17.0);(-30.4, 31.1);(-48.3, 42.7);(-64.2, 49.7);(-81.0, 53.9);(-94.2, 56.0);(-104.2, 54.9);(-110.6, 45.8);(-106.0, 33.9);(-98.0, 25.6);(-87.7, 20.7);(-77.8, 17.7);(-66.7, 19.9);(-58.9, 29.2);(-55.0, 38.4);(-58.2, 47.5);(-70.6, 50.2);(-82.0, 46.6);(-91.6, 38.8);(-98.2, 28.2);(-102.2, 17.4);(-104.2, 7.3);(-97.3, -3.2);(-87.2, -9.8);(-75.2, -13.8);(-62.0, -12.2);(-51.6, -8.9);(-43.0, -3.2);(-36.7, 4.9);(-36.4, 15.4);(-43.5, 24.1);(-53.3, 26.5);(-59.7, 17.2);(-58.6, 6.4);(-51.6, -2.9);(-43.4, -9.3);(-33.7, -11.5);(-23.9, -4.8);(-18.0, 5.2);(-16.4, 17.6);(-20.7, 29.8);(-30.5, 39.6);(-45.9, 46.6);(-63.2, 50.0);(-79.2, 48.9);(-91.9, 43.8);(-101.2, 35.6);(-107.2, 24.6);(-109.1, 11.6);(-105.9, -1.7);(-97.2, -14.2);(-85.6, -24.0);(-72.6, -30.3);(-59.6, -34.1);(-47.4, -34.0);(-37.3, -30.7);(-29.6, -24.4);(-25.0, -12.5);(-27.1, -0.3);(-34.7, 11.1);(-46.5, 19.1);(-57.1, 24.0);(-68.3, 26.8);(-79.0, 26.2);(-88.3, 17.4);(-93.8, 7.3);(-95.5, -3.5);(-93.0, -12.9);(-86.6, -20.4);(-76.8, -25.0);(-66.5, -27.7);(-56.4, -28.2);(-46.3, -25.2);(-39.4, -15.1);(-37.3, -4.6);(-40.4, 5.7);(-48.3, 14.3);(-57.0, 19.9);(-66.3, 23.2);(-77.4, 22.0);(-84.5, 14.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:13.525Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.1, 5.5)",
+      "gemeObjectRotation": "16.04801",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:14.084Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "5.12742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:17.148Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.1, 5.5)",
+      "gemeObjectRotation": "16.27291",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:17.698Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.838909",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:20.790Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.1, 5.5)",
+      "gemeObjectRotation": "15.68906",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:21.345Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.529491",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:23.108Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "19",
+      "gemeObjectPosition": "(7.7, 8.5)",
+      "gemeObjectRotation": "358.6268",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:24.475Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.0, 5.5)",
+      "gemeObjectRotation": "13.94203",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:24.885Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "19",
+      "gemeObjectPosition": "(8.6, 6.4)",
+      "gemeObjectRotation": "78.73277",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:25.062Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "5.278187",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:26.756Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "19",
+      "gemeObjectPosition": "(8.6, 6.2)",
+      "gemeObjectRotation": "70.895",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:28.004Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.1, 5.5)",
+      "gemeObjectRotation": "14.77885",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:28.479Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "19",
+      "gemeObjectPosition": "(8.7, 6.1)",
+      "gemeObjectRotation": "65.45738",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:28.687Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.914542",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:30.289Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "19",
+      "gemeObjectPosition": "(8.7, 6.2)",
+      "gemeObjectRotation": "65.0969",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:31.747Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.0, 5.5)",
+      "gemeObjectRotation": "12.80727",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:32.064Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "19",
+      "gemeObjectPosition": "(8.7, 6.2)",
+      "gemeObjectRotation": "64.79552",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:32.214Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.525336",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:32.818Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "20",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:34.250Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "19",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:35.309Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.0, 5.5)",
+      "gemeObjectRotation": "13.43754",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:35.818Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "5.274489",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:36.864Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "21",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:37.469Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "22",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:38.965Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.0, 5.5)",
+      "gemeObjectRotation": "12.69148",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:39.208Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "22",
+      "gemeObjectLinePoints": "(0.0, -63.6);(-20.8, -54.4);(-42.5, -43.6);(-58.7, -35.6);(-70.8, -29.6);(-80.1, -24.4);(-91.3, -19.2);(-103.2, -13.8);(-117.9, -7.3);(-133.9, 0.2);(-148.8, 7.1);(-159.3, 12.4);(-168.0, 17.6);(-177.2, 22.8);(-185.9, 27.8);(-195.5, 33.7);(-205.7, 39.2);(-216.6, 44.5);(-228.8, 50.1);(-239.7, 54.6);(-249.4, 59.0);(-259.6, 63.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:39.508Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.557108",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:40.866Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "22",
+      "gemeObjectPosition": "(10.3, 8.3)",
+      "gemeObjectRotation": "0.6039798",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:42.670Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "22",
+      "gemeObjectPosition": "(10.3, 8.3)",
+      "gemeObjectRotation": "0.625171",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:43.127Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "2.687833",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:43.221Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.942461",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:43.494Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "23",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:44.524Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "22",
+      "gemeObjectPosition": "(10.3, 8.3)",
+      "gemeObjectRotation": "0.625172",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:45.781Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "23",
+      "gemeObjectLinePoints": "(-92.6, 0.9);(-98.6, -7.1);(-100.2, -18.7);(-96.3, -28.1);(-88.0, -34.1);(-76.6, -37.7);(-63.4, -36.3);(-51.1, -30.2);(-41.7, -19.8);(-35.6, -6.3);(-36.8, 11.8);(-47.9, 28.2);(-64.6, 40.9);(-87.8, 48.9);(-108.9, 53.7);(-126.4, 56.6);(-142.8, 53.9);(-154.7, 47.9);(-162.3, 38.3);(-166.8, 26.1);(-166.3, 12.0);(-160.4, -2.4);(-150.1, -14.3);(-129.9, -23.4);(-104.5, -26.1);(-84.2, -24.5);(-66.7, -19.1);(-54.3, -11.5);(-46.8, -3.8);(-53.1, 6.9);(-64.9, 13.7);(-82.8, 17.4);(-101.9, 15.6);(-119.4, 9.7);(-132.6, 1.4);(-141.0, -8.8);(-145.6, -18.5);(-143.6, -28.8);(-135.6, -38.5);(-122.4, -45.9);(-105.3, -50.8);(-87.8, -52.5);(-73.7, -50.8);(-62.8, -47.3);(-55.1, -40.4);(-66.5, -33.1);(-78.1, -29.9);(-88.3, -31.6);(-96.8, -36.6);(-102.3, -45.2);(-94.0, -53.6);(-82.2, -56.6);(-67.6, -52.8);(-53.2, -43.7);(-41.7, -32.3);(-34.9, -19.8);(-32.7, -8.7);(-38.3, 0.3);(-49.6, 5.8);(-62.4, 7.8);(-72.1, 7.0);(-79.5, -1.0);(-72.3, -12.2);(-58.0, -21.0);(-32.2, -27.4);(-7.6, -32.1);(10.8, -35.7);(26.3, -38.3);(37.5, -40.2);(47.5, -42.6);(57.9, -45.6);(67.3, -48.6);(77.0, -51.6);(86.7, -55.0);(97.4, -58.6);(109.0, -63.6);(119.2, -68.6);(128.9, -74.4);(137.1, -79.9);(146.4, -88.8);(153.6, -96.1);(160.4, -104.1);(166.8, -113.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:45.913Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(7.4, 8.8)",
+      "gemeObjectRotation": "352.0988",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:46.140Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "24",
+      "gemeObjectParent": "22",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:46.719Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "2.616245",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:46.828Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "4.870566",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:47.111Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(13.9, 5.4)",
+      "gemeObjectRotation": "354.2451",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:47.604Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(10.0, 3.8)",
+      "gemeObjectRotation": "105.9686",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:48.517Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.1, 5.6)",
+      "gemeObjectRotation": "16.82714",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:48.627Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.5, 5.4)",
+      "gemeObjectRotation": "17.66722",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:48.936Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.4, 5.4)",
+      "gemeObjectRotation": "10.63421",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:49.368Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "22",
+      "gemeObjectPosition": "(9.5, 6.9)",
+      "gemeObjectRotation": "119.3417",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:49.496Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(9.3, 4.0)",
+      "gemeObjectRotation": "90.35413",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:50.336Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.5, 5.5)",
+      "gemeObjectRotation": "357.4796",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:50.505Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(10.9, 5.4)",
+      "gemeObjectRotation": "359.7401",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:51.174Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "22",
+      "gemeObjectPosition": "(5.7, -2.0)",
+      "gemeObjectRotation": "184.6433",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:51.281Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(7.7, -3.5)",
+      "gemeObjectRotation": "139.0331",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:51.446Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "23",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:51.613Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "22",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:53.259Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "3.138422",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:53.361Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "5.412567",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:53.720Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "25",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:54.509Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameObjectId": "26",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:56.919Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "2.847906",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:12:56.998Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "5.114387",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:00.403Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.7, 5.5)",
+      "gemeObjectRotation": "3.727638",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:00.609Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "5.088541",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:01.777Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "26",
+      "gemeObjectLinePoints": "(189.1, -97.2);(175.1, -88.0);(163.1, -80.1);(146.7, -70.1);(134.5, -63.3);(120.7, -55.7);(105.3, -47.1);(91.2, -39.1);(71.2, -27.9);(52.3, -17.2);(36.6, -8.4);(20.8, -0.3);(5.7, 7.3);(-4.9, 12.7);(-14.5, 17.6);(-23.1, 22.1);(-32.6, 27.2);(-41.5, 31.4);(-50.5, 36.0);(-59.5, 40.7);(-68.8, 44.8);(-78.5, 49.2);(-88.6, 53.4);(-97.5, 57.2);(-107.3, 57.9);(-116.7, 51.4);(-124.4, 42.8);(-130.2, 32.4);(-133.7, 23.4);(-135.8, 13.2);(-131.8, 3.4);(-123.9, -3.2);(-113.5, -0.8);(-105.7, 7.9);(-101.0, 17.8);(-100.1, 27.8);(-104.8, 38.2);(-111.3, 46.1);(-121.1, 52.0);(-130.2, 55.5);(-138.5, 48.8);(-143.5, 40.0);(-146.4, 29.2);(-145.8, 17.4);(-141.5, 6.8);(-133.2, -2.0);(-122.3, -8.1);(-107.3, -11.7);(-94.0, -12.3);(-83.9, -11.0);(-73.9, -5.1);(-67.5, 4.9);(-69.7, 16.5);(-77.0, 24.6);(-89.3, 29.9);(-105.2, 33.1);(-120.3, 33.8);(-133.7, 32.2);(-144.2, 30.0);(-152.9, 23.6);(-158.1, 11.7);(-160.8, 0.9);(-156.9, -9.5);(-150.1, -16.6);(-138.4, -20.8);(-123.8, -20.2);(-111.4, -17.0);(-100.4, -9.0);(-92.2, 0.9);(-87.3, 12.5);(-84.3, 24.6);(-85.4, 35.5);(-92.8, 45.2);(-100.8, 51.1);(-111.3, 53.4);(-121.5, 49.6);(-128.5, 42.9);(-133.1, 33.3);(-135.8, 22.7);(-134.6, 12.3);(-129.1, 3.3);(-118.7, -2.9);(-108.8, -7.0);(-89.2, -8.7);(-75.1, -7.3);(-89.4, 40.8);(-105.2, 69.6);(-130.3, 86.9);(-148.9, 96.1);(-164.9, 97.2);(-175.7, 94.6);(-182.6, 83.5);(-185.9, 71.6);(-183.9, 60.1);(-176.7, 48.8);(-164.8, 38.8);(-152.0, 31.2);(-138.8, 25.9);(-126.8, 22.6);(-116.1, 21.1);(-125.6, 26.6);(-131.3, 17.5);(-132.4, 7.6);(-129.8, -1.9);(-123.8, -10.0);(-115.5, -15.7);(-104.8, -19.1);(-93.3, -19.9);(-80.3, -14.4);(-71.0, -7.5);(-63.3, 3.4);(-60.0, 15.6);(-61.9, 25.3);(-69.9, 32.3);(-83.1, 36.5);(-98.6, 38.2);(-116.7, 34.9);(-132.4, 28.9);(-144.6, 20.8);(-152.7, 12.0);(-157.6, 2.4);(-156.1, -9.5);(-149.6, -18.5);(-139.3, -24.8);(-126.0, -28.5);(-111.1, -29.6);(-97.5, -27.4);(-84.4, -21.7);(-73.8, -13.9);(-66.3, -4.8);(-61.7, 5.0);(-61.4, 15.0);(-66.0, 24.1);(-75.2, 31.2);(-89.1, 35.8);(-102.6, 38.6);(-119.5, 36.3);(-134.9, 29.3);(-146.1, 20.3);(-154.0, 8.9);(-158.8, -3.9);(-160.4, -16.0);(-157.8, -26.5);(-151.1, -34.8);(-138.2, -40.5);(-120.5, -44.0);(-101.1, -42.5);(-82.2, -36.7);(-66.9, -28.5);(-56.1, -19.2);(-49.6, -9.2);(-52.1, 3.6);(-67.2, 16.5);(-89.1, 26.6);(-117.0, 33.1);(-140.2, 37.0);(-158.5, 38.9);(-172.6, 37.3);(-181.6, 33.1);(-182.1, 18.2);(-176.8, 5.2);(-161.7, -6.5);(-139.4, -14.0);(-110.4, -14.9);(-84.2, -9.8);(-58.9, 0.1);(-39.7, 11.2);(-27.4, 21.8);(-20.0, 31.4);(-32.8, 43.6);(-63.6, 50.9);(-93.7, 53.7);(-126.2, 50.5);(-150.5, 45.8);(-169.9, 37.8);(-181.9, 29.8);(-189.1, 21.4);(-184.2, 8.4);(-172.9, -2.2);(-155.3, -9.8);(-128.3, -14.4);(-99.4, -12.3);(-78.8, -8.6);(-60.4, -0.5);(-48.2, 8.1);(-40.9, 17.6);(-43.3, 29.3);(-54.7, 37.5);(-69.2, 42.4);(-82.7, 43.8);(-96.8, 41.4);(-107.2, 37.2);(-114.7, 31.0);(-117.6, 21.4);(-112.1, 10.3);(-98.0, 1.3);(-74.4, -4.5);(-45.4, -7.1);(-18.8, -4.0);(6.0, 3.6);(23.2, 11.3);(35.2, 19.1);(42.7, 27.0);(32.5, 35.7);(8.3, 41.0);(-13.8, 41.3);(-33.0, 37.9);(-49.0, 31.1);(-58.6, 23.8);(-64.3, 15.4);(-62.1, 2.4);(-56.8, -8.2);(-49.3, -15.8);(-39.9, -20.0);(-30.3, -14.8);(-26.2, -5.8);(-34.9, 2.5);(-46.5, 3.0);(-55.9, -1.1);(-62.7, -10.7);(-66.0, -24.5);(-65.1, -34.8);(-55.1, -42.1);(-41.0, -44.1);(-27.4, -41.0);(-16.8, -35.8);(-8.8, -28.4);(-6.9, -17.5);(-14.1, -7.8);(-26.4, -1.5);(-43.0, 2.2);(-56.6, 2.9);(-69.9, 0.0);(-79.5, -4.8);(-85.3, -15.8);(-87.1, -26.3);(-84.2, -36.7);(-78.1, -44.9);(-68.4, -50.6);(-57.0, -54.0);(-46.2, -53.7);(-35.3, -48.3);(-27.9, -41.0);(-24.7, -29.9);(-27.6, -20.0);(-35.7, -12.1);(-47.8, -7.3);(-59.0, -5.3);(-69.4, -6.4);(-78.8, -11.5);(-84.4, -21.8);(-86.6, -31.5);(-79.5, -41.8);(-68.5, -48.3);(-54.7, -51.1);(-40.8, -48.7);(-29.6, -44.5);(-20.1, -37.2);(-14.0, -28.8);(-14.8, -18.1);(-26.4, -7.3);(-45.0, -0.1);(-70.2, 4.3);(-90.5, 6.9);(-106.2, 5.7);(-116.1, 1.7);(-119.6, -8.6);(-116.9, -18.4);(-106.5, -27.9);(-89.5, -33.6);(-71.7, -33.8);(-55.4, -30.4);(-43.6, -24.7);(-35.7, -16.1);(-31.4, -5.7);(-33.2, 6.1);(-40.7, 17.2);(-53.6, 25.4);(-66.5, 30.4);(-78.7, 33.4);(-89.2, 34.0);(-97.5, 27.1);(-102.4, 18.2);(-103.0, 5.6);(-101.4, -3.9);(-92.4, -12.8);(-84.2, -18.5);(-73.7, -22.0);(-63.4, -20.9);(-56.0, -12.6);(-57.2, -2.4);(-57.5, -12.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:01.859Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.4, 8.5)",
+      "gemeObjectRotation": "0.0247351",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.259Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.2, 7.4)",
+      "gemeObjectRotation": "23.30409",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.378Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.2, 6.9)",
+      "gemeObjectRotation": "34.0823",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.382Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.2, 7.3)",
+      "gemeObjectRotation": "24.96642",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.514Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.2, 7.0)",
+      "gemeObjectRotation": "30.27528",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.521Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.2, 7.2)",
+      "gemeObjectRotation": "26.68242",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.525Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.2, 6.9)",
+      "gemeObjectRotation": "32.15204",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.529Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.2, 7.1)",
+      "gemeObjectRotation": "28.45206",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.560Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.2, 6.8)",
+      "gemeObjectRotation": "36.06609",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.593Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.3, 6.7)",
+      "gemeObjectRotation": "38.1036",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.702Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.3, 6.4)",
+      "gemeObjectRotation": "44.5487",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.706Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.5, 6.1)",
+      "gemeObjectRotation": "51.43952",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.714Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.3, 6.6)",
+      "gemeObjectRotation": "40.19534",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.716Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.3, 6.5)",
+      "gemeObjectRotation": "42.34256",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.719Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(7.4, 6.3)",
+      "gemeObjectRotation": "46.82625",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:02.914Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "6.316317",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.034Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(9.4, 4.4)",
+      "gemeObjectRotation": "101.872",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.037Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.5, 5.5)",
+      "gemeObjectRotation": "11.83048",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.088Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(12.8, 5.5)",
+      "gemeObjectRotation": "4.954243",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.090Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.2, 5.4)",
+      "gemeObjectRotation": "3.597173",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.154Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.4, 5.4)",
+      "gemeObjectRotation": "13.06429",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.162Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "7",
+      "gemeObjectPosition": "(14.4, 5.4)",
+      "gemeObjectRotation": "10.04883",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.164Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.4, 5.4)",
+      "gemeObjectRotation": "14.86754",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.231Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.1, 5.5)",
+      "gemeObjectRotation": "15.1219",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.238Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.1, 5.6)",
+      "gemeObjectRotation": "16.94817",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.240Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.5, 5.4)",
+      "gemeObjectRotation": "16.28309",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.310Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.5, 5.4)",
+      "gemeObjectRotation": "17.8442",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.317Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.6, 5.4)",
+      "gemeObjectRotation": "19.39494",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.319Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.2, 5.6)",
+      "gemeObjectRotation": "18.77955",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.398Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.2, 5.6)",
+      "gemeObjectRotation": "20.62869",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.401Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.3, 5.6)",
+      "gemeObjectRotation": "22.49289",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.403Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.6, 5.5)",
+      "gemeObjectRotation": "20.92393",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.461Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "6",
+      "gemeObjectPosition": "(13.4, 5.6)",
+      "gemeObjectRotation": "24.31474",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.465Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.7, 5.5)",
+      "gemeObjectRotation": "22.43797",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.495Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.7, 5.5)",
+      "gemeObjectRotation": "23.95355",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.552Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.8, 5.5)",
+      "gemeObjectRotation": "25.46171",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.614Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.9, 5.5)",
+      "gemeObjectRotation": "28.45197",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.617Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.8, 5.5)",
+      "gemeObjectRotation": "26.96148",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.629Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "7",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.634Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(11.9, 5.6)",
+      "gemeObjectRotation": "29.90821",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.645Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(12.0, 5.6)",
+      "gemeObjectRotation": "31.33705",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.716Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(12.0, 5.6)",
+      "gemeObjectRotation": "32.75431",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.810Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(12.1, 5.6)",
+      "gemeObjectRotation": "35.54837",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.816Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(12.0, 5.6)",
+      "gemeObjectRotation": "34.15854",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.822Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "9",
+      "gemeObjectPosition": "(12.1, 5.7)",
+      "gemeObjectRotation": "36.92268",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.830Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectId": "26",
+      "gemeObjectPosition": "(11.6, 4.5)",
+      "gemeObjectRotation": "142.45",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.831Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "26",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:03.965Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "26",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:04.074Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "6",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:04.551Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:13.489Z"
+    },
+    "verb": "satisfied",
+    "object": "achievement",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "badge": "silver",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Newton's Cradle",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:13:13.676Z"
+    },
+    "verb": "moneyEarned",
+    "object": "silverWin",
+    "data": {
+      "gameLevelId": "Newton's Cradle",
+      "moneyEarned": "10",
+      "currentMoney": "620",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

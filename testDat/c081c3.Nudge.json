@@ -1,0 +1,463 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:27.675Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:29.980Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:30.152Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:32.054Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:32.237Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:35.069Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:35.232Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:36.436Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:36.601Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:36.751Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:36.951Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:38.138Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:38.282Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:38.450Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:39.200Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:39.384Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:40.399Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:40.564Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:41.374Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:44.023Z"
+    },
+    "verb": "initialized",
+    "object": "nextButton",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:32:47.786Z"
+    },
+    "verb": "moneyEarned",
+    "object": "silverWin",
+    "data": {
+      "gameLevelId": "Nudge",
+      "moneyEarned": "10",
+      "currentMoney": "350",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:08.789Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:12.388Z"
+    },
+    "verb": "suspended",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Nudge",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T00:10:13.817Z"
+    },
+    "verb": "exited",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Nudge",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

@@ -1,0 +1,5887 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:16.077Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:17.306Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "179",
+      "gemeObjectPosition": "(19.7, 1.5)",
+      "gemeObjectRotation": "351.0073",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:17.450Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "181",
+      "gemeObjectPosition": "(19.6, 2.1)",
+      "gemeObjectRotation": "12.12698",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:17.595Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "177",
+      "gemeObjectPosition": "(19.6, 3.8)",
+      "gemeObjectRotation": "356.1757",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:17.701Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "180",
+      "gemeObjectPosition": "(19.6, 3.3)",
+      "gemeObjectRotation": "0.0615632",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:17.705Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "178",
+      "gemeObjectPosition": "(19.6, 2.7)",
+      "gemeObjectRotation": "359.3304",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:21.544Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "196",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:23.823Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "196",
+      "gemeObjectLinePoints": "(306.2, 189.7);(297.8, 183.7);(287.5, 176.9);(278.2, 170.4);(269.0, 163.3);(260.2, 156.2);(252.2, 148.8);(242.6, 139.1);(234.8, 130.6);(227.4, 121.8);(219.7, 112.1);(212.7, 102.7);(204.9, 92.3);(198.6, 84.1);(191.2, 75.1);(183.2, 66.5);(174.0, 58.2);(164.4, 51.2);(153.5, 44.6);(141.4, 38.2);(130.9, 33.2);(119.4, 27.8);(110.1, 23.3);(99.7, 18.3);(88.7, 13.2);(77.7, 7.8);(66.3, 1.3);(55.4, -5.3);(46.1, -10.5);(35.7, -16.1);(23.9, -21.8);(14.0, -26.0);(0.5, -29.7);(-10.9, -32.0);(-23.7, -32.5);(-34.1, -32.0);(-44.4, -30.6);(-56.6, -26.1);(-66.7, -21.8);(-76.4, -16.4);(-87.7, -8.8);(-98.2, -1.4);(-108.8, 7.0);(-116.8, 13.7);(-126.4, 21.7);(-137.0, 29.7);(-145.7, 35.7);(-156.2, 40.9);(-167.2, 45.2);(-178.7, 47.8);(-191.1, 49.7);(-201.8, 50.9);(-214.2, 51.6);(-224.5, 52.0);(-234.6, 52.3);(-244.7, 51.6);(-255.2, 50.0);(-265.0, 46.7);(-273.8, 38.7);(-280.6, 30.3);(-286.7, 20.4);(-292.0, 10.9);(-296.7, 1.2);(-302.4, -12.2);(-306.2, -22.3);(-310.0, -33.1);(-313.6, -44.0);(-316.9, -54.9);(-320.5, -65.9);(-323.8, -76.1);(-326.6, -86.2);(-330.7, -97.4);(-335.2, -108.6);(-340.6, -118.1);(-347.1, -126.6);(-354.6, -134.9);(-363.5, -142.7);(-373.2, -150.9);(-381.5, -157.5);(-391.2, -164.6);(-400.3, -171.7);(-408.5, -177.6);(-418.6, -182.7);(-428.7, -186.5);(-439.2, -189.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:23.957Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "196",
+      "gemeObjectPosition": "(13.5, 5.7)",
+      "gemeObjectRotation": "358.3382",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:25.625Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "196",
+      "gemeObjectPosition": "(13.5, 5.7)",
+      "gemeObjectRotation": "358.5076",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:25.755Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "196",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:27.406Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "196",
+      "gemeObjectPosition": "(13.5, 5.7)",
+      "gemeObjectRotation": "358.5056",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:27.878Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "196",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:28.805Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:29.102Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "221",
+      "gemeObjectPosition": "(19.7, 1.5)",
+      "gemeObjectRotation": "344.2824",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:29.210Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "223",
+      "gemeObjectPosition": "(19.6, 2.1)",
+      "gemeObjectRotation": "12.63746",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:29.362Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "219",
+      "gemeObjectPosition": "(19.6, 3.8)",
+      "gemeObjectRotation": "356.5807",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:29.458Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "220",
+      "gemeObjectPosition": "(19.6, 2.7)",
+      "gemeObjectRotation": "358.2135",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:29.494Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "222",
+      "gemeObjectPosition": "(19.6, 3.3)",
+      "gemeObjectRotation": "1.844827",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:30.313Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "238",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:33.006Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "238",
+      "gemeObjectLinePoints": "(309.0, 168.8);(302.2, 159.2);(293.7, 149.0);(285.0, 138.9);(277.4, 130.8);(268.4, 122.4);(259.5, 114.1);(250.5, 106.4);(240.3, 98.5);(231.8, 92.2);(222.3, 85.6);(213.0, 79.7);(204.2, 74.1);(195.3, 68.8);(185.2, 62.8);(173.9, 56.0);(164.3, 50.7);(154.6, 45.1);(145.6, 40.2);(136.1, 35.2);(125.7, 29.8);(113.4, 23.4);(102.8, 17.1);(93.7, 11.8);(83.4, 5.4);(74.1, -0.5);(64.8, -5.6);(53.3, -11.0);(42.8, -15.9);(32.5, -20.1);(22.7, -23.3);(11.6, -26.1);(0.6, -28.6);(-10.5, -30.0);(-21.1, -31.3);(-33.4, -32.1);(-44.9, -32.2);(-56.1, -31.0);(-67.3, -28.7);(-77.6, -26.5);(-87.7, -23.6);(-98.6, -19.9);(-109.6, -16.0);(-122.6, -11.3);(-133.1, -7.3);(-143.1, -3.7);(-154.6, 0.9);(-165.2, 5.2);(-176.3, 10.6);(-185.8, 15.5);(-195.1, 20.8);(-204.6, 25.6);(-214.8, 27.2);(-225.3, 23.9);(-236.4, 17.8);(-245.8, 12.2);(-255.5, 5.6);(-265.3, -0.7);(-275.6, -6.9);(-286.5, -13.5);(-298.3, -21.0);(-309.0, -27.9);(-318.6, -35.2);(-326.4, -42.0);(-331.8, -51.7);(-335.1, -61.9);(-339.5, -72.5);(-343.7, -83.6);(-346.6, -94.6);(-348.8, -105.7);(-350.1, -119.9);(-350.8, -133.6);(-351.3, -147.9);(-351.6, -158.4);(-351.7, -168.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:33.151Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "238",
+      "gemeObjectPosition": "(13.5, 5.9)",
+      "gemeObjectRotation": "359.5923",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:34.758Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "238",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:34.947Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "238",
+      "gemeObjectPosition": "(13.4, 6.2)",
+      "gemeObjectRotation": "356.2583",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:36.747Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "238",
+      "gemeObjectPosition": "(13.4, 6.2)",
+      "gemeObjectRotation": "356.253",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:37.812Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "238",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:47.415Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "239",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:50.944Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "239",
+      "gemeObjectLinePoints": "(-248.6, -157.5);(-240.6, -147.1);(-233.4, -138.4);(-225.1, -128.4);(-218.1, -120.9);(-209.5, -111.5);(-202.7, -103.5);(-195.1, -94.3);(-186.5, -83.6);(-179.7, -75.5);(-171.3, -65.9);(-163.8, -57.7);(-156.5, -50.0);(-147.8, -41.0);(-140.1, -33.2);(-131.1, -24.9);(-123.3, -17.9);(-113.8, -10.9);(-103.3, -3.6);(-93.4, 2.9);(-84.7, 7.9);(-75.5, 13.0);(-66.3, 17.6);(-56.8, 22.0);(-46.3, 25.8);(-35.6, 28.9);(-25.2, 31.5);(-14.6, 33.5);(-4.6, 35.1);(5.8, 36.1);(16.4, 35.1);(26.0, 30.4);(36.2, 24.9);(45.1, 19.5);(54.0, 13.5);(62.2, 7.5);(70.6, 1.9);(79.7, -2.6);(90.0, -5.4);(101.4, -7.0);(113.0, -8.0);(125.5, -7.4);(137.5, -5.8);(148.2, -4.1);(159.5, -1.4);(169.5, 1.3);(181.4, 4.6);(191.8, 8.2);(202.4, 11.9);(213.2, 15.8);(224.1, 20.1);(237.4, 26.7);(248.6, 32.6);(259.3, 38.6);(270.2, 44.6);(280.6, 50.5);(290.9, 56.9);(301.5, 63.6);(312.7, 70.4);(324.2, 77.6);(335.9, 84.4);(349.3, 90.8);(364.1, 97.5);(378.2, 103.9);(389.9, 109.8);(400.1, 115.3);(408.6, 122.2);(414.5, 130.7);(418.9, 147.4);(421.5, 157.5)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:51.074Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "239",
+      "gemeObjectPosition": "(11.3, 5.8)",
+      "gemeObjectRotation": "359.7098",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:52.760Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "239",
+      "gemeObjectPosition": "(11.3, 5.8)",
+      "gemeObjectRotation": "354.6133",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:54.031Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "239",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:54.562Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "239",
+      "gemeObjectPosition": "(11.3, 5.8)",
+      "gemeObjectRotation": "354.5955",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:56.363Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "239",
+      "gemeObjectPosition": "(11.3, 5.8)",
+      "gemeObjectRotation": "354.5953",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:57.402Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "240",
+      "gemeObjectParent": "202",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:57.865Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "239",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:01:59.593Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "241",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:00.905Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "241",
+      "gemeObjectLinePoints": "(221.4, 13.2);(188.6, 13.2);(166.1, 13.2);(139.4, 16.4);(119.0, 19.5);(102.4, 23.8);(87.6, 28.8);(74.3, 33.7);(61.5, 39.1);(49.1, 44.7);(36.8, 50.5);(24.2, 56.4);(11.5, 63.1);(1.1, 68.7);(-8.4, 74.5);(-17.7, 79.2);(-28.1, 84.4);(-38.3, 89.5);(-48.0, 94.2);(-57.8, 98.6);(-68.1, 102.4);(-78.3, 105.5);(-91.6, 108.6);(-103.2, 111.2);(-113.8, 112.8);(-124.9, 114.6);(-135.6, 115.6);(-146.8, 114.3);(-158.3, 109.8);(-168.0, 104.4);(-176.7, 97.5);(-183.8, 89.8);(-190.9, 80.3);(-197.2, 69.1);(-202.6, 57.5);(-208.6, 42.6);(-214.6, 28.4);(-221.4, 13.5);(-229.1, -2.2);(-238.5, -18.8);(-248.5, -36.0);(-259.4, -52.7);(-269.9, -68.4);(-280.2, -82.1);(-289.5, -94.4);(-298.8, -106.2);(-306.3, -115.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:01.009Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(9.1, 7.3)",
+      "gemeObjectRotation": "20.34662",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:02.745Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:03.908Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "242",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:04.582Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:06.296Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "242",
+      "gemeObjectLinePoints": "(255.3, 194.0);(242.5, 189.2);(230.8, 183.9);(219.8, 177.6);(208.8, 170.5);(197.0, 161.9);(181.5, 149.6);(165.4, 136.5);(149.0, 123.5);(131.1, 110.1);(111.2, 96.5);(90.0, 82.7);(68.5, 69.6);(47.6, 57.8);(30.3, 48.7);(15.5, 42.0);(3.0, 38.0);(-8.9, 36.4);(-21.2, 37.1);(-39.0, 40.2);(-59.3, 44.1);(-72.7, 46.5);(-92.7, 50.7);(-109.1, 54.0);(-123.3, 56.0);(-139.1, 57.2);(-157.3, 57.1);(-174.3, 55.9);(-189.3, 54.3);(-202.2, 52.2);(-214.0, 49.7);(-223.9, 47.4);(-233.8, 44.9);(-245.0, 41.7);(-255.3, 38.2);(-265.1, 35.0);(-274.5, 31.4);(-284.2, 26.4);(-293.2, 21.1);(-301.8, 14.6);(-313.0, 2.8);(-320.9, -6.7);(-329.2, -17.6);(-338.2, -31.0);(-348.0, -45.4);(-358.3, -59.6);(-370.5, -75.8);(-383.4, -91.1);(-395.1, -103.8);(-405.8, -114.3);(-415.3, -122.6);(-423.5, -129.1);(-436.4, -135.5);(-448.9, -140.1);(-460.8, -142.8);(-472.8, -144.5);(-484.4, -145.5);(-494.9, -147.3);(-503.6, -153.2);(-512.5, -178.7);(-517.8, -194.0)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:06.431Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:06.497Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "242",
+      "gemeObjectPosition": "(14.4, 5.5)",
+      "gemeObjectRotation": "357.8784",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:07.587Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "242",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:08.185Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "242",
+      "gemeObjectPosition": "(14.3, 5.6)",
+      "gemeObjectRotation": "358.8199",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:08.393Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:10.011Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "242",
+      "gemeObjectPosition": "(14.3, 5.6)",
+      "gemeObjectRotation": "358.8194",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:10.222Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:11.109Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "242",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:11.903Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:13.578Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "243",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:13.700Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:15.522Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:16.909Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "243",
+      "gemeObjectLinePoints": "(-239.4, -184.9);(-227.4, -182.9);(-216.6, -180.5);(-206.5, -177.0);(-196.1, -172.6);(-185.4, -167.1);(-176.2, -161.0);(-167.9, -154.5);(-159.3, -146.7);(-147.3, -133.1);(-136.5, -120.6);(-127.3, -108.7);(-120.1, -99.2);(-112.2, -87.4);(-105.9, -78.4);(-99.7, -69.0);(-92.8, -59.7);(-85.0, -50.2);(-77.6, -41.3);(-69.9, -32.7);(-62.5, -25.2);(-53.6, -16.2);(-45.1, -7.3);(-37.2, 1.7);(-30.1, 9.5);(-21.8, 17.3);(-13.2, 23.7);(-4.1, 29.1);(5.8, 33.5);(16.1, 36.5);(26.7, 38.0);(37.1, 37.6);(47.3, 36.6);(57.4, 34.8);(68.3, 31.0);(78.8, 25.8);(88.3, 20.8);(98.9, 15.7);(109.2, 12.7);(119.7, 10.9);(131.3, 9.8);(142.6, 9.5);(153.4, 10.2);(164.3, 11.8);(175.6, 13.9);(187.2, 16.8);(203.0, 21.7);(217.6, 26.7);(229.2, 30.9);(239.4, 34.6);(250.3, 38.8);(262.0, 43.3);(275.9, 48.9);(288.6, 54.2);(298.6, 58.6);(310.2, 63.6);(324.4, 69.8);(336.9, 75.1);(349.6, 80.7);(361.2, 86.1);(372.6, 91.3);(387.8, 98.8);(401.3, 105.8);(412.6, 111.5);(422.6, 117.4);(432.2, 123.3);(443.6, 130.0);(453.6, 136.1);(464.4, 142.9);(473.3, 148.2);(482.2, 154.2);(491.2, 159.4);(501.0, 165.3);(510.0, 170.4);(521.9, 175.9);(531.8, 180.0);(542.5, 184.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:17.077Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "243",
+      "gemeObjectPosition": "(10.5, 5.8)",
+      "gemeObjectRotation": "1.451135",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:17.336Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:18.750Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "243",
+      "gemeObjectPosition": "(10.4, 5.9)",
+      "gemeObjectRotation": "357.8074",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:19.119Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:19.763Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "243",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:20.535Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "243",
+      "gemeObjectPosition": "(10.4, 5.9)",
+      "gemeObjectRotation": "357.8121",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:20.917Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:22.337Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "243",
+      "gemeObjectPosition": "(10.4, 5.9)",
+      "gemeObjectRotation": "357.8122",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:22.717Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:22.865Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "243",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:24.518Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:25.807Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "244",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:26.335Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(8.7, 7.8)",
+      "gemeObjectRotation": "9.328742",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:27.696Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "241",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:30.841Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "244",
+      "gemeObjectLinePoints": "(-284.3, -179.9);(-274.7, -176.3);(-262.6, -169.7);(-245.7, -159.0);(-235.6, -152.5);(-226.3, -145.5);(-215.5, -136.4);(-205.8, -128.2);(-197.2, -120.9);(-188.5, -112.9);(-180.0, -105.3);(-172.2, -98.3);(-163.8, -90.6);(-155.6, -83.5);(-146.7, -76.0);(-138.2, -68.4);(-130.2, -61.0);(-122.7, -54.1);(-114.9, -45.6);(-107.1, -37.3);(-99.6, -29.6);(-91.9, -21.7);(-85.3, -13.8);(-78.9, -5.4);(-72.7, 2.8);(-66.5, 10.9);(-60.5, 19.0);(-54.4, 27.8);(-48.8, 36.8);(-41.8, 44.9);(-34.4, 52.2);(-26.0, 59.0);(-0.5, 61.8);(14.7, 63.5);(25.9, 61.4);(35.0, 56.9);(45.7, 49.0);(54.9, 41.8);(63.2, 35.1);(72.2, 28.7);(82.4, 22.5);(91.3, 17.1);(101.0, 13.1);(112.1, 10.3);(123.5, 8.6);(136.8, 8.0);(148.3, 8.9);(159.7, 10.6);(172.5, 13.6);(186.1, 17.8);(200.3, 22.7);(214.9, 28.1);(228.8, 34.1);(241.9, 39.7);(253.0, 44.7);(262.5, 49.2);(272.1, 54.0);(284.3, 60.0);(296.9, 66.9);(308.0, 73.8);(322.3, 82.7);(335.6, 91.3);(348.8, 100.0);(363.6, 108.8);(378.4, 117.8);(393.3, 126.7);(406.2, 135.3);(417.2, 143.2);(425.8, 150.8);(433.3, 159.7);(439.1, 169.1);(442.9, 179.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:30.977Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "244",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "359.5917",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:32.680Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "244",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "357.3722",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:32.977Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "245",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:33.489Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "245",
+      "gemeObjectLinePoints": "(44.1, -55.6);(17.7, -55.6);(-44.1, -55.6);(-97.2, -53.2);(-137.5, -48.5);(-172.0, -41.7);(-200.8, -35.3);(-224.0, -29.8);(-242.4, -25.3);(-258.6, -20.6);(-273.5, -15.4);(-289.2, -9.1);(-303.1, -3.3);(-316.2, 2.2);(-331.7, 7.5);(-343.0, 11.1);(-356.5, 14.8);(-371.1, 18.7);(-389.0, 22.2);(-409.7, 25.5);(-432.2, 29.1);(-453.3, 32.8);(-471.9, 36.7);(-488.7, 40.6);(-503.6, 44.1);(-518.1, 48.2);(-533.6, 52.3);(-546.9, 55.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:33.631Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "245",
+      "gemeObjectPosition": "(12.9, 8.7)",
+      "gemeObjectRotation": "2.257332",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:33.856Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "244",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:34.482Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "244",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "357.3622",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:35.321Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "245",
+      "gemeObjectPosition": "(12.9, 8.7)",
+      "gemeObjectRotation": "2.616713",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:36.285Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "244",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "357.3625",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:36.409Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "245",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:37.961Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "246",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:38.096Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "244",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "357.4444",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:39.510Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "246",
+      "gemeObjectLinePoints": "(30.6, -55.3);(15.4, -55.3);(-0.1, -55.3);(-15.4, -55.3);(-30.6, -55.3);(-45.3, -54.5);(-59.7, -52.8);(-74.0, -50.6);(-88.6, -48.1);(-101.3, -46.2);(-113.3, -43.8);(-124.6, -42.0);(-139.3, -40.1);(-151.3, -38.6);(-162.6, -37.3);(-173.7, -36.1);(-184.0, -35.4);(-194.1, -34.6);(-205.0, -34.1);(-219.6, -33.4);(-233.5, -32.5);(-247.9, -31.3);(-263.3, -30.1);(-279.7, -28.2);(-295.6, -26.2);(-311.5, -23.9);(-327.9, -20.9);(-344.1, -17.8);(-360.6, -14.8);(-376.1, -11.8);(-391.4, -8.8);(-406.2, -5.8);(-420.3, -2.8);(-432.3, -0.2);(-443.6, 2.5);(-455.1, 5.4);(-466.0, 7.9);(-475.8, 10.6);(-486.8, 14.2);(-496.6, 18.4);(-505.7, 22.9);(-515.6, 28.8);(-525.5, 34.8);(-534.7, 41.1);(-543.0, 47.8);(-550.7, 55.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:39.643Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.1, 9.0)",
+      "gemeObjectRotation": "3.393831",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:39.893Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "244",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "357.4445",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:41.318Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:41.436Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.740503",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:41.560Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:41.712Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "244",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "357.4444",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:41.784Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:41.921Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:42.045Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:42.230Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:42.429Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:42.879Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:43.096Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738908",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:43.512Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "244",
+      "gemeObjectPosition": "(11.1, 5.4)",
+      "gemeObjectRotation": "357.4444",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:44.199Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "244",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:44.904Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738869",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:46.699Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738867",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:47.464Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "247",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:48.496Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738894",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:49.313Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "247",
+      "gemeObjectLinePoints": "(-269.6, -211.9);(-249.6, -210.3);(-228.8, -202.6);(-211.1, -193.9);(-195.7, -184.3);(-181.2, -173.7);(-167.4, -162.6);(-154.3, -150.7);(-141.2, -138.0);(-128.1, -124.4);(-115.9, -111.0);(-102.6, -95.4);(-91.8, -82.4);(-82.1, -70.2);(-73.5, -59.3);(-65.1, -49.1);(-56.9, -39.4);(-48.8, -30.4);(-39.5, -20.6);(-31.9, -13.1);(-24.6, -5.9);(-16.2, 2.1);(-7.5, 8.9);(1.6, 14.6);(11.2, 19.6);(20.9, 23.4);(31.9, 26.9);(42.1, 29.8);(52.2, 31.5);(62.7, 29.3);(72.2, 23.6);(81.1, 16.6);(89.6, 8.8);(99.1, 0.5);(106.8, -6.1);(116.3, -12.0);(125.9, -16.8);(138.1, -18.4);(148.2, -18.2);(162.3, -15.7);(175.6, -12.6);(189.1, -8.7);(203.6, -3.6);(219.1, 2.3);(235.7, 9.8);(252.4, 17.5);(269.6, 25.3);(289.1, 34.0);(310.0, 43.7);(333.0, 54.6);(357.6, 66.0);(382.3, 78.8);(411.5, 94.9);(443.5, 111.8);(477.5, 128.7);(509.4, 144.1);(539.8, 159.7);(565.3, 175.4);(582.9, 188.5);(596.3, 201.1);(605.2, 211.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:49.444Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "247",
+      "gemeObjectPosition": "(10.4, 6.4)",
+      "gemeObjectRotation": "356.1077",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:50.316Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738857",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:51.152Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "247",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:51.242Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "247",
+      "gemeObjectPosition": "(10.2, 6.7)",
+      "gemeObjectRotation": "354.3564",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:51.860Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "247",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:52.113Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.739167",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:52.966Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "248",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:53.912Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.73889",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:55.305Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "248",
+      "gemeObjectLinePoints": "(408.9, 244.3);(397.7, 244.3);(387.4, 243.5);(373.6, 239.5);(361.7, 235.0);(350.6, 229.9);(340.3, 224.9);(329.4, 219.1);(320.0, 213.6);(309.2, 206.3);(299.9, 199.9);(289.9, 191.3);(281.1, 183.7);(273.4, 176.0);(265.6, 168.5);(255.8, 158.8);(247.0, 149.4);(239.4, 141.0);(232.0, 132.7);(224.8, 124.6);(217.2, 116.5);(207.5, 105.6);(199.3, 95.9);(191.5, 87.3);(182.1, 76.5);(174.4, 67.6);(167.0, 59.5);(159.8, 51.4);(152.2, 43.4);(143.7, 34.2);(135.4, 25.4);(128.4, 17.4);(120.2, 8.2);(112.9, -0.2);(105.3, -9.2);(98.0, -17.8);(91.1, -26.1);(82.3, -36.3);(75.3, -44.1);(68.4, -51.9);(61.4, -60.2);(54.4, -68.4);(47.0, -77.3);(40.6, -85.8);(33.9, -95.4);(27.9, -103.9);(21.9, -113.0);(15.5, -122.5);(8.5, -132.5);(2.3, -141.0);(-4.3, -151.3);(-10.6, -160.6);(-16.4, -169.0);(-22.7, -177.3);(-30.0, -185.4);(-38.8, -194.3);(-48.9, -202.9);(-57.0, -210.0);(-66.6, -216.7);(-77.2, -222.7);(-86.3, -227.1);(-97.8, -231.7);(-109.1, -236.1);(-118.7, -239.5);(-133.3, -242.0);(-146.0, -243.5);(-157.6, -244.3);(-168.6, -243.7);(-178.8, -242.1);(-190.5, -238.3);(-202.3, -233.6);(-213.4, -227.7);(-226.1, -219.7);(-239.7, -209.7);(-254.2, -198.5);(-269.0, -186.9);(-283.0, -175.2);(-295.4, -163.8);(-307.3, -151.7);(-318.0, -140.1);(-327.2, -129.9);(-335.6, -120.6);(-342.6, -112.6);(-351.6, -103.5);(-359.8, -95.5);(-368.7, -87.2);(-377.2, -80.2);(-387.6, -75.6);(-398.2, -73.6);(-408.9, -75.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:55.427Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "248",
+      "gemeObjectPosition": "(12.4, 4.9)",
+      "gemeObjectRotation": "358.418",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:55.695Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738867",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:57.111Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "248",
+      "gemeObjectPosition": "(12.4, 4.9)",
+      "gemeObjectRotation": "358.451",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:57.294Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "249",
+      "gemeObjectParent": "201",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:57.671Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "248",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:58.107Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738867",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:58.209Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "250",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:58.343Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "250",
+      "gemeObjectLinePoints": "(0.0, -60.0);(-171.2, 4.8);(-284.7, 60.0)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:58.534Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "250",
+      "gemeObjectPosition": "(10.5, 4.7)",
+      "gemeObjectRotation": "356.1693",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:02:59.767Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738897",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:00.181Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "250",
+      "gemeObjectPosition": "(10.7, 5.0)",
+      "gemeObjectRotation": "3.997052",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:00.382Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "251",
+      "gemeObjectParent": "250",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:00.898Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "252",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:01.563Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.744438",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:02.053Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "252",
+      "gemeObjectLinePoints": "(75.0, 63.7);(56.6, 48.1);(36.4, 29.9);(15.1, 10.6);(-10.1, -14.1);(-27.3, -31.0);(-39.1, -44.3);(-47.1, -53.9);(-51.8, -63.7);(-42.3, -51.1);(-36.5, -39.6);(-36.7, -23.1);(-39.2, -11.6);(-45.1, -3.1);(-48.6, -16.0);(-48.8, -26.5);(-42.8, -35.6);(-34.1, -26.7);(-32.8, -7.0);(-34.9, 6.5);(-46.9, -2.2);(-54.5, -15.9);(-58.3, -32.0);(-58.2, -44.6);(-49.7, -52.9);(-33.8, -46.6);(-21.9, -32.1);(-14.3, -14.6);(-11.4, 5.5);(-16.4, 25.2);(-25.4, 40.6);(-35.6, 50.6);(-47.0, 56.6);(-58.6, 51.5);(-66.3, 41.6);(-71.0, 28.8);(-73.8, 17.2);(-75.0, 6.2);(-73.0, -4.0)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:03.087Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "252",
+      "gemeObjectPosition": "(7.6, 4.4)",
+      "gemeObjectRotation": "90.2557",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:03.260Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "252",
+      "gemeObjectPosition": "(7.6, 4.4)",
+      "gemeObjectRotation": "92.40589",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:03.405Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738894",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:05.181Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738894",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:05.477Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "250",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:05.778Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "252",
+      "gemeObjectPosition": "(7.6, 3.8)",
+      "gemeObjectRotation": "92.33215",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:05.899Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "252",
+      "gemeObjectPosition": "(7.6, 3.8)",
+      "gemeObjectRotation": "92.33215",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:06.645Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "252",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:06.979Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738854",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:08.815Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738895",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:10.613Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738895",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:11.404Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "253",
+      "gemeObjectParent": "201",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:11.897Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "254",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:12.429Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.73887",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:12.817Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "254",
+      "gemeObjectLinePoints": "(-46.9, -105.3);(-32.5, -105.3);(-17.5, -105.3);(-1.3, -105.3);(15.3, -105.3);(30.8, -105.3);(46.9, -105.3);(62.6, -104.1);(77.2, -101.8);(91.9, -98.4);(107.6, -94.0);(123.8, -88.1);(142.7, -80.2);(159.3, -72.3);(174.4, -63.9);(189.5, -55.7);(203.7, -47.1);(216.7, -39.6);(227.6, -32.7);(237.4, -26.6);(246.5, -20.1);(256.3, -13.0);(265.0, -6.3);(274.3, 0.5);(283.0, 7.7);(290.6, 14.5);(298.4, 21.0);(309.9, 29.6);(320.0, 37.2);(328.4, 43.8);(336.3, 50.5);(344.6, 58.2);(352.8, 65.6);(361.7, 72.8);(370.7, 79.9);(381.2, 87.0);(390.4, 92.9);(399.9, 98.8);(409.1, 103.1);(419.9, 105.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:12.962Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "254",
+      "gemeObjectPosition": "(12.2, 7.3)",
+      "gemeObjectRotation": "2.153738",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:14.210Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.74158",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:14.377Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "254",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:15.280Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "255",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:16.011Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738877",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:17.612Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "255",
+      "gemeObjectLinePoints": "(291.4, 200.7);(279.8, 195.5);(270.1, 190.0);(261.0, 184.2);(252.4, 177.6);(243.6, 170.8);(233.9, 163.6);(224.5, 156.4);(215.3, 149.3);(207.3, 143.1);(197.8, 135.3);(189.2, 127.9);(180.9, 120.6);(171.5, 111.8);(162.3, 103.4);(154.3, 96.7);(146.4, 89.9);(135.2, 82.2);(124.1, 74.8);(113.0, 68.0);(101.2, 61.4);(88.9, 54.7);(74.7, 48.3);(59.8, 42.5);(44.8, 36.9);(30.7, 32.0);(16.2, 27.9);(2.7, 24.2);(-8.6, 21.2);(-18.6, 19.0);(-28.6, 16.9);(-39.0, 15.2);(-51.2, 13.4);(-61.4, 11.9);(-71.5, 10.6);(-83.9, 9.0);(-94.2, 8.1);(-104.3, 7.5);(-114.8, 8.8);(-125.5, 12.3);(-136.4, 16.5);(-146.0, 20.6);(-155.9, 26.6);(-164.6, 32.6);(-173.8, 38.3);(-184.5, 42.4);(-195.3, 45.7);(-206.2, 47.7);(-216.4, 49.3);(-227.7, 50.3);(-238.4, 50.0);(-248.5, 47.9);(-258.9, 43.0);(-268.0, 37.3);(-276.2, 30.6);(-284.0, 22.3);(-291.4, 13.6);(-298.3, 3.6);(-304.4, -5.9);(-311.7, -17.3);(-316.8, -26.5);(-321.9, -35.6);(-327.4, -46.7);(-332.3, -56.5);(-337.2, -66.1);(-342.2, -76.2);(-348.3, -87.8);(-354.0, -97.6);(-359.1, -106.7);(-366.5, -120.1);(-375.7, -138.2);(-386.1, -164.3);(-396.3, -200.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:17.810Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738856",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:19.604Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738854",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:20.385Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "255",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:21.396Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.741055",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:23.201Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738869",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:24.978Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.738896",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:26.781Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "246",
+      "gemeObjectPosition": "(12.0, 8.9)",
+      "gemeObjectRotation": "1.740926",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:27.647Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "255",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:28.172Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "246",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:31.384Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "256",
+      "gemeObjectParent": "202",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:33.205Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "257",
+      "gemeObjectParent": "214",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:34.620Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "258",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:35.337Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "258",
+      "gemeObjectLinePoints": "(-8.4, -40.9);(8.4, -40.9);(30.5, -39.3);(50.1, -36.8);(68.7, -33.2);(86.3, -28.7);(103.6, -24.0);(120.4, -19.2);(136.5, -14.3);(150.9, -10.1);(163.2, -6.9);(174.6, -4.1);(186.2, -1.2);(196.7, 2.1);(207.5, 7.7);(217.1, 14.2);(225.3, 21.4);(231.8, 30.8);(237.3, 40.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:35.462Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "258",
+      "gemeObjectPosition": "(14.5, 8.6)",
+      "gemeObjectRotation": "5.606497",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:37.162Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "258",
+      "gemeObjectPosition": "(14.5, 8.6)",
+      "gemeObjectRotation": "5.025061",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:37.329Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "259",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:38.995Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "258",
+      "gemeObjectPosition": "(14.5, 8.6)",
+      "gemeObjectRotation": "4.818385",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:39.150Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "259",
+      "gemeObjectLinePoints": "(307.8, 120.7);(297.8, 115.1);(287.8, 108.5);(279.4, 102.6);(271.5, 96.2);(262.0, 88.4);(252.7, 80.1);(244.3, 72.0);(236.5, 63.9);(229.4, 56.6);(221.6, 48.2);(212.8, 39.6);(205.2, 32.5);(195.4, 23.4);(186.0, 15.1);(177.1, 7.3);(169.4, 0.7);(161.5, -6.1);(152.0, -13.4);(143.1, -20.6);(134.2, -28.1);(124.4, -36.2);(114.6, -44.6);(105.0, -52.5);(96.9, -59.2);(86.9, -67.2);(78.0, -74.1);(67.5, -81.4);(58.8, -86.9);(48.4, -92.7);(37.7, -97.7);(27.4, -101.6);(15.9, -105.1);(5.5, -107.6);(-6.4, -110.3);(-18.7, -112.3);(-29.3, -113.5);(-40.9, -114.2);(-53.4, -114.6);(-63.8, -114.1);(-75.9, -112.2);(-88.5, -108.6);(-101.6, -102.5);(-112.6, -96.8);(-122.9, -91.0);(-131.8, -85.5);(-141.2, -78.2);(-149.2, -71.1);(-156.4, -63.6);(-163.9, -55.9);(-171.3, -48.0);(-178.8, -39.7);(-186.6, -31.6);(-195.3, -23.9);(-204.0, -16.8);(-213.3, -11.0);(-224.5, -7.1);(-236.0, -4.0);(-246.1, -2.1);(-258.1, -3.4);(-267.8, -7.0);(-276.8, -13.9);(-285.8, -24.1);(-293.5, -35.4);(-299.8, -49.3);(-304.8, -66.5);(-307.8, -91.6);(-309.6, -120.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:39.316Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "259",
+      "gemeObjectPosition": "(13.6, 6.4)",
+      "gemeObjectRotation": "0.8138846",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:40.789Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "258",
+      "gemeObjectPosition": "(14.5, 8.6)",
+      "gemeObjectRotation": "5.132652",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:40.967Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "259",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:41.097Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "259",
+      "gemeObjectPosition": "(13.6, 6.4)",
+      "gemeObjectRotation": "0.8138846",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:42.580Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "258",
+      "gemeObjectPosition": "(15.0, 7.6)",
+      "gemeObjectRotation": "29.59991",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:42.768Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "259",
+      "gemeObjectPosition": "(13.6, 6.4)",
+      "gemeObjectRotation": "1.097256",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:44.385Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "259",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:44.493Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "258",
+      "gemeObjectPosition": "(15.1, 7.4)",
+      "gemeObjectRotation": "32.55331",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:46.164Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "258",
+      "gemeObjectPosition": "(15.2, 7.3)",
+      "gemeObjectRotation": "35.42021",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:46.910Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "258",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:48.598Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "260",
+      "gemeObjectParent": "202",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:49.864Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "261",
+      "gemeObjectParent": "214",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:51.597Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "262",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:52.646Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "262",
+      "gemeObjectLinePoints": "(0.0, -89.3);(12.4, -88.5);(24.6, -86.0);(39.6, -81.3);(59.4, -72.1);(78.8, -61.4);(96.9, -51.0);(113.7, -40.7);(129.4, -30.5);(143.3, -22.1);(156.0, -14.2);(168.0, -6.2);(178.8, 0.9);(188.1, 7.6);(197.6, 14.5);(206.2, 21.8);(214.9, 29.3);(224.5, 37.1);(233.9, 44.5);(242.0, 51.0);(250.0, 58.5);(259.6, 68.2);(267.4, 76.0);(274.8, 83.1);(284.1, 89.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:55.712Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "263",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:58.376Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "263",
+      "gemeObjectLinePoints": "(286.6, 162.3);(277.8, 153.9);(268.5, 146.1);(259.3, 138.2);(249.8, 129.8);(240.9, 121.6);(231.6, 113.1);(222.4, 105.2);(213.2, 97.7);(205.0, 90.7);(197.2, 84.2);(188.9, 77.0);(180.0, 69.5);(170.6, 62.3);(161.4, 55.1);(151.9, 48.0);(142.9, 41.3);(132.0, 33.3);(123.0, 26.9);(112.0, 19.1);(103.4, 13.2);(94.3, 7.2);(85.2, 0.9);(76.1, -5.7);(66.7, -13.3);(58.6, -19.5);(50.2, -25.9);(41.2, -32.2);(31.3, -38.0);(20.6, -42.7);(9.8, -45.9);(-1.1, -47.8);(-12.8, -47.7);(-25.5, -45.7);(-36.3, -42.9);(-45.9, -39.6);(-56.9, -35.2);(-68.3, -29.4);(-77.2, -24.3);(-85.7, -18.1);(-94.0, -12.3);(-102.6, -6.9);(-114.1, -2.0);(-125.8, 2.1);(-136.9, 5.0);(-148.7, 7.1);(-159.0, 8.4);(-171.6, 9.2);(-185.5, 8.4);(-197.5, 7.2);(-207.9, 5.6);(-220.5, 3.5);(-232.5, 1.4);(-242.9, -0.6);(-254.7, -3.0);(-265.0, -5.3);(-276.0, -7.8);(-286.6, -11.0);(-321.3, -58.5);(-350.2, -95.7);(-371.1, -129.7);(-383.6, -150.1);(-391.1, -162.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:03:58.479Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "263",
+      "gemeObjectPosition": "(13.9, 6.1)",
+      "gemeObjectRotation": "359.2705",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:00.246Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "263",
+      "gemeObjectPosition": "(13.9, 6.1)",
+      "gemeObjectRotation": "359.2678",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:00.469Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "263",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:02.063Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "263",
+      "gemeObjectPosition": "(13.9, 6.1)",
+      "gemeObjectRotation": "359.2672",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:03.087Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "263",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:05.381Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "262",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:07.400Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "264",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:10.173Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "264",
+      "gemeObjectLinePoints": "(363.1, 236.8);(353.5, 233.6);(343.8, 230.1);(333.1, 224.8);(321.1, 217.6);(311.9, 211.7);(302.0, 203.3);(294.0, 196.3);(285.7, 187.7);(278.7, 180.1);(271.6, 172.4);(262.2, 162.6);(254.2, 153.9);(247.0, 146.2);(237.0, 136.1);(229.1, 128.4);(219.5, 119.7);(208.5, 110.2);(198.8, 101.6);(190.5, 94.5);(182.4, 87.4);(174.3, 81.2);(164.6, 73.8);(154.4, 66.6);(144.7, 59.9);(134.9, 53.1);(125.0, 47.0);(107.8, 35.7);(94.7, 27.3);(85.7, 21.1);(77.5, 15.0);(68.9, 6.9);(60.6, -1.5);(52.8, -10.2);(45.3, -18.6);(38.1, -27.2);(31.3, -35.6);(25.2, -43.9);(18.8, -52.0);(11.7, -61.7);(3.5, -73.1);(-3.9, -83.9);(-11.1, -94.0);(-17.0, -102.5);(-22.5, -111.2);(-28.3, -121.2);(-33.3, -130.4);(-38.7, -140.3);(-44.0, -149.5);(-49.5, -158.6);(-55.7, -167.2);(-63.4, -175.2);(-70.8, -182.4);(-78.4, -189.9);(-86.6, -197.6);(-97.1, -207.1);(-106.2, -215.1);(-114.1, -221.5);(-124.0, -227.4);(-134.8, -231.7);(-148.4, -234.3);(-160.2, -235.9);(-171.3, -236.8);(-184.3, -236.6);(-196.5, -235.2);(-206.7, -233.2);(-217.6, -229.6);(-228.9, -225.4);(-239.7, -220.9);(-249.4, -216.2);(-259.6, -211.0);(-268.9, -205.1);(-277.7, -197.9);(-286.6, -188.8);(-295.1, -179.4);(-301.4, -170.9);(-307.6, -162.6);(-314.1, -153.7);(-320.8, -145.1);(-327.6, -137.1);(-335.3, -130.0);(-343.6, -124.1);(-353.3, -118.9);(-363.1, -114.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:10.301Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "265",
+      "gemeObjectParent": "209",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:10.369Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "264",
+      "gemeObjectPosition": "(12.7, 4.5)",
+      "gemeObjectRotation": "16.13268",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:12.006Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "264",
+      "gemeObjectPosition": "(12.9, 4.6)",
+      "gemeObjectRotation": "22.88715",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:12.860Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "264",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:14.430Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "266",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:16.795Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "266",
+      "gemeObjectLinePoints": "(-205.1, -182.1);(-194.3, -182.9);(-181.9, -185.0);(-168.8, -187.4);(-157.3, -189.7);(-146.4, -192.3);(-135.5, -194.6);(-124.6, -197.6);(-113.2, -201.0);(-102.4, -204.2);(-92.3, -207.4);(-80.2, -211.3);(-70.2, -214.8);(-59.0, -219.3);(-49.0, -223.2);(-39.1, -227.2);(-28.3, -232.4);(-17.8, -237.5);(-8.0, -242.5);(1.2, -248.0);(10.2, -253.2);(19.3, -258.4);(28.3, -263.9);(38.5, -269.6);(48.3, -274.6);(58.5, -278.8);(69.8, -282.9);(79.8, -286.6);(89.9, -290.4);(99.9, -294.3);(110.3, -297.0);(121.7, -296.2);(132.6, -293.4);(143.1, -288.9);(151.8, -283.4);(159.8, -276.5);(167.4, -267.1);(173.6, -257.9);(178.9, -247.6);(184.5, -234.6);(188.6, -222.8);(192.3, -213.3);(196.5, -202.4);(200.7, -192.7);(205.1, -182.9);(209.8, -173.4);(215.0, -163.3);(220.2, -152.0);(225.2, -142.0);(230.3, -132.5);(236.5, -121.9);(241.5, -112.8);(246.8, -103.3);(253.6, -92.4);(259.7, -83.5);(265.8, -75.3);(275.4, -64.4);(285.6, -54.3);(297.7, -43.8);(310.2, -33.5);(322.8, -23.4);(336.4, -13.7);(350.2, -3.8);(363.7, 5.3);(377.3, 14.7);(391.2, 24.0);(405.4, 33.5);(420.4, 42.9);(436.6, 52.9);(452.7, 63.3);(469.6, 73.9);(490.1, 87.1);(508.4, 99.4);(524.6, 111.2);(539.5, 121.9);(553.6, 132.3);(566.9, 142.1);(579.7, 151.2);(591.4, 159.5);(601.2, 166.1);(609.8, 171.6);(619.0, 176.9);(627.8, 182.1)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:16.926Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "266",
+      "gemeObjectPosition": "(9.8, 5.9)",
+      "gemeObjectRotation": "1.801876",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:18.602Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "266",
+      "gemeObjectPosition": "(9.8, 5.8)",
+      "gemeObjectRotation": "1.988472",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:19.153Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "266",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:19.944Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "221",
+      "gemeObjectPosition": "(19.8, 1.5)",
+      "gemeObjectRotation": "334.1396",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:20.253Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "219",
+      "gemeObjectPosition": "(19.8, 3.7)",
+      "gemeObjectRotation": "292.515",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:20.318Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "223",
+      "gemeObjectPosition": "(19.5, 2.0)",
+      "gemeObjectRotation": "43.6337",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:20.322Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "222",
+      "gemeObjectPosition": "(19.5, 3.3)",
+      "gemeObjectRotation": "8.337764",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:20.325Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "220",
+      "gemeObjectPosition": "(19.5, 2.7)",
+      "gemeObjectRotation": "356.3214",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:20.388Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "266",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:49.587Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "267",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:50.440Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "267",
+      "gemeObjectLinePoints": "(-166.9, -69.0);(-152.1, -61.0);(-138.9, -54.2);(-128.1, -48.1);(-117.6, -42.0);(-108.6, -36.4);(-96.7, -28.2);(-85.2, -20.1);(-74.3, -12.1);(-64.2, -4.0);(-51.7, 5.2);(-39.0, 14.3);(-26.2, 23.0);(-15.3, 30.6);(-3.9, 38.0);(7.7, 46.0);(18.2, 52.4);(30.2, 58.7);(40.1, 63.2);(51.7, 66.4);(64.6, 68.2);(75.2, 69.0);(86.4, 66.2);(97.4, 60.9);(107.3, 54.2);(116.8, 45.7);(126.1, 36.7);(134.5, 28.4);(142.7, 20.7);(150.1, 13.6);(158.9, 4.6);(166.9, -3.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:50.593Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "267",
+      "gemeObjectPosition": "(11.9, 9.0)",
+      "gemeObjectRotation": "352.3589",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:51.251Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "267",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:51.924Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:52.071Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "292",
+      "gemeObjectPosition": "(19.7, 1.5)",
+      "gemeObjectRotation": "351.0073",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:52.204Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "294",
+      "gemeObjectPosition": "(19.6, 2.1)",
+      "gemeObjectRotation": "12.12698",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:52.379Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "290",
+      "gemeObjectPosition": "(19.6, 3.8)",
+      "gemeObjectRotation": "356.1757",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:52.460Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "291",
+      "gemeObjectPosition": "(19.6, 2.7)",
+      "gemeObjectRotation": "0.3026992",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:52.461Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "293",
+      "gemeObjectPosition": "(19.6, 3.3)",
+      "gemeObjectRotation": "0.06843772",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:53.147Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "309",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:55.320Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "309",
+      "gemeObjectLinePoints": "(-318.4, -68.0);(-310.0, -60.0);(-302.1, -52.0);(-294.6, -43.6);(-285.3, -33.7);(-278.5, -25.8);(-270.5, -17.1);(-262.4, -8.6);(-254.0, -0.4);(-245.4, 7.4);(-236.6, 14.4);(-227.7, 20.7);(-218.0, 26.4);(-208.9, 31.5);(-199.1, 36.5);(-188.4, 41.1);(-178.8, 44.3);(-168.2, 47.4);(-158.3, 50.0);(-148.3, 52.4);(-137.5, 55.5);(-127.1, 58.5);(-116.8, 61.5);(-106.2, 64.1);(-95.1, 66.1);(-84.8, 67.3);(-73.8, 68.0);(-63.3, 67.2);(-50.9, 64.7);(-40.7, 62.4);(-29.0, 59.1);(-19.1, 56.3);(-9.2, 53.0);(1.1, 49.4);(12.1, 46.0);(23.1, 43.6);(34.5, 42.2);(45.4, 41.3);(55.9, 39.6);(67.8, 36.6);(79.7, 32.8);(90.9, 28.9);(101.6, 24.1);(112.0, 18.9);(122.2, 13.3);(131.6, 8.0);(140.8, 2.8);(151.9, -3.1);(161.8, -7.8);(171.7, -11.9);(182.5, -15.5);(192.5, -18.5);(203.8, -20.7);(225.3, -23.2);(248.6, -25.1);(270.2, -26.3);(290.4, -26.9);(306.9, -27.4);(318.4, -27.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:55.458Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "309",
+      "gemeObjectPosition": "(13.7, 8.3)",
+      "gemeObjectRotation": "356.6378",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:58.851Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "310",
+      "gemeObjectParent": "309",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:04:59.309Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "309",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:00.070Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:00.573Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:00.688Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "376",
+      "gemeObjectPosition": "(19.7, 1.5)",
+      "gemeObjectRotation": "351.0073",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:00.823Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "378",
+      "gemeObjectPosition": "(19.6, 2.1)",
+      "gemeObjectRotation": "12.12698",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:00.997Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "374",
+      "gemeObjectPosition": "(19.6, 3.8)",
+      "gemeObjectRotation": "356.1757",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:01.082Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "377",
+      "gemeObjectPosition": "(19.6, 3.3)",
+      "gemeObjectRotation": "0.06843772",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:01.086Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "375",
+      "gemeObjectPosition": "(19.6, 2.7)",
+      "gemeObjectRotation": "0.3026992",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:05.149Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "393",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:09.681Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "393",
+      "gemeObjectLinePoints": "(294.7, 222.4);(285.5, 217.6);(276.4, 211.9);(268.1, 206.1);(259.6, 199.8);(250.4, 193.2);(241.4, 186.1);(233.1, 179.0);(223.0, 169.6);(214.9, 162.3);(206.8, 155.1);(196.8, 146.8);(187.2, 139.4);(179.0, 132.6);(170.9, 125.7);(162.0, 118.4);(152.3, 110.4);(142.1, 102.8);(133.5, 96.6);(124.8, 90.1);(116.0, 83.8);(106.3, 76.8);(96.1, 69.5);(85.9, 62.6);(76.7, 56.5);(67.5, 50.9);(57.2, 45.1);(48.2, 40.4);(38.0, 35.2);(27.9, 30.5);(18.2, 26.4);(8.0, 22.8);(-2.9, 19.8);(-14.2, 17.7);(-25.8, 15.9);(-38.0, 14.9);(-50.5, 14.3);(-60.8, 14.3);(-72.2, 15.6);(-82.6, 17.9);(-93.7, 20.9);(-105.1, 25.1);(-115.6, 30.0);(-125.0, 35.4);(-133.5, 41.0);(-141.8, 47.1);(-149.6, 53.6);(-157.9, 59.5);(-167.2, 65.1);(-176.4, 69.6);(-186.8, 73.1);(-197.8, 75.2);(-208.4, 76.9);(-219.1, 77.9);(-230.0, 78.1);(-240.1, 77.0);(-249.8, 73.6);(-258.4, 67.9);(-265.9, 60.9);(-272.9, 52.3);(-279.0, 43.1);(-284.7, 34.4);(-289.7, 25.6);(-294.7, 16.3);(-301.3, 6.3);(-307.3, -2.8);(-312.9, -11.6);(-318.6, -20.0);(-324.5, -28.2);(-331.6, -36.4);(-339.1, -43.7);(-347.1, -50.5);(-356.4, -57.7);(-365.9, -63.7);(-374.9, -68.5);(-385.4, -74.1);(-394.6, -79.5);(-402.8, -86.4);(-409.8, -94.5);(-416.0, -113.7);(-419.7, -125.7);(-422.3, -136.5);(-423.9, -147.3);(-424.8, -160.6);(-425.4, -174.6);(-425.7, -192.6);(-426.0, -208.2);(-426.1, -222.4)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:09.808Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "393",
+      "gemeObjectPosition": "(14.1, 5.6)",
+      "gemeObjectRotation": "11.12133",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:11.529Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "393",
+      "gemeObjectPosition": "(14.4, 5.8)",
+      "gemeObjectRotation": "8.661558",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:12.382Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "393",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:12.671Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:12.795Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "418",
+      "gemeObjectPosition": "(19.7, 1.5)",
+      "gemeObjectRotation": "351.0696",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:12.921Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "420",
+      "gemeObjectPosition": "(19.6, 2.1)",
+      "gemeObjectRotation": "5.866703",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:13.015Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "419",
+      "gemeObjectPosition": "(19.6, 3.3)",
+      "gemeObjectRotation": "0.8729818",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:13.126Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "417",
+      "gemeObjectPosition": "(19.6, 2.7)",
+      "gemeObjectRotation": "359.547",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:13.211Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "416",
+      "gemeObjectPosition": "(19.6, 3.8)",
+      "gemeObjectRotation": "356.5807",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:14.256Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "435",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:16.969Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "435",
+      "gemeObjectLinePoints": "(-283.6, -190.8);(-271.6, -190.8);(-260.0, -189.6);(-249.8, -188.4);(-238.9, -186.2);(-228.4, -182.4);(-216.9, -176.5);(-207.2, -170.2);(-198.9, -164.0);(-191.2, -157.1);(-183.7, -149.8);(-176.5, -141.8);(-170.1, -133.8);(-161.9, -123.4);(-155.4, -114.3);(-147.5, -103.3);(-140.3, -93.9);(-134.0, -85.8);(-126.6, -76.2);(-119.8, -66.4);(-114.1, -57.8);(-107.9, -48.2);(-101.0, -37.6);(-94.4, -27.7);(-88.5, -18.1);(-82.1, -8.8);(-75.1, 0.4);(-68.1, 8.8);(-60.7, 17.0);(-51.0, 23.1);(-40.5, 26.7);(-29.7, 28.1);(-18.5, 28.6);(-8.1, 28.5);(2.5, 27.2);(12.5, 24.4);(22.4, 19.5);(32.8, 13.4);(42.3, 7.4);(51.1, 1.7);(60.0, -4.5);(69.8, -11.0);(80.4, -16.1);(91.6, -19.6);(103.1, -21.6);(114.1, -22.9);(125.8, -23.6);(138.0, -23.7);(150.6, -22.1);(160.9, -20.8);(171.1, -19.2);(182.0, -17.0);(194.2, -14.1);(206.3, -10.4);(217.9, -6.5);(231.7, -0.6);(245.2, 5.3);(258.1, 11.3);(271.0, 17.7);(283.6, 24.3);(295.9, 30.7);(307.7, 36.9);(318.0, 42.2);(327.4, 46.6);(338.6, 52.9);(348.9, 58.6);(358.3, 64.1);(367.6, 69.7);(377.1, 75.5);(386.4, 81.4);(396.0, 88.6);(406.2, 96.0);(418.3, 104.9);(430.7, 115.8);(443.4, 128.0);(454.2, 139.7);(463.9, 150.3);(474.1, 161.1);(486.2, 171.6);(497.1, 179.4);(506.8, 185.8);(516.3, 190.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:17.093Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "435",
+      "gemeObjectPosition": "(11.4, 5.9)",
+      "gemeObjectRotation": "0.2160094",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:18.795Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "435",
+      "gemeObjectPosition": "(11.4, 6.3)",
+      "gemeObjectRotation": "356.0895",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:18.959Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "435",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:20.599Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "435",
+      "gemeObjectPosition": "(11.4, 6.3)",
+      "gemeObjectRotation": "356.4805",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:22.399Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "435",
+      "gemeObjectPosition": "(11.5, 6.1)",
+      "gemeObjectRotation": "358.273",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:22.596Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "436",
+      "gemeObjectParent": "399",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:23.013Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "437",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:23.569Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "437",
+      "gemeObjectLinePoints": "(299.0, -21.9);(287.8, -21.9);(275.1, -21.9);(260.7, -21.9);(240.4, -21.9);(219.9, -21.9);(198.3, -21.9);(175.8, -21.9);(153.5, -21.5);(130.9, -19.6);(106.6, -16.9);(84.4, -14.1);(63.8, -11.2);(43.5, -7.9);(24.1, -4.7);(4.1, -1.2);(-16.7, 2.1);(-37.6, 5.3);(-59.4, 8.4);(-82.0, 11.5);(-105.6, 14.6);(-129.7, 17.2);(-152.6, 19.2);(-173.6, 20.3);(-192.9, 21.0);(-210.9, 21.5);(-228.9, 21.7);(-246.1, 21.9);(-262.5, 21.2);(-277.9, 18.8);(-291.1, 15.3);(-299.0, 8.0)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:23.722Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "437",
+      "gemeObjectPosition": "(8.8, 8.7)",
+      "gemeObjectRotation": "348.5974",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:24.179Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "435",
+      "gemeObjectPosition": "(11.4, 6.1)",
+      "gemeObjectRotation": "357.5693",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:25.398Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "437",
+      "gemeObjectPosition": "(8.8, 8.6)",
+      "gemeObjectRotation": "349.75",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:25.523Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "437",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:25.975Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "435",
+      "gemeObjectPosition": "(11.5, 6.1)",
+      "gemeObjectRotation": "358.0725",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:26.878Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "438",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:27.675Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "435",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:28.057Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "438",
+      "gemeObjectLinePoints": "(34.5, -68.3);(22.1, -68.3);(9.9, -68.3);(-3.8, -68.3);(-19.3, -68.3);(-34.5, -68.3);(-49.7, -67.9);(-64.4, -66.5);(-79.2, -64.4);(-95.3, -61.2);(-112.6, -57.7);(-130.9, -53.9);(-153.9, -49.3);(-173.7, -45.3);(-192.0, -41.3);(-207.0, -37.7);(-220.4, -34.0);(-232.4, -30.5);(-243.6, -27.3);(-254.0, -24.5);(-264.2, -21.6);(-273.9, -18.7);(-284.1, -15.0);(-294.6, -11.1);(-305.8, -6.4);(-317.2, -0.8);(-328.1, 4.6);(-337.1, 9.4);(-347.2, 15.1);(-358.5, 20.9);(-370.1, 26.8);(-446.6, 68.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:28.503Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "438",
+      "gemeObjectPosition": "(12.6, 8.7)",
+      "gemeObjectRotation": "353.7064",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:30.188Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "438",
+      "gemeObjectPosition": "(12.6, 8.7)",
+      "gemeObjectRotation": "353.7065",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:32.048Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "438",
+      "gemeObjectPosition": "(12.6, 8.7)",
+      "gemeObjectRotation": "353.7064",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:33.888Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "438",
+      "gemeObjectPosition": "(12.6, 8.7)",
+      "gemeObjectRotation": "353.7064",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:35.723Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "438",
+      "gemeObjectPosition": "(12.6, 8.7)",
+      "gemeObjectRotation": "353.7064",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:36.424Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "438",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:37.067Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:37.215Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "463",
+      "gemeObjectPosition": "(19.7, 1.5)",
+      "gemeObjectRotation": "351.0073",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:37.357Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "465",
+      "gemeObjectPosition": "(19.6, 2.1)",
+      "gemeObjectRotation": "5.503973",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:37.542Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "461",
+      "gemeObjectPosition": "(19.6, 3.8)",
+      "gemeObjectRotation": "356.1757",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:37.641Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "462",
+      "gemeObjectPosition": "(19.6, 2.7)",
+      "gemeObjectRotation": "0.3026992",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:37.646Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "464",
+      "gemeObjectPosition": "(19.6, 3.3)",
+      "gemeObjectRotation": "0.06843772",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:40.301Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "480",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:41.019Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "480",
+      "gemeObjectLinePoints": "(-64.7, 0.0);(-53.5, -8.8);(-42.8, -16.9);(-31.6, -25.7);(-20.0, -35.0);(-9.9, -43.4);(-0.2, -51.3);(8.8, -59.2);(16.6, -65.9);(26.4, -73.9);(35.2, -80.4);(44.0, -85.8);(53.7, -89.1);(64.7, -89.5)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:41.165Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "480",
+      "gemeObjectPosition": "(16.9, 4.2)",
+      "gemeObjectRotation": "1.764995",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:42.550Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "480",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:42.750Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "481",
+      "gemeObjectParent": "466",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:44.451Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "482",
+      "gemeObjectParent": "457",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:44.865Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "483",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:46.172Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "483",
+      "gemeObjectLinePoints": "(221.7, -75.0);(209.7, -73.8);(199.3, -72.2);(186.7, -68.9);(175.1, -65.3);(164.5, -61.2);(153.4, -55.9);(140.7, -48.3);(126.3, -39.0);(111.3, -28.6);(95.1, -16.7);(78.9, -4.4);(60.8, 10.6);(43.6, 24.4);(27.6, 36.2);(13.3, 46.6);(0.3, 55.6);(-11.2, 63.7);(-22.4, 72.3);(-34.8, 81.4);(-47.4, 90.0);(-60.1, 98.0);(-74.2, 107.2);(-85.4, 114.8);(-99.0, 123.3);(-109.5, 130.0);(-121.0, 137.2);(-131.9, 144.3);(-140.9, 149.4);(-151.4, 146.9);(-160.6, 141.3);(-169.3, 132.4);(-176.1, 123.9);(-181.8, 114.7);(-186.4, 105.7);(-189.9, 94.2);(-192.1, 84.1);(-193.8, 71.7);(-195.2, 59.4);(-196.8, 46.1);(-198.6, 32.1);(-200.5, 17.7);(-202.4, 3.4);(-204.0, -8.3);(-205.7, -19.8);(-207.1, -30.3);(-208.8, -41.7);(-211.4, -53.0);(-215.3, -63.4);(-221.7, -74.8);(-228.7, -85.3);(-236.2, -94.3);(-243.8, -102.6);(-252.8, -109.9);(-263.4, -117.5);(-277.3, -125.3);(-295.7, -132.8);(-316.3, -139.2);(-337.9, -143.9);(-356.9, -147.1);(-373.4, -149.1);(-388.6, -149.4)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:48.715Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "483",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:49.018Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:49.130Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "510",
+      "gemeObjectPosition": "(19.6, 2.1)",
+      "gemeObjectRotation": "5.866703",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:49.232Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "508",
+      "gemeObjectPosition": "(19.7, 1.5)",
+      "gemeObjectRotation": "351.0696",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:49.348Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "507",
+      "gemeObjectPosition": "(19.6, 2.7)",
+      "gemeObjectRotation": "359.547",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:49.462Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "509",
+      "gemeObjectPosition": "(19.6, 3.3)",
+      "gemeObjectRotation": "0.8729818",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:49.548Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "506",
+      "gemeObjectPosition": "(19.6, 3.8)",
+      "gemeObjectRotation": "356.5807",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:53.894Z"
+    },
+    "verb": "initialized",
+    "object": "learning support",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "learningSupportType": "helpBClicked",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:05:58.709Z"
+    },
+    "verb": "initialized",
+    "object": "learning support",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "learningSupportType": "we_ramp",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:16.433Z"
+    },
+    "verb": "exited",
+    "object": "learning support",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "learningSupportType": "we_ramp",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:18.173Z"
+    },
+    "verb": "exited",
+    "object": "learning support",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "learningSupportType": "allLearningSupports",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:20.924Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "526",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:25.094Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "526",
+      "gemeObjectLinePoints": "(272.3, 164.9);(262.7, 161.3);(253.3, 156.4);(244.9, 150.6);(236.6, 144.3);(228.1, 137.8);(219.4, 131.8);(210.9, 125.5);(201.9, 118.8);(193.6, 112.9);(185.1, 106.5);(176.4, 98.7);(168.3, 91.2);(161.1, 83.9);(151.6, 74.3);(143.0, 65.7);(133.5, 55.8);(125.0, 47.5);(115.9, 38.4);(108.5, 31.0);(100.0, 22.6);(92.9, 15.1);(84.6, 7.4);(75.7, 0.0);(66.3, -7.6);(57.9, -14.2);(49.2, -20.6);(40.9, -26.4);(31.8, -31.1);(20.8, -33.1);(10.6, -34.3);(0.5, -35.0);(-10.0, -35.0);(-20.7, -34.2);(-32.7, -33.0);(-43.9, -32.2);(-54.7, -31.0);(-65.5, -29.8);(-76.4, -28.3);(-87.3, -26.6);(-97.9, -24.0);(-109.0, -20.0);(-118.9, -16.5);(-128.8, -11.9);(-138.0, -7.2);(-147.1, -2.7);(-156.6, 2.3);(-165.8, 7.8);(-175.4, 13.0);(-184.7, 18.2);(-194.3, 22.9);(-204.9, 26.9);(-214.8, 30.1);(-225.6, 32.4);(-236.1, 32.2);(-244.3, 25.3);(-250.5, 16.8);(-255.4, 7.2);(-259.1, -2.5);(-263.0, -12.3);(-267.3, -23.4);(-272.3, -33.7);(-277.3, -42.6);(-284.6, -51.2);(-293.5, -60.4);(-302.4, -68.7);(-310.9, -76.4);(-319.3, -83.9);(-327.8, -91.2);(-336.6, -98.7);(-346.3, -106.9);(-356.4, -115.8);(-370.2, -127.5);(-382.8, -137.3);(-393.2, -145.2);(-402.6, -152.0);(-411.9, -158.8);(-421.0, -164.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:25.234Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "526",
+      "gemeObjectPosition": "(14.2, 5.9)",
+      "gemeObjectRotation": "355.3985",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:26.727Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "526",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:26.932Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "526",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:29.176Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameObjectId": "527",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:32.834Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "527",
+      "gemeObjectLinePoints": "(-284.0, -183.8);(-266.0, -163.4);(-246.0, -141.2);(-232.0, -125.5);(-222.0, -114.8);(-212.8, -104.8);(-205.6, -96.8);(-197.4, -88.0);(-189.2, -78.8);(-180.7, -69.2);(-172.4, -59.9);(-164.6, -51.9);(-157.2, -44.6);(-149.1, -37.1);(-141.0, -29.0);(-132.6, -20.9);(-124.4, -12.9);(-116.2, -5.3);(-107.7, 2.1);(-99.0, 8.9);(-90.6, 15.4);(-81.1, 22.1);(-72.3, 28.5);(-63.8, 34.8);(-54.6, 40.9);(-46.0, 46.6);(-36.4, 51.2);(-27.0, 55.2);(-16.6, 57.6);(-5.9, 59.0);(4.4, 58.3);(14.3, 54.6);(22.6, 48.4);(30.0, 40.7);(36.8, 32.9);(44.5, 24.6);(53.1, 16.0);(61.1, 8.9);(69.9, 1.8);(79.1, -4.1);(88.3, -9.2);(98.2, -13.0);(109.3, -16.2);(120.4, -18.0);(131.9, -19.6);(141.9, -20.5);(154.0, -19.8);(165.2, -17.8);(175.1, -14.6);(184.3, -10.3);(195.0, -3.7);(203.8, 1.8);(214.7, 8.8);(225.2, 15.3);(235.2, 22.1);(246.3, 29.7);(255.0, 35.1);(265.4, 42.3);(275.3, 49.0);(284.0, 55.5);(294.4, 63.0);(303.8, 69.8);(312.7, 76.0);(324.0, 84.8);(333.6, 92.2);(342.2, 98.6);(350.5, 104.4);(360.7, 111.1);(370.5, 117.9);(379.9, 124.8);(389.5, 131.8);(398.9, 137.9);(409.4, 144.0);(418.4, 148.9);(431.5, 153.8);(442.1, 157.9);(451.7, 161.6);(461.0, 166.6);(468.6, 173.6);(473.2, 183.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:32.983Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "527",
+      "gemeObjectPosition": "(11.4, 5.5)",
+      "gemeObjectRotation": "359.7166",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:34.684Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "527",
+      "gemeObjectPosition": "(11.3, 5.6)",
+      "gemeObjectRotation": "357.7761",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:34.831Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "527",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:36.502Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gemeObjectId": "527",
+      "gemeObjectPosition": "(11.3, 5.6)",
+      "gemeObjectRotation": "357.7791",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:06:37.520Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:07:24.301Z"
+    },
+    "verb": "satisfied",
+    "object": "achievement",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "badge": "gold",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Ultimate Pinball",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:07:24.564Z"
+    },
+    "verb": "moneyEarned",
+    "object": "goldWin",
+    "data": {
+      "gameLevelId": "Ultimate Pinball",
+      "moneyEarned": "20",
+      "currentMoney": "630",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

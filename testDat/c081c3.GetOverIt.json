@@ -1,0 +1,4235 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:53:53.445Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:53:54.523Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "11",
+      "gemeObjectPosition": "(13.7, 3.8)",
+      "gemeObjectRotation": "352.1566",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:08.935Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "12",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:09.105Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "12",
+      "gemeObjectLinePoints": "(-6.3, 0.0);(0.1, -15.2);(6.3, -23.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:09.252Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "12",
+      "gemeObjectPosition": "(8.7, 9.8)",
+      "gemeObjectRotation": "13.3827",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:09.889Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "12",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:10.213Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:10.385Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "11",
+      "gemeObjectPosition": "(13.7, 3.8)",
+      "gemeObjectRotation": "352.2174",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:11.205Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "12",
+      "gemeObjectParent": "11",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:12.289Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:14.717Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "13",
+      "gemeObjectLinePoints": "(-25.2, 161.4);(-25.2, 147.0);(-25.2, 130.3);(-24.4, 111.9);(-23.1, 94.5);(-21.1, 78.1);(-18.7, 62.2);(-16.5, 47.1);(-14.0, 32.4);(-11.6, 18.4);(-9.4, 5.2);(-7.3, -7.1);(-5.7, -18.1);(-3.9, -29.1);(-2.4, -40.1);(-0.7, -52.3);(0.7, -64.9);(2.0, -76.4);(2.7, -87.7);(3.2, -98.1);(2.6, -113.1);(0.7, -124.9);(-2.8, -134.4);(-11.4, -142.5);(-23.7, -147.3);(-34.3, -145.1);(-41.4, -133.3);(-45.7, -121.0);(-46.7, -110.5);(-40.5, -100.1);(-31.1, -93.5);(-19.9, -89.6);(-7.2, -91.2);(3.2, -96.2);(9.9, -109.2);(11.1, -123.3);(4.2, -138.7);(-6.4, -150.2);(-19.5, -157.2);(-32.9, -161.4);(-44.6, -159.9);(-53.6, -149.4);(-59.0, -129.9);(-57.5, -105.8);(-49.8, -80.5);(-37.1, -59.0);(-23.5, -43.6);(-9.8, -34.4);(2.5, -31.3);(13.4, -34.2);(22.8, -43.2);(29.2, -61.0);(33.1, -79.2);(32.2, -97.4);(27.2, -113.5);(19.9, -125.5);(9.5, -133.2);(-3.2, -137.4);(-16.0, -135.5);(-27.2, -127.5);(-36.0, -110.8);(-41.3, -92.3);(-40.4, -74.4);(-34.7, -59.7);(-24.5, -49.3);(-11.2, -43.0);(2.8, -40.5);(16.4, -43.3);(27.8, -49.4);(36.6, -61.1);(41.9, -77.3);(41.5, -93.8);(34.0, -112.6);(16.8, -132.6);(-2.4, -146.6);(-23.5, -155.4);(-43.8, -159.9);(-60.7, -155.8);(-71.7, -141.7);(-75.9, -119.3);(-72.4, -95.0);(-61.9, -70.9);(-47.6, -52.0);(-28.2, -40.2);(-11.4, -34.4);(3.1, -34.5);(14.6, -38.9);(22.7, -46.8);(28.0, -58.7);(29.5, -73.9);(25.2, -91.0);(15.9, -107.6);(0.7, -122.4);(-16.9, -132.5);(-35.4, -138.6);(-51.3, -139.8);(-64.4, -132.1);(-72.3, -115.1);(-72.7, -89.7);(-61.7, -58.9);(-46.3, -34.4);(-25.8, -15.3);(-1.9, -3.4);(21.6, 3.3);(40.5, 4.5);(57.0, 0.9);(68.6, -5.3);(75.9, -18.3);(75.5, -38.4);(64.4, -63.7);(45.0, -89.3);(20.1, -111.0);(-4.0, -125.3);(-27.2, -133.8);(-45.2, -137.3);(-58.0, -133.1);(-65.7, -117.7);(-61.5, -90.5);(-46.1, -56.9);(-28.9, -29.6);(-9.0, -8.8);(11.3, 4.5);(28.7, 12.0);(43.6, 13.0);(54.5, 8.7);(61.4, -2.2);(63.2, -19.2);(55.9, -40.2);(40.3, -61.9);(18.1, -81.4);(-3.2, -93.9);(-24.4, -101.4);(-40.3, -103.1);(-50.2, -97.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:23.913Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "14",
+      "gemeObjectParent": "11",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:24.605Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:25.039Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "15",
+      "gemeObjectLinePoints": "(-3.5, 24.2);(-0.3, 12.6);(1.6, 2.5);(2.8, -8.8);(3.5, -19.2);(-5.3, -24.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:25.185Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(19.3, 2.9)",
+      "gemeObjectRotation": "178.2931",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:26.023Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "16",
+      "gemeObjectParent": "11",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:26.185Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:26.854Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(19.4, 5.9)",
+      "gemeObjectRotation": "226.3018",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:27.679Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:29.809Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "18",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:31.207Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "18",
+      "gemeObjectLinePoints": "(-120.5, 100.3);(-106.9, 95.9);(-96.7, 92.4);(-83.0, 86.0);(-70.4, 79.3);(-59.7, 72.9);(-49.6, 66.3);(-41.2, 60.3);(-32.9, 53.5);(-23.9, 45.0);(-15.0, 36.7);(-6.4, 27.7);(1.2, 19.6);(8.1, 11.1);(14.3, 1.5);(19.2, -9.8);(21.7, -21.3);(18.8, -32.7);(11.9, -41.9);(1.7, -44.2);(-9.2, -35.6);(-15.7, -24.5);(-19.6, -12.2);(-18.8, -0.4);(-14.3, 9.1);(-6.4, 16.4);(6.8, 20.7);(23.1, 22.2);(41.6, 16.6);(60.0, 5.7);(75.0, -8.1);(86.0, -22.7);(93.0, -41.9);(94.0, -59.4);(89.4, -74.7);(79.0, -87.5);(64.8, -96.0);(49.5, -100.3);(34.3, -96.9);(22.0, -86.8);(13.8, -73.6);(9.3, -58.4);(8.2, -46.1);(17.1, -30.4);(31.7, -18.5);(49.6, -11.0);(71.2, -7.3);(90.1, -9.1);(106.3, -14.1);(117.2, -19.2);(120.5, -29.0);(114.1, -38.9);(97.9, -48.0);(69.7, -54.3);(41.6, -55.3);(20.8, -52.6);(4.7, -44.7);(-5.0, -35.5);(-7.2, -22.8);(0.3, -8.8);(12.8, 2.5);(24.3, 10.4);(41.6, 15.6);(57.1, 15.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:34.993Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:37.409Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "19",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:38.047Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "19",
+      "gemeObjectLinePoints": "(65.8, 40.2);(57.0, 34.2);(51.8, 25.0);(31.0, 26.7);(4.5, 25.3);(-26.5, 16.5);(-54.0, 4.4);(-75.3, -7.3);(-91.6, -18.7);(-102.6, -27.9);(-95.2, -35.9);(-83.6, -40.2);(-65.8, -38.4);(-46.4, -31.8);(-30.7, -24.6);(-19.7, -18.3);(-29.1, -13.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:38.152Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(17.3, -0.3)",
+      "gemeObjectRotation": "274.1412",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:38.221Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(7.4, 4.0)",
+      "gemeObjectRotation": "327.6629",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:38.260Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "19",
+      "gemeObjectPosition": "(8.5, 2.9)",
+      "gemeObjectRotation": "9.554666",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:39.488Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:39.604Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "19",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:39.668Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "20",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:40.769Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "20",
+      "gemeObjectLinePoints": "(-19.2, 116.0);(-19.2, 104.4);(-19.2, 90.3);(-18.4, 78.6);(-17.1, 68.0);(-14.7, 56.0);(-12.9, 46.0);(-11.0, 36.0);(-9.5, 26.0);(-10.1, 14.8);(-11.8, 4.5);(-13.5, -6.9);(-14.6, -18.5);(-15.6, -29.1);(-17.0, -41.8);(-18.7, -52.7);(-20.9, -62.8);(-30.2, -54.5);(-33.0, -44.7);(-22.7, -37.2);(-9.3, -32.7);(3.2, -31.6);(14.2, -33.7);(23.7, -39.4);(29.7, -48.8);(33.0, -60.9);(30.9, -75.7);(24.5, -90.6);(17.8, -102.0);(8.6, -110.8);(-0.9, -116.0);(-13.0, -112.4);(-21.1, -105.4);(-25.9, -95.6);(-13.6, -89.4);(2.2, -88.0);(19.6, -90.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:43.521Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "21",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:43.983Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "21",
+      "gemeObjectLinePoints": "(-156.4, 0.0);(-154.4, -13.6);(-151.2, -25.4);(-146.5, -36.0);(-140.9, -45.6);(-133.5, -54.6);(-124.7, -63.5);(-113.8, -72.9);(-101.2, -83.0);(-87.3, -93.0);(-72.5, -102.6);(-58.5, -111.2);(-46.9, -118.3);(-35.9, -124.6);(-24.9, -131.1);(-13.1, -138.3);(-2.0, -145.0);(9.4, -152.2);(26.3, -161.7);(43.6, -171.0);(62.4, -181.0);(79.7, -190.6);(96.0, -199.2);(111.5, -206.3);(125.9, -213.0);(145.0, -223.4);(156.4, -229.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:44.119Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "21",
+      "gemeObjectPosition": "(8.1, 7.6)",
+      "gemeObjectRotation": "354.9021",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:45.553Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:45.820Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "21",
+      "gemeObjectPosition": "(6.9, 3.0)",
+      "gemeObjectRotation": "37.77463",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:47.609Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "21",
+      "gemeObjectPosition": "(9.5, 3.2)",
+      "gemeObjectRotation": "354.2153",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:48.203Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "22",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:48.652Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "22",
+      "gemeObjectLinePoints": "(-210.3, 70.7);(-210.3, 57.5);(-210.3, 40.3);(-210.3, 18.1);(-210.3, -2.5);(-210.3, -24.8);(-210.3, -48.2);(-210.3, -70.7);(-208.3, -92.9);(-203.5, -114.3);(-195.4, -134.3);(-184.6, -154.7);(-170.9, -174.2);(-155.1, -192.2);(-128.4, -214.7);(-101.1, -235.3);(-76.8, -253.7);(-51.0, -272.0);(-24.7, -290.9);(6.2, -311.9);(38.4, -332.9);(68.5, -350.6);(107.0, -371.3);(138.9, -386.9);(168.8, -399.9);(194.7, -410.9);(210.3, -417.5)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:48.804Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "22",
+      "gemeObjectPosition": "(8.3, 6.6)",
+      "gemeObjectRotation": "0.1252585",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:48.920Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.5, -2.0)",
+      "gemeObjectRotation": "341.8663",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:49.036Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.6, -1.2)",
+      "gemeObjectRotation": "336.341",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:49.104Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.3, -1.9)",
+      "gemeObjectRotation": "337.6834",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:49.237Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:49.407Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "21",
+      "gemeObjectPosition": "(10.9, 0.7)",
+      "gemeObjectRotation": "326.2159",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.206Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "23",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.342Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.2, -1.8)",
+      "gemeObjectRotation": "341.3019",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.350Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.0, -1.9)",
+      "gemeObjectRotation": "334.0053",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.386Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.0, -1.9)",
+      "gemeObjectRotation": "338.2096",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.474Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.6, -1.0)",
+      "gemeObjectRotation": "349.6373",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.477Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.1, -1.8)",
+      "gemeObjectRotation": "338.871",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.484Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.2, -1.8)",
+      "gemeObjectRotation": "339.7311",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.493Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.1, -1.8)",
+      "gemeObjectRotation": "338.533",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.526Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.3, -1.7)",
+      "gemeObjectRotation": "342.0691",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.537Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.6, -1.0)",
+      "gemeObjectRotation": "357.7499",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.881Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.7, -0.9)",
+      "gemeObjectRotation": "352.0129",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.885Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.3, -1.7)",
+      "gemeObjectRotation": "343.7439",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.901Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.4, -1.7)",
+      "gemeObjectRotation": "346.9285",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.904Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.3, -1.7)",
+      "gemeObjectRotation": "345.3493",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.910Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.7, -0.9)",
+      "gemeObjectRotation": "353.5334",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:50.957Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.7, -0.9)",
+      "gemeObjectRotation": "350.6928",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.069Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.7, -0.8)",
+      "gemeObjectRotation": "355.0963",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.082Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.5, -1.6)",
+      "gemeObjectRotation": "350.0612",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.088Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.4, -1.6)",
+      "gemeObjectRotation": "348.4981",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.094Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.7, -0.8)",
+      "gemeObjectRotation": "356.6632",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.094Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.7, -0.8)",
+      "gemeObjectRotation": "358.2235",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.150Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.5, -1.6)",
+      "gemeObjectRotation": "351.6175",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.269Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.6, -1.5)",
+      "gemeObjectRotation": "354.7036",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.270Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.8, -0.7)",
+      "gemeObjectRotation": "359.7758",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.278Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.5, -1.6)",
+      "gemeObjectRotation": "353.1656",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.280Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.8, -0.7)",
+      "gemeObjectRotation": "2.855157",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.300Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.8, -0.7)",
+      "gemeObjectRotation": "1.32005",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.346Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "23",
+      "gemeObjectLinePoints": "(-263.3, 56.3);(-263.3, 45.5);(-263.3, 17.8);(-263.3, -8.8);(-263.3, -32.0);(-263.3, -56.3);(-261.7, -78.5);(-257.2, -101.4);(-247.2, -126.7);(-232.1, -154.3);(-212.2, -182.1);(-185.4, -209.5);(-141.0, -240.0);(-89.5, -270.3);(-32.3, -298.9);(27.7, -326.0);(85.3, -349.9);(137.4, -371.0);(186.3, -388.9);(234.5, -406.0);(263.3, -416.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.460Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.6, -1.5)",
+      "gemeObjectRotation": "356.2296",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.466Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(9.0, 5.8)",
+      "gemeObjectRotation": "0.6405973",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.473Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.8, -0.5)",
+      "gemeObjectRotation": "7.011973",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.476Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.8, -0.6)",
+      "gemeObjectRotation": "4.379272",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.479Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.7, -1.4)",
+      "gemeObjectRotation": "359.1558",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.542Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.7, -1.4)",
+      "gemeObjectRotation": "0.6601603",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.591Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.8, -0.5)",
+      "gemeObjectRotation": "8.312805",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.702Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.8, -1.4)",
+      "gemeObjectRotation": "3.154852",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.704Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.9, -0.5)",
+      "gemeObjectRotation": "9.605199",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.710Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(9.9, -0.9)",
+      "gemeObjectRotation": "30.32308",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.713Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(9.8, -1.4)",
+      "gemeObjectRotation": "2.018843",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.719Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(10.2, -1.2)",
+      "gemeObjectRotation": "358.7272",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.782Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "22",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:51.824Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "21",
+      "gemeObjectPosition": "(8.6, -0.3)",
+      "gemeObjectRotation": "60.86759",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:52.361Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(10.6, 5.1)",
+      "gemeObjectRotation": "340.0345",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:52.461Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:52.709Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:52.802Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "21",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:52.809Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "18",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:52.811Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "20",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:52.813Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "23",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:52.916Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "11",
+      "gemeObjectPosition": "(13.7, 3.8)",
+      "gemeObjectRotation": "352.2174",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:54.873Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "12",
+      "gemeObjectParent": "11",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:55.303Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:54:57.986Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "13",
+      "gemeObjectLinePoints": "(-6.3, 137.9);(-6.3, 124.7);(-6.3, 113.6);(-6.3, 98.5);(-6.3, 83.5);(-6.3, 69.3);(-6.3, 54.7);(-5.5, 38.8);(-4.6, 24.9);(-3.7, 10.5);(-2.7, -4.5);(-2.1, -18.7);(-1.8, -32.1);(-1.6, -43.7);(-1.5, -54.6);(-11.0, -59.6);(-21.1, -57.0);(-10.8, -63.0);(-3.8, -71.0);(0.8, -80.6);(1.6, -92.8);(-4.7, -102.5);(-15.8, -105.1);(-24.0, -99.1);(-28.9, -86.3);(-28.6, -70.2);(-23.3, -52.5);(-17.3, -39.2);(-9.3, -28.7);(-0.9, -22.5);(11.4, -26.7);(20.3, -34.0);(26.5, -44.1);(30.2, -55.3);(28.8, -68.0);(19.6, -82.8);(7.2, -93.7);(-4.2, -100.7);(-16.6, -104.8);(-26.9, -95.3);(-33.0, -82.4);(-33.9, -65.9);(-32.1, -53.2);(-26.1, -41.5);(-18.2, -34.1);(-8.2, -30.5);(2.6, -31.5);(14.2, -38.1);(22.4, -46.1);(26.2, -59.3);(24.0, -72.4);(16.7, -85.1);(7.5, -95.1);(-3.6, -101.9);(-14.7, -105.9);(-23.7, -95.2);(-25.9, -81.1);(-22.5, -66.7);(-16.0, -54.1);(-7.7, -44.9);(2.1, -39.3);(13.5, -36.8);(24.0, -38.1);(33.5, -42.9);(40.8, -51.4);(45.6, -62.4);(48.4, -74.3);(48.6, -87.0);(45.0, -99.4);(39.3, -109.7);(31.9, -117.4);(20.2, -121.7);(10.0, -119.0);(3.5, -109.8);(0.4, -96.7);(-0.3, -86.5);(9.7, -83.5);(21.7, -85.3);(30.5, -92.0);(27.8, -105.6);(19.0, -118.2);(7.3, -128.2);(-6.5, -134.5);(-19.6, -137.9);(-31.1, -136.4);(-40.0, -130.7);(-46.1, -115.6);(-48.6, -91.0);(-47.6, -71.0);(-45.1, -55.0);(-41.2, -43.8);(-32.8, -36.3);(-11.8, -39.4)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:00.411Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:01.906Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "14",
+      "gemeObjectLinePoints": "(-20.7, 140.8);(-20.7, 122.8);(-20.7, 97.6);(-18.3, 61.7);(-15.2, 30.5);(-11.8, 1.4);(-8.9, -24.8);(-6.8, -44.6);(-4.8, -60.8);(-3.5, -73.8);(-2.8, -84.4);(-12.7, -88.3);(-20.7, -78.7);(-18.3, -67.3);(-11.6, -59.3);(-0.9, -54.4);(9.6, -51.5);(20.7, -52.6);(31.0, -56.9);(37.9, -70.2);(40.5, -85.0);(37.2, -101.1);(28.1, -116.3);(15.0, -128.7);(0.3, -136.5);(-14.1, -140.8);(-25.9, -139.8);(-35.0, -130.3);(-40.5, -112.3);(-40.2, -92.3);(-34.4, -71.4);(-25.7, -54.2);(-16.1, -42.6);(-5.9, -35.6);(3.8, -32.7);(14.4, -36.5);(22.8, -43.6);(28.6, -53.4);(32.1, -66.5);(31.8, -77.6);(27.2, -86.7);(17.3, -93.3);(4.1, -97.7);(-7.0, -99.9);(-17.7, -98.0);(-25.3, -90.9);(-29.8, -79.8);(-29.4, -65.2);(-25.1, -50.4);(-17.7, -37.9);(-8.9, -29.6);(1.2, -25.9);(10.8, -30.0);(16.6, -42.5);(17.7, -54.8);(12.8, -67.4);(5.0, -76.1);(-5.7, -77.3);(-12.9, -67.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:04.625Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:05.808Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "15",
+      "gemeObjectLinePoints": "(-188.8, 24.9);(-188.8, 12.9);(-188.8, 1.7);(-188.8, -12.2);(-188.8, -24.9);(-187.6, -37.4);(-185.3, -50.5);(-182.7, -61.5);(-178.0, -75.7);(-173.5, -88.3);(-168.9, -99.4);(-163.6, -109.7);(-158.1, -119.8);(-151.6, -131.5);(-146.5, -140.5);(-141.0, -150.3);(-135.4, -160.2);(-129.6, -170.6);(-123.3, -181.2);(-116.7, -192.3);(-111.6, -201.8);(-106.5, -211.1);(-100.2, -223.5);(-94.9, -234.9);(-90.5, -244.2);(-85.8, -254.5);(-81.0, -265.5);(-76.6, -277.0);(-72.7, -286.6);(-67.5, -298.0);(-63.7, -308.0);(-59.3, -318.8);(-55.1, -329.3);(-51.0, -339.2);(-46.1, -349.6);(-40.8, -359.0);(-34.8, -368.2);(-26.8, -376.9);(-18.8, -383.8);(-6.8, -391.1);(4.4, -397.1);(16.3, -402.7);(28.6, -408.4);(42.0, -414.3);(56.5, -420.6);(77.2, -428.8);(101.6, -438.1);(131.4, -449.3);(165.3, -462.8);(188.8, -472.1)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:05.940Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(9.3, 7.3)",
+      "gemeObjectRotation": "353.5798",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:07.506Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "16",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:07.720Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(4.5, 0.4)",
+      "gemeObjectRotation": "70.15528",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:08.152Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "17",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:09.108Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "17",
+      "gemeObjectLinePoints": "(-141.2, 5.4);(-141.2, -5.4);(-140.8, -18.3);(-139.8, -28.8);(-136.4, -42.3);(-132.3, -55.6);(-127.1, -68.4);(-121.1, -81.3);(-116.0, -92.6);(-111.7, -101.8);(-107.1, -110.9);(-101.1, -122.4);(-96.8, -131.7);(-91.4, -142.8);(-86.1, -154.3);(-81.0, -165.6);(-77.1, -176.4);(-73.5, -186.9);(-70.2, -198.0);(-67.4, -208.2);(-64.1, -219.6);(-61.0, -230.4);(-57.1, -241.7);(-52.3, -254.4);(-46.7, -268.5);(-40.1, -282.9);(-33.0, -297.2);(-25.5, -311.8);(-17.4, -325.3);(-8.5, -339.0);(0.8, -352.5);(10.8, -365.7);(20.0, -377.7);(28.7, -388.0);(37.5, -397.9);(46.8, -408.2);(56.4, -417.9);(65.4, -427.0);(74.7, -435.6);(101.1, -454.8);(126.2, -473.1);(141.2, -484.1)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:09.421Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(4.1, 3.4)",
+      "gemeObjectRotation": "50.75262",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:09.525Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:09.605Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "17",
+      "gemeObjectPosition": "(7.8, 7.5)",
+      "gemeObjectRotation": "359.6411",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:11.209Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(4.4, -0.4)",
+      "gemeObjectRotation": "74.52277",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:12.335Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "17",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:13.004Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(4.4, 0.1)",
+      "gemeObjectRotation": "72.10487",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:13.903Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:14.803Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(4.3, 1.6)",
+      "gemeObjectRotation": "60.23097",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:16.585Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(4.4, 4.2)",
+      "gemeObjectRotation": "41.44314",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:17.721Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:18.386Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(4.4, 0.6)",
+      "gemeObjectRotation": "67.85146",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:19.004Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "18",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:20.226Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "18",
+      "gemeObjectLinePoints": "(-114.0, 177.6);(-102.4, 168.4);(-87.4, 156.5);(-70.5, 141.4);(-55.1, 127.1);(-39.8, 110.1);(-24.7, 91.9);(-11.2, 72.6);(2.9, 49.0);(14.1, 28.5);(22.9, 10.1);(29.3, -5.3);(34.4, -17.7);(38.2, -28.4);(41.3, -39.2);(44.0, -49.6);(46.0, -60.3);(47.6, -74.7);(48.6, -87.8);(49.1, -101.6);(49.5, -116.7);(49.7, -130.2);(49.8, -142.6);(49.1, -154.1);(40.7, -164.2);(30.8, -171.1);(20.1, -175.2);(9.2, -177.6);(-2.1, -176.3);(-13.2, -171.5);(-23.5, -162.7);(-31.7, -149.7);(-37.0, -130.8);(-39.0, -103.4);(-35.0, -78.2);(-26.6, -53.9);(-17.6, -34.9);(-5.7, -19.1);(6.2, -8.8);(22.1, -2.6);(38.5, -1.7);(56.7, -7.2);(75.2, -17.2);(91.1, -30.1);(102.7, -44.6);(110.0, -64.1);(114.0, -83.8);(111.2, -106.0);(102.3, -129.8);(93.0, -148.0);(84.2, -160.5);(76.1, -168.1);(65.7, -165.4);(69.8, -155.8);(82.3, -158.0)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:20.321Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "15",
+      "gemeObjectPosition": "(4.2, 3.0)",
+      "gemeObjectRotation": "50.06079",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:20.394Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(19.0, 5.8)",
+      "gemeObjectRotation": "0.07258013",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:21.240Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "19",
+      "gemeObjectParent": "11",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:21.354Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:22.036Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(18.8, 3.1)",
+      "gemeObjectRotation": "328.4955",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:22.535Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "15",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:23.822Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(18.2, 1.6)",
+      "gemeObjectRotation": "311.1504",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:24.458Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "20",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:24.617Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:25.081Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "20",
+      "gemeObjectLinePoints": "(-67.9, 0.0);(-67.5, -10.4);(-66.1, -20.6);(-64.0, -32.4);(-61.5, -44.2);(-58.5, -55.7);(-55.0, -67.0);(-51.8, -77.4);(-47.4, -88.9);(-42.4, -100.5);(-37.4, -110.7);(-30.8, -122.8);(-24.8, -133.7);(-18.5, -145.0);(-13.0, -154.6);(-7.4, -164.4);(-0.8, -176.2);(4.8, -185.7);(10.9, -196.6);(17.0, -207.6);(23.4, -218.2);(28.9, -227.7);(37.0, -239.8);(45.8, -251.9);(53.9, -262.7);(60.4, -270.8);(67.9, -278.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:25.619Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(18.1, 1.6)",
+      "gemeObjectRotation": "310.4995",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.022Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(4.1, 5.1)",
+      "gemeObjectRotation": "53.69596",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.120Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.8, 4.2)",
+      "gemeObjectRotation": "69.20346",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.209Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(4.0, 5.0)",
+      "gemeObjectRotation": "56.78176",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.213Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.9, 4.6)",
+      "gemeObjectRotation": "62.82425",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.244Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.9, 4.8)",
+      "gemeObjectRotation": "59.76086",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.326Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.8, 4.4)",
+      "gemeObjectRotation": "65.9724",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.362Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.7, 3.5)",
+      "gemeObjectRotation": "79.36814",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.366Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.7, 3.7)",
+      "gemeObjectRotation": "75.90465",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.371Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.8, 4.0)",
+      "gemeObjectRotation": "72.5153",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.385Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.8, 3.3)",
+      "gemeObjectRotation": "82.90229",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.414Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.8, 3.1)",
+      "gemeObjectRotation": "86.50271",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.514Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(4.0, 2.3)",
+      "gemeObjectRotation": "97.65585",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.518Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.8, 2.8)",
+      "gemeObjectRotation": "90.16509",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.525Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(3.9, 2.6)",
+      "gemeObjectRotation": "93.88457",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.547Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "20",
+      "gemeObjectPosition": "(4.1, 2.1)",
+      "gemeObjectRotation": "101.4745",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:26.649Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "20",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:27.188Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "21",
+      "gemeObjectParent": "1",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:27.419Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(18.5, 2.3)",
+      "gemeObjectRotation": "318.8002",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:27.677Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "20",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:28.218Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "22",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:28.662Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "22",
+      "gemeObjectLinePoints": "(-60.8, 0.0);(-43.2, -29.2);(-22.3, -60.3);(-4.1, -83.0);(13.2, -100.2);(24.0, -110.9);(39.3, -120.2);(49.2, -126.1);(60.8, -130.5)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:28.866Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "22",
+      "gemeObjectPosition": "(7.0, 3.6)",
+      "gemeObjectRotation": "18.12868",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:28.870Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(8.6, 1.1)",
+      "gemeObjectRotation": "18.11648",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:28.878Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(8.5, 1.1)",
+      "gemeObjectRotation": "23.62056",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:29.306Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(18.4, 2.0)",
+      "gemeObjectRotation": "315.9612",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:29.710Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "23",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:30.448Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "23",
+      "gemeObjectLinePoints": "(-73.0, 0.0);(-69.4, -10.0);(-58.0, -38.0);(-40.4, -76.0);(-25.4, -108.4);(-8.5, -140.2);(7.3, -167.7);(20.8, -189.4);(30.1, -204.1);(37.3, -214.8);(44.0, -223.7);(50.4, -232.6);(56.2, -242.0);(61.3, -250.8);(65.6, -260.5);(69.0, -270.7);(71.0, -282.4);(72.2, -293.8);(72.9, -305.1);(73.0, -315.5);(73.0, -325.7);(73.0, -335.8);(73.0, -348.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:30.589Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(6.8, 7.7)",
+      "gemeObjectRotation": "0.6030304",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:30.681Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(7.0, 1.6)",
+      "gemeObjectRotation": "334.1279",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:30.686Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "22",
+      "gemeObjectPosition": "(6.1, 3.2)",
+      "gemeObjectRotation": "4.567235",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:30.689Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(6.9, 1.7)",
+      "gemeObjectRotation": "336.0342",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:31.121Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(18.1, 1.5)",
+      "gemeObjectRotation": "308.7254",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:32.235Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "22",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:32.350Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(7.9, 2.2)",
+      "gemeObjectRotation": "16.1571",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:32.414Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(10.5, 6.0)",
+      "gemeObjectRotation": "302.8868",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:32.445Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(8.5, 2.1)",
+      "gemeObjectRotation": "16.7913",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:32.954Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "18",
+      "gemeObjectPosition": "(18.2, 1.1)",
+      "gemeObjectRotation": "303.5349",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:33.157Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "24",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:33.644Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "24",
+      "gemeObjectLinePoints": "(-107.5, 0.0);(-100.7, -13.2);(-93.8, -25.5);(-86.1, -38.5);(-77.9, -53.5);(-68.9, -69.7);(-61.6, -83.4);(-51.5, -101.3);(-40.7, -118.8);(-32.6, -132.9);(-21.8, -149.7);(-10.9, -165.8);(2.9, -183.1);(13.5, -195.5);(24.3, -206.5);(34.8, -216.3);(47.9, -227.0);(64.9, -237.4);(89.5, -249.2);(107.5, -257.5)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:33.756Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "24",
+      "gemeObjectPosition": "(7.3, 7.4)",
+      "gemeObjectRotation": "0.08745261",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:34.120Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(7.2, 2.4)",
+      "gemeObjectRotation": "45.65482",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:34.227Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "23",
+      "gemeObjectPosition": "(8.8, 6.3)",
+      "gemeObjectRotation": "316.9094",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:35.546Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "24",
+      "gemeObjectPosition": "(7.8, 7.3)",
+      "gemeObjectRotation": "346.8697",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:35.730Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "18",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:35.734Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "23",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:36.152Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "24",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:37.059Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:37.903Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "25",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:40.598Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "25",
+      "gemeObjectLinePoints": "(-211.6, 0.0);(-210.4, -11.2);(-207.7, -24.7);(-204.0, -40.4);(-199.9, -57.9);(-195.0, -76.3);(-189.6, -95.0);(-184.0, -114.2);(-178.2, -132.9);(-172.4, -150.5);(-166.5, -167.9);(-160.5, -184.8);(-154.6, -202.1);(-148.2, -220.4);(-139.5, -241.9);(-132.0, -260.3);(-125.4, -277.0);(-119.9, -290.6);(-115.0, -302.4);(-110.8, -312.6);(-106.7, -322.4);(-102.3, -332.6);(-98.4, -342.0);(-93.3, -354.0);(-89.0, -364.4);(-83.2, -377.0);(-78.6, -387.8);(-74.2, -397.5);(-69.2, -409.7);(-64.9, -419.4);(-59.6, -430.9);(-55.2, -440.1);(-48.2, -453.3);(-42.3, -464.0);(-36.0, -474.4);(-30.7, -483.4);(-24.2, -493.3);(-18.0, -502.0);(-7.4, -507.6);(2.5, -510.5);(16.5, -510.3);(27.6, -509.8);(37.9, -508.7);(49.7, -506.0);(60.4, -503.2);(72.8, -498.7);(82.2, -494.8);(93.1, -490.5);(103.2, -486.3);(114.1, -480.2);(125.0, -473.3);(133.6, -467.6);(146.3, -463.0);(159.5, -460.2);(169.9, -458.5);(180.5, -457.5);(190.9, -457.7);(201.1, -459.0);(211.6, -459.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:44.554Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "25",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:45.002Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "13",
+      "gemeObjectPosition": "(7.8, -0.9)",
+      "gemeObjectRotation": "328.9922",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:45.437Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:46.353Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "26",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:47.167Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "26",
+      "gemeObjectLinePoints": "(-58.2, 86.7);(-50.2, 74.7);(-43.0, 63.9);(-37.1, 55.4);(-31.5, 46.8);(-25.4, 36.7);(-18.9, 26.3);(-12.6, 15.7);(-6.4, 5.7);(0.1, -5.1);(6.0, -15.2);(11.1, -24.8);(16.2, -34.2);(21.6, -45.0);(26.1, -54.7);(29.6, -65.4);(31.3, -75.7);(23.5, -84.3);(11.6, -86.7);(0.9, -80.1);(-5.5, -71.4);(-7.4, -60.2);(-4.9, -49.0);(1.4, -38.3);(9.6, -30.3);(18.9, -25.1);(28.8, -22.0);(41.6, -25.7);(51.7, -35.5);(57.8, -45.8);(58.2, -56.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:48.817Z"
+    },
+    "verb": "autoremoved",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "26",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:48.947Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "27",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:49.552Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "27",
+      "gemeObjectLinePoints": "(-124.0, 142.8);(-112.8, 142.0);(-101.3, 140.0);(-88.4, 135.1);(-77.4, 129.8);(-67.3, 123.4);(-54.0, 112.0);(-40.0, 99.5);(-24.8, 84.8);(-8.5, 68.4);(8.1, 50.6);(24.0, 32.3);(38.4, 14.1);(52.2, -4.8);(64.5, -23.3);(75.5, -42.5);(84.9, -62.8);(92.5, -82.5);(97.5, -99.6);(101.3, -115.0);(103.6, -128.7);(104.9, -139.3);(93.7, -142.8);(80.6, -139.8);(68.4, -132.7);(58.6, -121.3);(52.8, -109.6);(50.4, -97.9);(52.3, -86.8);(58.1, -76.9);(66.1, -69.8);(75.6, -65.6);(86.6, -63.0);(98.3, -63.9);(111.4, -68.4);(124.0, -76.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:51.353Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:52.684Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "28",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:53.408Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:54.009Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "28",
+      "gemeObjectLinePoints": "(-62.4, 0.0);(-59.6, -11.2);(-56.0, -23.5);(-52.6, -33.3);(-48.5, -44.4);(-44.5, -55.0);(-40.9, -65.0);(-35.9, -77.4);(-31.7, -88.0);(-28.0, -98.4);(-23.8, -109.1);(-19.2, -120.6);(-15.3, -131.2);(-11.4, -141.5);(-7.4, -151.7);(-3.4, -162.2);(0.2, -172.5);(3.5, -182.7);(7.5, -192.0);(15.1, -200.4);(26.5, -199.5);(38.5, -195.3);(48.1, -190.8);(54.7, -180.9);(59.0, -170.9);(62.4, -160.1)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:54.169Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(6.4, 4.7)",
+      "gemeObjectRotation": "304.8259",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:54.202Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "28",
+      "gemeObjectPosition": "(6.5, 7.3)",
+      "gemeObjectRotation": "1.484967",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:54.818Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Lever",
+      "gemeObjectId": "28",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:55.852Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(6.8, 4.9)",
+      "gemeObjectRotation": "285.3285",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:55.952Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "28",
+      "gemeObjectPosition": "(7.3, 7.5)",
+      "gemeObjectRotation": "336.7037",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:56.718Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "28",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:57.219Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(7.1, 4.7)",
+      "gemeObjectRotation": "330.3171",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:57.900Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:59.344Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(7.6, 4.3)",
+      "gemeObjectRotation": "345.9929",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:55:59.513Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:02.580Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "29",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:02.936Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "14",
+      "gemeObjectPosition": "(7.1, 2.6)",
+      "gemeObjectRotation": "340.5125",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:03.125Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Pendulum",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:03.303Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:03.404Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "Ramp",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:03.782Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "29",
+      "gemeObjectLinePoints": "(-61.7, 0.0);(-60.5, -19.2);(-57.4, -39.5);(-54.7, -55.3);(-51.5, -69.2);(-48.0, -81.5);(-44.7, -91.7);(-40.7, -101.8);(-35.9, -112.7);(-31.0, -122.4);(-25.7, -131.9);(-18.9, -141.9);(-11.6, -151.5);(-4.5, -160.5);(3.4, -169.1);(10.2, -176.7);(18.6, -184.8);(26.9, -192.9);(34.6, -201.3);(40.9, -209.6);(47.0, -218.2);(52.7, -226.5);(57.4, -236.3);(61.7, -245.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:06.693Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameObjectId": "30",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:07.563Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "30",
+      "gemeObjectLinePoints": "(-42.6, 99.4);(-34.2, 85.0);(-28.4, 74.0);(-22.5, 61.4);(-15.7, 41.0);(-10.1, 18.8);(-5.9, -2.6);(-3.4, -19.8);(-1.9, -34.5);(-1.0, -45.3);(-4.8, -55.8);(-17.6, -62.9);(-31.6, -67.2);(-43.6, -68.5);(-54.0, -67.7);(-61.5, -59.3);(-61.5, -49.0);(-54.4, -38.0);(-42.1, -28.6);(-26.3, -22.6);(-8.8, -19.4);(8.4, -21.9);(24.0, -30.5);(34.6, -40.6);(40.9, -52.2);(42.3, -63.9);(38.3, -76.2);(29.9, -86.7);(17.7, -94.7);(4.0, -99.4);(-9.9, -98.7);(-21.0, -94.2);(-28.4, -86.0);(-32.9, -70.2);(-31.2, -54.4);(-23.0, -38.0);(-11.2, -24.7);(3.0, -15.4);(17.9, -9.9);(32.5, -7.4);(44.1, -8.2);(55.0, -14.8);(61.5, -24.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:11.078Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "14",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:11.854Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "13",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:13.304Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "29",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:14.806Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gemeObjectId": "30",
+      "gemeObjectPosition": "(17.4, 0.4)",
+      "gemeObjectRotation": "309.2967",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:17.803Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Get Over It!",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:56:56.829Z"
+    },
+    "verb": "moneyEarned",
+    "object": "silverWin",
+    "data": {
+      "gameLevelId": "Get Over It!",
+      "moneyEarned": "10",
+      "currentMoney": "570",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

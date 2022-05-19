@@ -1,0 +1,2497 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:51.653Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:51.900Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:52.164Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:52.273Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "Bounciness",
+      "oldValue": "0.8",
+      "newValue": "0",
+      "method": "",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:52.278Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:52.282Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:52.290Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:52.308Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:52.358Z"
+    },
+    "verb": "initialized",
+    "object": "control panel",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:57.838Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "2.336024",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:57.903Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.34",
+      "newValue": "6.180401",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:57.961Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.336024",
+      "newValue": "2.34",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:57.965Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.34",
+      "newValue": "2.34",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.018Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.180401",
+      "newValue": "6.18",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.053Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.18",
+      "newValue": "6.18",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.125Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.487953",
+      "newValue": "6.49",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.127Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.18",
+      "newValue": "6.487953",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.129Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.49",
+      "newValue": "6.49",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.170Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.49",
+      "newValue": "7.871929",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.274Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.87",
+      "newValue": "8.333252",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.286Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "8.333252",
+      "newValue": "8.33",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.287Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "8.33",
+      "newValue": "8.33",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.289Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.87",
+      "newValue": "7.87",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.313Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "8.33",
+      "newValue": "9.563457",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.355Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.871929",
+      "newValue": "7.87",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.406Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.563457",
+      "newValue": "9.560001",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:58.413Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.560001",
+      "newValue": "9.560001",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.578Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "10.41757",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.774Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "10.42",
+      "newValue": "10.42",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.798Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "12.27028",
+      "newValue": "12.27",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.805Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "12.27",
+      "newValue": "12.27",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.809Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "10.41757",
+      "newValue": "10.42",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.816Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "10.42",
+      "newValue": "12.27028",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.828Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "12.27",
+      "newValue": "13.81421",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.889Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "13.81421",
+      "newValue": "13.81",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.982Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.12299",
+      "newValue": "14.12",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.985Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.12",
+      "newValue": "14.43178",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.988Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "13.81",
+      "newValue": "14.12299",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.990Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "13.81",
+      "newValue": "13.81",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:13:59.992Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.12",
+      "newValue": "14.12",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.222Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.43178",
+      "newValue": "14.43",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.226Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.74057",
+      "newValue": "14.74",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.234Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.43",
+      "newValue": "14.74057",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.241Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.74",
+      "newValue": "14.74",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.244Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.43",
+      "newValue": "14.43",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.247Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "14.74",
+      "newValue": "15.35814",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.406Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "15.36",
+      "newValue": "17.51963",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.414Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "15.36",
+      "newValue": "15.36",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.418Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "15.35814",
+      "newValue": "15.36",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.422Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "17.51963",
+      "newValue": "17.52",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.428Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "17.52",
+      "newValue": "17.52",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.441Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "17.52",
+      "newValue": "19.68113",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.837Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.68113",
+      "newValue": "19.68",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.842Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.99",
+      "newValue": "21.53384",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.844Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.68",
+      "newValue": "19.68",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.848Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.98992",
+      "newValue": "19.99",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.851Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.68",
+      "newValue": "19.98992",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.863Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.99",
+      "newValue": "19.99",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.986Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.53384",
+      "newValue": "21.53",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:00.989Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.53",
+      "newValue": "21.53",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.030Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.53",
+      "newValue": "21.84263",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.036Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.84",
+      "newValue": "21.22242",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.040Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.84",
+      "newValue": "21.84",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.043Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.84263",
+      "newValue": "21.84",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.256Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.37",
+      "newValue": "19.37",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.261Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.36971",
+      "newValue": "19.37",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.264Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.22242",
+      "newValue": "21.22",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.268Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.22",
+      "newValue": "21.22",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.272Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "21.22",
+      "newValue": "19.36971",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.273Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.93",
+      "newValue": "0",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.418Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "19.37",
+      "newValue": "18.75215",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.441Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "15.66429",
+      "newValue": "15.66",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.450Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "18.75215",
+      "newValue": "18.75",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.453Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "18.75",
+      "newValue": "18.75",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.456Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "15.66",
+      "newValue": "15.66",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.459Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "18.75",
+      "newValue": "15.66429",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.568Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "15.66",
+      "newValue": "12.57644",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.614Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "12.57644",
+      "newValue": "12.58",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.622Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "10.72",
+      "newValue": "10.72",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.626Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "12.58",
+      "newValue": "10.72372",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.629Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "10.72372",
+      "newValue": "10.72",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.631Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "12.58",
+      "newValue": "12.58",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.694Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "10.72",
+      "newValue": "3.930449",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.833Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.837Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.93",
+      "newValue": "3.93",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.840Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.930449",
+      "newValue": "3.93",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:01.977Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.560001",
+      "newValue": "9.406225",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.126Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.406225",
+      "newValue": "9.41",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.133Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.41",
+      "newValue": "0.9485924",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.166Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.41",
+      "newValue": "9.41",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.178Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.098672",
+      "newValue": "9.099999",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.190Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.41",
+      "newValue": "9.098672",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.193Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.099999",
+      "newValue": "9.099999",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.257Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "9.099999",
+      "newValue": "8.176025",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.299Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "8.176025",
+      "newValue": "8.18",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.349Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.25",
+      "newValue": "7.25",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.356Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "8.18",
+      "newValue": "7.253373",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.359Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.253373",
+      "newValue": "7.25",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.361Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "8.18",
+      "newValue": "8.18",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.429Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "7.25",
+      "newValue": "6.176945",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.432Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.176945",
+      "newValue": "6.18",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.682Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.946747",
+      "newValue": "4.95",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.686Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.18",
+      "newValue": "4.946747",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.702Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.408995",
+      "newValue": "3.41",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.706Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.95",
+      "newValue": "3.408995",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.707Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.95",
+      "newValue": "4.95",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.711Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "6.18",
+      "newValue": "6.18",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.838Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.41",
+      "newValue": "3.41",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.854Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.9485924",
+      "newValue": "0.95",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.880Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.95",
+      "newValue": "0.95",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.882Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.95",
+      "newValue": "0.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:02.883Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:04.083Z"
+    },
+    "verb": "play",
+    "object": "params",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:05.316Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "blower",
+      "oldValue": "0",
+      "newValue": "3",
+      "position": "(127.3, 208.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:05.459Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "blower",
+      "oldValue": "3",
+      "newValue": "95",
+      "position": "(127.3, 208.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:05.493Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gemeObjectType": "blower",
+      "oldValue": "95",
+      "newValue": "100",
+      "position": "(127.3, 208.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:07.014Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:48.183Z"
+    },
+    "verb": "satisfied",
+    "object": "achievement",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "badge": "gold",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Blocked by Blocks",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T01:14:48.443Z"
+    },
+    "verb": "moneyEarned",
+    "object": "goldWin",
+    "data": {
+      "gameLevelId": "Blocked by Blocks",
+      "moneyEarned": "20",
+      "currentMoney": "690",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

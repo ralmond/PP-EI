@@ -1,0 +1,3509 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:00.999Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:01.351Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:02.005Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:02.013Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "Bounciness",
+      "oldValue": "0.8",
+      "newValue": "0",
+      "method": "",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:02.017Z"
+    },
+    "verb": "initialized",
+    "object": "control panel",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:02.021Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:02.081Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:02.146Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:02.147Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "AirResistanceValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.174Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.2537714",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.326Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.25",
+      "newValue": "0.25",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.334Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.2537714",
+      "newValue": "0.25",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.353Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.25",
+      "newValue": "0.4075483",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.362Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.41",
+      "newValue": "0.41",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.364Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.4075483",
+      "newValue": "0.41",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.378Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.41",
+      "newValue": "0.7150992",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.470Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.7150992",
+      "newValue": "0.7200001",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.501Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.7200001",
+      "newValue": "0.7200001",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.542Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.87",
+      "newValue": "1.022648",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.546Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.87",
+      "newValue": "0.87",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.554Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.7200001",
+      "newValue": "0.868876",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:06.558Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.868876",
+      "newValue": "0.87",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.094Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.18",
+      "newValue": "1.483975",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.098Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.02",
+      "newValue": "1.176424",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.107Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.022648",
+      "newValue": "1.02",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.111Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.02",
+      "newValue": "1.02",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.114Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.176424",
+      "newValue": "1.18",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.121Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.18",
+      "newValue": "1.18",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.398Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.5604",
+      "newValue": "2.56",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.413Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.48",
+      "newValue": "2.5604",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.419Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.483975",
+      "newValue": "1.48",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.423Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.48",
+      "newValue": "1.48",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.435Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.56",
+      "newValue": "2.56",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.442Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.56",
+      "newValue": "3.021728",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.806Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.944373",
+      "newValue": "3.94",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.819Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.02",
+      "newValue": "3.944373",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.827Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.02",
+      "newValue": "3.02",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.831Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.021728",
+      "newValue": "3.02",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.837Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.94",
+      "newValue": "4.098149",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:07.843Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.94",
+      "newValue": "3.94",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.218Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.1",
+      "newValue": "4.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.228Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.251925",
+      "newValue": "4.25",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.230Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.098149",
+      "newValue": "4.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.234Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.1",
+      "newValue": "4.251925",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.248Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.25",
+      "newValue": "4.405703",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.263Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.25",
+      "newValue": "4.25",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.406Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.409999",
+      "newValue": "4.409999",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.413Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.405703",
+      "newValue": "4.409999",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.425Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.409999",
+      "newValue": "4.251925",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.427Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.251925",
+      "newValue": "4.25",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.432Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.25",
+      "newValue": "4.25",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.434Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "4.25",
+      "newValue": "3.944373",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.633Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.79",
+      "newValue": "3.79",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.637Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.944373",
+      "newValue": "3.94",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.646Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.79",
+      "newValue": "3.48305",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.648Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.94",
+      "newValue": "3.94",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.650Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.790602",
+      "newValue": "3.79",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.652Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.94",
+      "newValue": "3.790602",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.829Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.02",
+      "newValue": "2.714175",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.832Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.48305",
+      "newValue": "3.48",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.836Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.48",
+      "newValue": "3.48",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.839Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.48",
+      "newValue": "3.021728",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.842Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.02",
+      "newValue": "3.02",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:08.843Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "3.021728",
+      "newValue": "3.02",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.042Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.252851",
+      "newValue": "2.25",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.049Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.714175",
+      "newValue": "2.71",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.057Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.25",
+      "newValue": "2.25",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.061Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.71",
+      "newValue": "2.252851",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.065Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.25",
+      "newValue": "1.637752",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.067Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "2.71",
+      "newValue": "2.71",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.446Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.637752",
+      "newValue": "1.64",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.450Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.64",
+      "newValue": "1.176424",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.453Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.18",
+      "newValue": "1.18",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.461Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.18",
+      "newValue": "0.7150992",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.465Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.176424",
+      "newValue": "1.18",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.467Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "1.64",
+      "newValue": "1.64",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.858Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.7200001",
+      "newValue": "0.1",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.869Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.491212",
+      "newValue": "9.49",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.874Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.1",
+      "newValue": "0.1",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.876Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.7200001",
+      "newValue": "0.7200001",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.879Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "MassValueManipulator",
+      "oldValue": "0.7150992",
+      "newValue": "0.7200001",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:09.881Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.491212",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.278Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.564858",
+      "newValue": "8.56",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.290Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.56",
+      "newValue": "8.56",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.292Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.56",
+      "newValue": "7.947284",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.296Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.49",
+      "newValue": "8.564858",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.297Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.49",
+      "newValue": "9.49",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.299Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.947284",
+      "newValue": "7.95",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.674Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.64",
+      "newValue": "7.329709",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.678Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.64",
+      "newValue": "7.64",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.682Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.95",
+      "newValue": "7.95",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.686Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.95",
+      "newValue": "7.638498",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.692Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.638498",
+      "newValue": "7.64",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:10.695Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.329709",
+      "newValue": "7.33",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.090Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.33",
+      "newValue": "7.020934",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.098Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.33",
+      "newValue": "7.33",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.104Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.02",
+      "newValue": "7.02",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.109Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "4.86",
+      "newValue": "3.933078",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.111Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.020934",
+      "newValue": "7.02",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.113Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.02",
+      "newValue": "6.403359",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.278Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "6.4",
+      "newValue": "6.4",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.282Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.477006",
+      "newValue": "5.48",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.290Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.48",
+      "newValue": "4.859428",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.293Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "6.4",
+      "newValue": "5.477006",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.295Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "6.403359",
+      "newValue": "6.4",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.299Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.48",
+      "newValue": "5.48",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.702Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.93",
+      "newValue": "3.93",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.706Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.933078",
+      "newValue": "3.93",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.713Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "4.859428",
+      "newValue": "4.86",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.718Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.93",
+      "newValue": "3.315506",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.719Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "4.86",
+      "newValue": "4.86",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:11.726Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.315506",
+      "newValue": "3.32",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.110Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.32",
+      "newValue": "3.32",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.114Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.01",
+      "newValue": "3.01",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.117Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.006717",
+      "newValue": "3.01",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.127Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.32",
+      "newValue": "3.006717",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.130Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.697939",
+      "newValue": "2.7",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.136Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "3.01",
+      "newValue": "2.697939",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.510Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.7",
+      "newValue": "2.697939",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.518Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.38915",
+      "newValue": "2.39",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.522Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.697939",
+      "newValue": "2.38915",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.524Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.7",
+      "newValue": "2.7",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.525Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.39",
+      "newValue": "2.39",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:12.649Z"
+    },
+    "verb": "play",
+    "object": "params",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:13.855Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:14.271Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:14.452Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:14.583Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:14.751Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:16.486Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.39",
+      "newValue": "9.8",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:16.570Z"
+    },
+    "verb": "initialized",
+    "object": "control panel",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:16.573Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:16.578Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.8",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:16.582Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "Bounciness",
+      "oldValue": "0.8",
+      "newValue": "0",
+      "method": "",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.122Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.8",
+      "newValue": "9.491215",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.353Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.49",
+      "newValue": "8.564862",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.355Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.15",
+      "newValue": "0",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.360Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.564862",
+      "newValue": "8.56",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.365Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.49",
+      "newValue": "9.49",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.367Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "9.491215",
+      "newValue": "9.49",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.382Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.56",
+      "newValue": "8.56",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.726Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "8.56",
+      "newValue": "7.329722",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.736Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.33",
+      "newValue": "6.094573",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.740Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.329722",
+      "newValue": "7.33",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.744Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "6.094573",
+      "newValue": "6.09",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.746Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "7.33",
+      "newValue": "7.33",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:20.756Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "6.09",
+      "newValue": "6.09",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.126Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.168222",
+      "newValue": "5.17",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.142Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.17",
+      "newValue": "2.697939",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.148Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.697939",
+      "newValue": "2.7",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.151Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "6.09",
+      "newValue": "5.168222",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.155Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "5.17",
+      "newValue": "5.17",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.164Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.7",
+      "newValue": "2.7",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.510Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "0",
+      "newValue": "0",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.516Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.15",
+      "newValue": "1.15",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.519Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "1.154017",
+      "newValue": "1.15",
+      "method": "input",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:21.522Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "GravityValueManipulator",
+      "oldValue": "2.7",
+      "newValue": "1.154017",
+      "method": "slider",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:23.300Z"
+    },
+    "verb": "play",
+    "object": "params",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:24.180Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:24.388Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:24.585Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:24.803Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:25.005Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:25.187Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:25.367Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:25.516Z"
+    },
+    "verb": "adjusted",
+    "object": "control",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gemeObjectType": "puffer",
+      "position": "(396.0, 363.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:47:26.363Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:00.037Z"
+    },
+    "verb": "satisfied",
+    "object": "achievement",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "badge": "gold",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Plum Blossom",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-01T23:48:00.512Z"
+    },
+    "verb": "moneyEarned",
+    "object": "goldWin",
+    "data": {
+      "gameLevelId": "Plum Blossom",
+      "moneyEarned": "20",
+      "currentMoney": "510",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

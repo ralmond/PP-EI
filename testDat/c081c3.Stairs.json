@@ -1,0 +1,2932 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:17.187Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:25.193Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "221",
+      "gemeObjectParent": "220",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:25.726Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "222",
+      "gemeObjectParent": "220",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:26.556Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "223",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:27.902Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "223",
+      "gemeObjectLinePoints": "(121.4, 1.6);(110.2, 1.6);(98.7, 0.8);(87.0, -0.9);(76.7, -2.3);(65.8, -3.1);(55.6, -3.6);(44.3, -3.9);(32.8, -4.1);(21.0, -4.2);(9.6, -4.3);(-0.9, -4.3);(-12.8, -4.4);(-25.1, -5.6);(-35.3, -7.1);(-46.6, -9.2);(-57.8, -11.3);(-68.5, -12.5);(-80.2, -13.3);(-92.3, -13.7);(-103.7, -12.8);(-113.2, -9.4);(-121.4, -2.2);(-127.1, 13.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:28.877Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:29.055Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:31.850Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "228",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:32.523Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "228",
+      "gemeObjectLinePoints": "(-17.9, 44.4);(-19.9, 34.0);(-21.5, 23.3);(-22.8, 12.1);(-23.6, -0.2);(-23.7, -12.3);(-22.6, -23.3);(-20.7, -34.2);(-18.7, -44.4);(-17.2, -54.5);(-15.9, -65.7);(-14.3, -77.7);(-12.9, -88.9);(-10.9, -100.0);(-6.9, -109.8);(-0.5, -118.5);(7.0, -125.4);(17.9, -130.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:32.678Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "228",
+      "gemeObjectPosition": "(14.5, 7.0)",
+      "gemeObjectRotation": "3.436063",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:33.849Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "228",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:34.759Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "229",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:35.174Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "229",
+      "gemeObjectLinePoints": "(-69.2, 66.3);(-71.6, 54.3);(-73.5, 41.9);(-76.2, 26.5);(-78.6, 10.0);(-80.0, -6.3);(-80.9, -21.6);(-81.4, -33.7);(-80.9, -46.1);(-78.2, -56.7);(-73.4, -66.3);(-65.3, -76.1);(-53.7, -85.5);(-40.3, -94.0);(-26.7, -101.5);(-13.3, -107.6);(-0.9, -112.4);(11.0, -116.5);(21.7, -119.4);(33.3, -121.5);(47.5, -122.8);(58.8, -123.1);(69.2, -122.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:35.305Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "229",
+      "gemeObjectPosition": "(14.8, 6.7)",
+      "gemeObjectRotation": "343.4747",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:36.506Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "230",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:36.986Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "230",
+      "gemeObjectLinePoints": "(-32.4, 63.2);(-39.2, 52.8);(-49.2, 35.7);(-57.3, 20.3);(-63.7, 7.1);(-68.0, -3.7);(-71.3, -13.8);(-73.7, -24.6);(-75.6, -35.1);(-76.3, -45.8);(-72.7, -55.4);(-63.0, -63.2);(-14.3, -61.0);(14.9, -59.8);(32.4, -59.0)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:37.080Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "229",
+      "gemeObjectPosition": "(14.8, 5.9)",
+      "gemeObjectRotation": "296.7888",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:37.177Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "230",
+      "gemeObjectPosition": "(14.6, 5.5)",
+      "gemeObjectRotation": "247.9486",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:38.406Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "223",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:38.679Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:38.766Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "229",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:38.768Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "230",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:40.706Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:41.088Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:42.139Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "241",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:42.714Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "241",
+      "gemeObjectLinePoints": "(-62.7, 27.8);(-62.7, 15.4);(-62.7, 4.7);(-62.7, -6.5);(-62.7, -16.8);(-62.7, -27.8);(-61.5, -38.0);(-57.2, -47.3);(-47.0, -54.5);(-37.3, -59.2);(-21.8, -61.2);(-9.0, -60.8);(2.7, -58.2);(13.4, -53.8);(23.3, -48.0);(31.7, -42.1);(39.6, -35.3);(47.9, -27.3);(55.6, -19.7);(62.7, -12.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:42.855Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(15.2, 6.4)",
+      "gemeObjectRotation": "327.6858",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:43.907Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "242",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:44.538Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(15.0, 6.8)",
+      "gemeObjectRotation": "350.0851",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:44.669Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "242",
+      "gemeObjectLinePoints": "(-61.1, 12.1);(-61.1, 1.7);(-61.1, -12.1);(-60.3, -23.6);(-57.9, -34.9);(-53.6, -46.5);(-48.2, -57.1);(-41.4, -66.2);(-34.1, -73.7);(-23.7, -79.4);(-12.3, -82.8);(0.2, -82.8);(10.0, -80.0);(21.2, -72.0);(30.6, -62.7);(38.7, -52.0);(46.0, -39.9);(52.3, -27.9);(57.3, -15.5);(61.1, -6.1)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:44.741Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "242",
+      "gemeObjectPosition": "(15.6, 7.3)",
+      "gemeObjectRotation": "338.7789",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:45.641Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "243",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:46.226Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "243",
+      "gemeObjectLinePoints": "(-40.0, 11.4);(-40.0, -0.6);(-40.0, -11.4);(-35.2, -20.7);(-25.5, -23.8);(-13.3, -22.9);(-3.1, -21.2);(6.9, -19.4);(17.4, -17.5);(29.2, -14.7);(40.0, -11.5)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:46.338Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(15.1, 7.8)",
+      "gemeObjectRotation": "57.97208",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:46.388Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "243",
+      "gemeObjectPosition": "(15.6, 7.7)",
+      "gemeObjectRotation": "7.761703",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:46.505Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "242",
+      "gemeObjectPosition": "(16.6, 6.7)",
+      "gemeObjectRotation": "320.052",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:46.910Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "244",
+      "gemeObjectParent": "243",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:48.072Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "243",
+      "gemeObjectPosition": "(15.6, 8.2)",
+      "gemeObjectRotation": "0.3290893",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:48.202Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "241",
+      "gemeObjectPosition": "(15.2, 7.8)",
+      "gemeObjectRotation": "53.56556",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:48.252Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "left",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:48.370Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "242",
+      "gemeObjectPosition": "(15.9, 3.4)",
+      "gemeObjectRotation": "344.3335",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:48.593Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:48.615Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "241",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:48.657Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "243",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:48.660Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "242",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:49.755Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "255",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:50.314Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "255",
+      "gemeObjectLinePoints": "(-64.0, 5.2);(-64.0, -5.2);(-61.2, -15.8);(-55.1, -26.2);(-47.5, -34.1);(-37.7, -41.2);(-28.2, -46.6);(-15.7, -52.3);(-6.2, -56.5);(5.1, -60.6);(16.6, -63.9);(26.8, -66.7);(39.3, -68.7);(52.0, -69.9);(64.0, -70.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:50.453Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "255",
+      "gemeObjectPosition": "(14.7, 7.0)",
+      "gemeObjectRotation": "341.7889",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:50.794Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "255",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:50.903Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:51.687Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "266",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:52.410Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "266",
+      "gemeObjectLinePoints": "(-52.8, 10.6);(-52.8, -0.2);(-52.8, -10.6);(-52.0, -21.7);(-49.9, -32.0);(-46.6, -41.7);(-42.3, -51.6);(-36.5, -61.5);(-29.4, -69.4);(-21.2, -75.8);(-11.4, -80.8);(0.1, -84.6);(10.5, -86.9);(21.2, -87.5);(32.4, -85.8);(43.1, -83.3);(52.8, -79.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:52.553Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "266",
+      "gemeObjectPosition": "(14.3, 7.4)",
+      "gemeObjectRotation": "353.3215",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:52.973Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "266",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:53.090Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:53.821Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "277",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:54.441Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "277",
+      "gemeObjectLinePoints": "(-38.2, 23.3);(-38.2, 11.3);(-38.2, 0.1);(-38.2, -11.8);(-38.2, -23.3);(-36.6, -34.3);(-32.9, -45.6);(-26.2, -57.2);(-20.6, -65.8);(-13.7, -73.8);(-5.9, -81.3);(2.8, -87.1);(14.4, -90.5);(26.5, -91.0);(38.2, -89.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:54.604Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "277",
+      "gemeObjectPosition": "(14.6, 6.9)",
+      "gemeObjectRotation": "320.6483",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:55.310Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "277",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:55.407Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:56.021Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "288",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:56.610Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "288",
+      "gemeObjectLinePoints": "(-121.7, 52.0);(-121.7, 35.2);(-121.7, 15.9);(-121.7, -4.0);(-121.7, -23.2);(-121.7, -38.7);(-121.7, -52.0);(-120.5, -62.8);(-117.4, -73.7);(-111.2, -84.2);(-104.2, -92.5);(-93.6, -99.9);(-82.9, -105.1);(-72.8, -108.7);(-62.4, -110.8);(-51.7, -112.1);(-37.3, -112.0);(-23.5, -110.8);(-9.6, -108.5);(3.9, -105.5);(17.7, -102.1);(28.7, -98.8);(39.3, -96.1);(50.9, -93.2);(63.8, -90.3);(75.2, -88.2);(86.0, -86.9);(97.7, -85.7);(110.7, -85.0);(121.7, -84.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:56.753Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "288",
+      "gemeObjectPosition": "(14.8, 6.5)",
+      "gemeObjectRotation": "352.8577",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:57.123Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "288",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:57.225Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:58.055Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "299",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:58.890Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "299",
+      "gemeObjectLinePoints": "(-74.0, 65.0);(-80.0, 33.4);(-85.2, -0.3);(-88.3, -25.4);(-89.3, -42.8);(-87.2, -55.7);(-80.3, -65.0);(-71.0, -71.4);(-59.0, -75.2);(-47.4, -77.1);(-35.6, -76.3);(-22.1, -71.8);(-7.3, -64.3);(8.1, -53.3);(22.1, -39.6);(36.1, -23.4);(50.1, -5.2);(58.4, 5.7);(67.9, 19.0);(74.0, 27.8)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:59.044Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "299",
+      "gemeObjectPosition": "(14.8, 7.1)",
+      "gemeObjectRotation": "0.5256096",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:51:59.182Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "299",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:00.143Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "300",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:00.889Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "300",
+      "gemeObjectLinePoints": "(-41.2, 12.0);(-41.2, 0.0);(-41.2, -12.0);(-40.8, -23.6);(-39.7, -34.2);(-37.9, -45.7);(-36.0, -56.6);(-33.7, -66.8);(-28.7, -77.7);(-22.5, -87.0);(-15.6, -95.0);(-4.6, -100.2);(8.8, -99.7);(21.6, -96.2);(32.1, -92.1);(41.2, -86.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:01.023Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "300",
+      "gemeObjectPosition": "(15.0, 7.2)",
+      "gemeObjectRotation": "344.5983",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:01.331Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "300",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:01.614Z"
+    },
+    "verb": "restarted",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:02.273Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "311",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:03.099Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "311",
+      "gemeObjectLinePoints": "(-91.2, 2.0);(-91.2, -8.4);(-88.8, -18.7);(-83.4, -28.0);(-76.1, -36.0);(-65.8, -43.6);(-55.2, -49.4);(-44.8, -53.3);(-32.6, -56.0);(-22.4, -57.6);(-10.0, -56.2);(1.5, -52.9);(12.4, -48.6);(23.0, -43.2);(34.1, -36.3);(42.8, -31.0);(51.6, -25.0);(61.6, -18.6);(72.1, -12.0);(81.6, -5.6);(91.2, 1.4);(101.0, 8.4)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:03.222Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.9, 6.8)",
+      "gemeObjectRotation": "347.5753",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:04.392Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "312",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:04.906Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.9, 6.8)",
+      "gemeObjectRotation": "343.8453",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:05.112Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "312",
+      "gemeObjectLinePoints": "(-69.9, 5.6);(-69.9, -5.6);(-69.5, -15.9);(-65.6, -26.1);(-59.7, -34.6);(-51.4, -42.1);(-43.2, -48.2);(-32.7, -53.9);(-23.2, -57.7);(-12.3, -60.0);(-1.7, -59.7);(11.0, -56.4);(22.3, -52.4);(32.6, -47.6);(42.4, -41.9);(51.5, -35.3);(61.7, -26.9);(69.9, -19.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:05.271Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.5, 7.3)",
+      "gemeObjectRotation": "12.82047",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:05.971Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "Lever",
+      "gemeObjectId": "312",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:06.342Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "313",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:06.706Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.9, 6.8)",
+      "gemeObjectRotation": "340.5172",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:06.987Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.8, 7.3)",
+      "gemeObjectRotation": "343.2075",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:07.093Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "313",
+      "gemeObjectLinePoints": "(-17.6, 36.3);(-19.6, 26.3);(-21.2, 16.3);(-22.2, 5.9);(-23.2, -5.2);(-23.8, -15.4);(-23.3, -25.9);(-19.5, -36.3);(-11.1, -44.9);(-2.9, -51.2);(7.2, -55.8);(17.6, -58.6)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:07.222Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "313",
+      "gemeObjectPosition": "(14.3, 7.6)",
+      "gemeObjectRotation": "6.073317",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:08.358Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:08.487Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.9, 6.8)",
+      "gemeObjectRotation": "343.9316",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:08.636Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:08.770Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.7, 7.3)",
+      "gemeObjectRotation": "342.5104",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:08.922Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "313",
+      "gemeObjectPosition": "(14.3, 7.5)",
+      "gemeObjectRotation": "354.4627",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:09.489Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:09.655Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:09.820Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:10.289Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.8, 6.8)",
+      "gemeObjectRotation": "345.7017",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:10.589Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.7, 7.3)",
+      "gemeObjectRotation": "345.5023",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:10.704Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "313",
+      "gemeObjectPosition": "(14.3, 7.5)",
+      "gemeObjectRotation": "356.823",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:11.188Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "314",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:11.823Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "314",
+      "gemeObjectLinePoints": "(-25.2, 33.7);(-31.2, 23.7);(-36.0, 14.1);(-40.9, 3.1);(-44.6, -6.7);(-43.6, -17.3);(-38.3, -26.5);(-29.0, -33.7);(-18.3, -38.3);(-7.1, -41.1);(4.1, -43.2);(14.8, -44.9);(25.2, -46.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:11.970Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "314",
+      "gemeObjectPosition": "(14.6, 7.6)",
+      "gemeObjectRotation": "56.00709",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:12.089Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.8, 6.8)",
+      "gemeObjectRotation": "346.5367",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:12.388Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.7, 7.3)",
+      "gemeObjectRotation": "346.6179",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:12.504Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "313",
+      "gemeObjectPosition": "(14.2, 7.5)",
+      "gemeObjectRotation": "359.8771",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:13.073Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "314",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:13.893Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.8, 6.8)",
+      "gemeObjectRotation": "346.8945",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:14.034Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "315",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:14.170Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.7, 7.3)",
+      "gemeObjectRotation": "347.0804",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:14.287Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "313",
+      "gemeObjectPosition": "(14.2, 7.5)",
+      "gemeObjectRotation": "0.9971256",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:14.458Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "315",
+      "gemeObjectLinePoints": "(-34.1, 17.1);(-34.1, 5.1);(-34.1, -6.5);(-34.1, -17.1);(-33.7, -27.8);(-32.2, -38.3);(-29.8, -48.1);(-25.9, -57.6);(-20.0, -66.6);(-10.8, -73.9);(-1.7, -79.5);(10.5, -83.3);(23.5, -85.5);(34.1, -86.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:14.638Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "315",
+      "gemeObjectPosition": "(14.2, 8.1)",
+      "gemeObjectRotation": "13.25541",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:15.054Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "Lever",
+      "gemeObjectId": "313",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:15.261Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "Lever",
+      "gemeObjectId": "315",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:15.689Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.8, 6.8)",
+      "gemeObjectRotation": "352.6656",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:15.988Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.6, 7.3)",
+      "gemeObjectRotation": "354.4839",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:16.189Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "313",
+      "gemeObjectPosition": "(14.2, 7.3)",
+      "gemeObjectRotation": "237.4342",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:16.386Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "315",
+      "gemeObjectPosition": "(14.4, 8.1)",
+      "gemeObjectRotation": "5.762841",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:17.529Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.8, 6.8)",
+      "gemeObjectRotation": "349.3849",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:17.603Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "313",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:17.773Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.6, 7.3)",
+      "gemeObjectRotation": "350.3016",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:18.072Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "315",
+      "gemeObjectPosition": "(14.4, 8.1)",
+      "gemeObjectRotation": "6.326201",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:19.207Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "315",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:19.393Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.8, 6.8)",
+      "gemeObjectRotation": "347.9974",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:19.587Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "312",
+      "gemeObjectPosition": "(14.6, 7.3)",
+      "gemeObjectRotation": "348.5456",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:20.290Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "312",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:21.060Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "316",
+      "gemeObjectParent": "311",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:21.203Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "311",
+      "gemeObjectPosition": "(14.8, 6.8)",
+      "gemeObjectRotation": "346.0411",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:22.787Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "311",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:23.921Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "317",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:24.591Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "317",
+      "gemeObjectLinePoints": "(-56.7, 5.4);(-56.7, -5.4);(-54.7, -17.5);(-51.1, -28.7);(-45.3, -39.1);(-38.6, -47.7);(-31.4, -54.9);(-23.1, -62.0);(-13.3, -67.0);(-2.7, -70.0);(9.7, -69.5);(20.4, -67.5);(31.2, -63.6);(41.6, -56.0);(49.5, -49.4);(56.7, -41.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:24.738Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "317",
+      "gemeObjectPosition": "(16.3, 8.5)",
+      "gemeObjectRotation": "357.4656",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:25.805Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "318",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:26.359Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "318",
+      "gemeObjectLinePoints": "(-40.4, 42.4);(-43.6, 32.0);(-46.4, 20.1);(-48.4, 10.2);(-50.0, -0.9);(-51.0, -12.0);(-51.2, -22.3);(-49.3, -32.8);(-43.7, -42.4);(-35.2, -49.7);(-24.1, -54.9);(-14.2, -58.4);(-1.5, -60.5);(8.9, -61.7);(19.6, -61.3);(30.4, -59.8);(40.4, -58.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:26.523Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "318",
+      "gemeObjectPosition": "(16.3, 8.3)",
+      "gemeObjectRotation": "5.957182",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:26.571Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "317",
+      "gemeObjectPosition": "(16.0, 8.6)",
+      "gemeObjectRotation": "11.68068",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:27.763Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "318",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:28.190Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "319",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:28.317Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "319",
+      "gemeObjectLinePoints": "(-23.5, 0.0);(4.9, -28.8);(23.5, -46.1)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:28.513Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "317",
+      "gemeObjectPosition": "(16.0, 8.9)",
+      "gemeObjectRotation": "5.329216",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:28.517Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "319",
+      "gemeObjectPosition": "(16.2, 9.2)",
+      "gemeObjectRotation": "10.87667",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:29.814Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:29.989Z"
+    },
+    "verb": "nudged",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "ball",
+      "gemeObjectDirection": "right",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:30.291Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "317",
+      "gemeObjectPosition": "(16.1, 8.9)",
+      "gemeObjectRotation": "1.193443",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:31.626Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "319",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:32.111Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "317",
+      "gemeObjectPosition": "(16.2, 8.9)",
+      "gemeObjectRotation": "358.6837",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:32.578Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameObjectId": "320",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:33.059Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "320",
+      "gemeObjectLinePoints": "(-42.8, 37.1);(-46.8, 25.9);(-50.0, 14.8);(-51.9, 3.7);(-53.0, -7.8);(-53.7, -18.2);(-51.3, -28.5);(-45.9, -37.1);(-38.3, -43.8);(-25.7, -49.1);(-14.1, -52.2);(-2.4, -54.1);(8.3, -55.2);(21.1, -54.3);(31.1, -53.0);(42.8, -50.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:33.197Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "320",
+      "gemeObjectPosition": "(16.3, 8.9)",
+      "gemeObjectRotation": "25.17485",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:52:33.904Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gemeObjectId": "317",
+      "gemeObjectPosition": "(16.9, 8.9)",
+      "gemeObjectRotation": "321.0891",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:53:10.012Z"
+    },
+    "verb": "moneyEarned",
+    "object": "silverWin",
+    "data": {
+      "gameLevelId": "Stairs",
+      "moneyEarned": "10",
+      "currentMoney": "610",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Stairs",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:53:10.020Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Stairs",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]

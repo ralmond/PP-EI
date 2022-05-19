@@ -1,0 +1,813 @@
+[
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:36:54.451Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:01.153Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "pin",
+      "gemeObjectId": "91",
+      "gemeObjectParent": "89",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:02.026Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gameObjectId": "92",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:06.351Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "92",
+      "gemeObjectLinePoints": "(-1.0, 117.3);(-1.0, 100.1);(-1.0, 81.8);(-1.0, 68.4);(-1.0, 58.0);(-0.6, 44.9);(-0.4, 33.9);(0.2, 21.3);(0.9, 8.5);(1.3, -2.0);(2.4, -14.3);(3.8, -26.4);(5.1, -38.5);(6.3, -50.6);(7.4, -62.2);(8.4, -73.2);(9.0, -83.4);(-3.0, -82.7);(-14.6, -76.3);(-22.4, -69.7);(-27.4, -59.3);(-24.8, -49.4);(-11.3, -43.5);(2.8, -41.6);(14.5, -42.4);(25.9, -48.1);(31.9, -58.0);(28.0, -70.6);(21.6, -80.7);(12.9, -87.1);(-0.6, -88.1);(-12.4, -83.1);(-21.4, -73.4);(-26.9, -61.1);(-28.9, -47.7);(-25.0, -34.5);(-10.6, -25.0);(4.1, -19.3);(20.8, -20.6);(34.9, -25.1);(45.3, -30.9);(53.2, -38.8);(52.3, -52.0);(45.4, -62.6);(30.4, -72.3);(9.9, -78.8);(-10.1, -82.8);(-27.7, -83.5);(-41.0, -79.6);(-50.2, -68.8);(-51.7, -50.0);(-43.8, -30.3);(-27.9, -10.4);(-8.3, 4.7);(12.2, 13.7);(29.7, 16.0);(42.6, 11.7);(50.8, 2.0);(52.1, -15.5);(47.2, -32.0);(38.3, -46.3);(25.8, -56.4);(10.3, -62.9);(-5.8, -63.6);(-20.3, -58.9);(-31.8, -49.6);(-38.7, -37.6);(-40.8, -24.8);(-36.1, -12.0);(-24.5, -1.5);(-7.9, 5.3);(11.3, 8.5);(29.2, 5.6);(43.5, -1.3);(52.9, -11.9);(57.3, -28.6);(52.8, -46.6);(40.1, -65.0);(18.0, -81.3);(-6.0, -91.9);(-30.8, -98.2);(-52.5, -99.2);(-68.3, -90.6);(-74.6, -75.8);(-66.3, -55.8);(-51.0, -37.7);(-30.2, -22.9);(-8.5, -13.6);(8.9, -8.0);(23.7, -8.3);(33.4, -12.5);(34.5, -26.1);(28.3, -40.8);(16.2, -53.9);(0.1, -63.8);(-16.7, -69.8);(-30.8, -71.7);(-41.7, -68.1);(-49.0, -55.9);(-47.0, -38.6);(-38.2, -22.3);(-22.5, -7.6);(-3.1, 1.6);(16.1, 5.5);(32.9, 2.2);(45.3, -10.6);(52.8, -25.4);(52.5, -40.7);(45.5, -55.9);(29.7, -70.2);(12.2, -78.8);(-7.5, -83.6);(-25.7, -82.0);(-39.8, -74.7);(-48.7, -59.5);(-48.4, -39.6);(-39.0, -20.8);(-17.0, -1.6);(10.2, 11.2);(33.7, 18.4);(54.6, 19.2);(70.4, 15.2);(80.2, 7.7);(84.9, -3.3);(81.8, -17.4);(71.1, -32.3);(54.2, -45.7);(33.3, -54.1);(8.8, -55.5);(-10.3, -49.6);(-23.0, -37.6);(-29.0, -18.0);(-25.8, 0.5);(-13.5, 17.6);(4.7, 29.5);(24.8, 36.6);(43.7, 37.7);(58.2, 33.5);(68.5, 25.1);(74.3, 10.0);(71.8, -6.3);(59.5, -26.1);(36.1, -46.3);(13.2, -60.1);(-9.7, -68.7);(-28.6, -72.7);(-42.8, -70.7);(-51.3, -60.7);(-53.2, -46.3);(-47.9, -32.4);(-35.9, -20.1);(-13.6, -12.0);(7.1, -7.8);(-11.8, -63.8);(-39.9, -97.7);(-59.9, -117.3);(-77.2, -116.7);(-87.5, -101.9);(-86.5, -73.8);(-72.7, -37.4);(-54.4, -6.3);(-31.5, 18.4);(-7.7, 34.3);(15.0, 43.9);(35.0, 45.7);(51.4, 41.5);(63.2, 33.1);(71.1, 22.0);(74.7, 6.9);(71.6, -7.7);(63.4, -20.9);(45.2, -33.6);(26.3, -41.2);(6.6, -45.8);(-11.6, -46.6);(-26.6, -41.4);(-36.8, -31.5);(-42.9, -18.0);(-40.9, 0.5);(-32.1, 15.6);(-11.7, 28.3);(10.2, 35.9);(33.3, 37.7);(54.0, 34.3);(69.6, 28.7);(79.8, 22.2);(80.3, 6.6);(71.3, -9.9);(50.8, -27.8);(26.9, -42.2);(-4.7, -53.6);(-29.6, -60.4);(-47.8, -61.3);(-59.5, -55.1);(-65.7, -42.5);(-62.2, -24.6);(-52.5, -8.2);(-35.5, 6.8);(-9.3, 17.0);(15.6, 21.5);(40.6, 17.4);(61.1, 9.0);(75.5, -1.7);(84.5, -13.3);(87.5, -25.8);(83.7, -38.6);(75.4, -49.4);(56.8, -58.3);(33.7, -63.7);(10.6, -62.5);(-14.0, -55.0);(-36.0, -43.6);(-52.0, -32.5)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:07.192Z"
+    },
+    "verb": "removed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "92",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:07.342Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "Weight",
+      "gemeObjectId": "92",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:07.468Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "Springboard",
+      "gemeObjectId": "89",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:12.774Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gameObjectId": "93",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:13.156Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "93",
+      "gemeObjectLinePoints": "(-78.1, 37.6);(-78.1, 27.2);(-78.1, 15.0);(-78.1, 1.2);(-78.1, -12.2);(-78.1, -25.1);(-78.1, -37.6);(-76.9, -50.3);(-73.8, -61.9);(-69.5, -72.5);(-63.7, -81.7);(-56.7, -89.2);(-44.0, -97.3);(-32.4, -104.1);(-21.1, -109.4);(-8.3, -114.2);(5.4, -117.9);(19.6, -120.1);(33.7, -120.6);(47.0, -117.7);(58.6, -113.2);(69.5, -106.9);(78.1, -101.5)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:13.281Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "93",
+      "gemeObjectPosition": "(15.1, 4.7)",
+      "gemeObjectRotation": "0.98241",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:13.949Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "Lever",
+      "gemeObjectId": "93",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:14.966Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "93",
+      "gemeObjectPosition": "(14.7, 4.5)",
+      "gemeObjectRotation": "15.59984",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:16.753Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "93",
+      "gemeObjectPosition": "(14.9, 4.7)",
+      "gemeObjectRotation": "6.188424",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:17.552Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gameObjectId": "94",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:17.904Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "94",
+      "gemeObjectLinePoints": "(-94.6, 36.4);(-95.0, 21.2);(-96.0, 8.4);(-96.7, -2.4);(-97.8, -14.1);(-98.9, -25.5);(-99.6, -36.4);(-92.0, -46.5);(-81.0, -53.3);(-67.3, -57.5);(-46.2, -59.5);(-18.4, -56.0);(15.9, -47.4);(46.9, -37.9);(76.7, -27.8);(94.6, -21.7)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:18.051Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "94",
+      "gemeObjectPosition": "(15.5, 4.3)",
+      "gemeObjectRotation": "4.499008",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:18.532Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "93",
+      "gemeObjectPosition": "(14.9, 4.7)",
+      "gemeObjectRotation": "6.188077",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:19.750Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "94",
+      "gemeObjectPosition": "(15.7, 4.2)",
+      "gemeObjectRotation": "353.5252",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:20.335Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "93",
+      "gemeObjectPosition": "(14.9, 4.7)",
+      "gemeObjectRotation": "6.188096",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:20.650Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gameObjectId": "95",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:21.022Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "95",
+      "gemeObjectLinePoints": "(-100.3, 18.9);(-100.3, 5.7);(-100.3, -5.4);(-100.3, -18.9);(-99.9, -29.4);(-97.6, -41.7);(-94.7, -53.4);(-91.3, -63.3);(-86.9, -72.8);(-80.7, -81.3);(-72.5, -88.4);(-61.6, -93.5);(-41.5, -97.3);(-24.6, -99.6);(0.7, -101.0);(25.1, -101.9);(47.4, -102.4);(67.5, -102.7);(86.0, -102.8);(100.3, -102.9)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:21.149Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "95",
+      "gemeObjectPosition": "(16.1, 5.3)",
+      "gemeObjectRotation": "353.615",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:21.550Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "94",
+      "gemeObjectPosition": "(15.7, 4.1)",
+      "gemeObjectRotation": "349.9231",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:22.137Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "93",
+      "gemeObjectPosition": "(14.9, 4.7)",
+      "gemeObjectRotation": "6.188067",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:22.268Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gameObjectId": "96",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:22.710Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "96",
+      "gemeObjectLinePoints": "(-54.9, 51.2);(-58.1, 41.6);(-61.6, 31.0);(-65.7, 18.3);(-68.6, 7.8);(-70.7, -4.9);(-72.0, -15.7);(-69.5, -28.1);(-65.7, -40.0);(-60.1, -51.2);(-54.4, -59.8);(-46.6, -66.6);(-36.7, -72.7);(-23.2, -78.0);(-6.2, -82.3);(11.1, -85.7);(25.9, -88.2);(42.0, -90.0);(54.9, -91.2)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:22.837Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "95",
+      "gemeObjectPosition": "(15.9, 5.7)",
+      "gemeObjectRotation": "9.666469",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:22.886Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "96",
+      "gemeObjectPosition": "(16.2, 5.3)",
+      "gemeObjectRotation": "343.5185",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:23.351Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "94",
+      "gemeObjectPosition": "(15.7, 4.1)",
+      "gemeObjectRotation": "349.8967",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:23.936Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "93",
+      "gemeObjectPosition": "(14.9, 4.7)",
+      "gemeObjectRotation": "6.188107",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:24.133Z"
+    },
+    "verb": "initialized",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gameObjectId": "97",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:24.559Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "96",
+      "gemeObjectPosition": "(16.0, 5.7)",
+      "gemeObjectRotation": "7.991391",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:24.681Z"
+    },
+    "verb": "completed",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "freeform",
+      "gemeObjectId": "97",
+      "gemeObjectLinePoints": "(-84.6, 95.7);(-95.0, 86.1);(-104.0, 76.7);(-111.0, 67.5);(-117.2, 58.0);(-123.8, 46.7);(-129.3, 36.3);(-135.4, 24.4);(-139.9, 14.5);(-143.7, 5.0);(-147.3, -8.7);(-149.8, -20.2);(-151.3, -31.0);(-152.2, -44.7);(-152.7, -55.4);(-151.1, -66.5);(-145.7, -77.3);(-135.6, -85.7);(-120.8, -91.9);(-101.1, -95.7);(-78.1, -97.9);(-49.5, -97.7);(-19.5, -94.7);(9.3, -90.2);(34.9, -85.4);(58.3, -80.6);(74.0, -77.3);(84.6, -75.3)",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:24.809Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "95",
+      "gemeObjectPosition": "(15.9, 5.7)",
+      "gemeObjectRotation": "9.297535",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:24.872Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "97",
+      "gemeObjectPosition": "(17.3, 5.6)",
+      "gemeObjectRotation": "5.39239",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:25.232Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "94",
+      "gemeObjectPosition": "(15.7, 4.1)",
+      "gemeObjectRotation": "350.3777",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:25.433Z"
+    },
+    "verb": "identified",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectType": "Lever",
+      "gemeObjectId": "96",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:25.760Z"
+    },
+    "verb": "snapshot",
+    "object": "game object",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gemeObjectId": "93",
+      "gemeObjectPosition": "(14.9, 4.7)",
+      "gemeObjectRotation": "5.76344",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:58.983Z"
+    },
+    "verb": "satisfied",
+    "object": "achievement",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "badge": "silver",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:59.576Z"
+    },
+    "verb": "passed",
+    "object": "game level",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+  {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Roller coaster",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-02T00:37:59.618Z"
+    },
+    "verb": "moneyEarned",
+    "object": "silverWin",
+    "data": {
+      "gameLevelId": "Roller coaster",
+      "moneyEarned": "10",
+      "currentMoney": "700",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  },
+    {
+    "app": "ecd://epls.coe.fsu.edu/P4test",
+    "uid": "081c3",
+    "context": "Infinity",
+    "sender": "PP Locker",
+    "mess": null,
+    "timestamp": {
+      "$date": "2019-05-03T01:12:04.990Z"
+    },
+    "verb": "initialized",
+    "object": "game level",
+    "data": {
+        "gameLevelId": "Infinity",
+      "gameappid": "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"
+    },
+    "processed": false
+  }
+]
