@@ -3,4 +3,4 @@
 ## Optional args clean=FALSE (default TRUE) purge=TRUE (default FALSE)
 ## evidence=<file>.json
 ## replay=FALSE (default TRUE) -- sets all events to unprocessed.
-R  --slave "--args app=ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/$1 purge=TRUE" </usr/local/share/Proc4/PP-EI/bin/EIEventRerun.R 
+R  --slave "--args app=ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/$1 purge=TRUE" </home/ralmond/PhysicsPlayground/EIEventRerun.R 

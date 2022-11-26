@@ -1,5 +1,6 @@
 library(utils)
 library(EIEvent)
+library(jsonlite)
 
 source("/usr/local/share/Proc4/EIini.R")
 

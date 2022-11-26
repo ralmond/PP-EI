@@ -1,0 +1,9 @@
+echo $$ > ./RerunAll_v2.pid
+#path = /usr/local/share/Proc4/PP-EI/bin
+
+nohup /usr/local/share/Proc4/PP-EI/bin/EIEventRerun SummerCamp >& /usr/local/share/Proc4/logs/SummerCamp_v2.Rout
+
+
+#nohup ./EIEventRerun linear >/usr/local/share/Proc4/logs/EIR_linear.Rout &
+#nohup ./EIEventRerun adaptive >logs/EIR_adaptive.Rout &
+#nohup ./EIEventRerun userControl >logs/EIR_userControl.Rout &
