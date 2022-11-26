@@ -1,6 +1,7 @@
 library(utils)
 library(EIEvent)
 library(jsonlite)
+library(futile.logger)
 
 
 source("/usr/local/share/Proc4/EIini.R")
