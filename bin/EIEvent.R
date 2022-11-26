@@ -1,5 +1,6 @@
 library(R.utils)
 library(EIEvent)
+library(jsonlite)
 
 if (interactive()) {
   app <- "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl"

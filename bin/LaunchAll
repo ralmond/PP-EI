@@ -1,12 +1,12 @@
 #!/bin/bash
 P4=/usr/local/share/Proc4
-nohup $P4/bin/NSFtoP4Loop "2019-05-20T19:00:00.000Z" >& $P4/logs/NSFtoP4.log &
+nohup $P4/bin/NSFtoP4Loop "2022-11-26T19:00:00.000Z" >& $P4/logs/NSFtoP4.log &
 
-nohup $P4/bin/EIEvent "app=ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl level=INFO clean=TRUE" >& $P4/logs/EI_userControl4.Rout &
-nohup $P4/bin/EIEvent "app=ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/adaptive level=INFO clean=TRUE" >& $P4/logs/EI_adaptive4.Rout &
-nohup $P4/bin/EIEvent "app=ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/linear level=INFO clean=TRUE" >& $P4/logs/EI_linear4.Rout &
+$P4/PP-EI/bin/EIEvent "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl" $P4/logs/EI_userControl4
+$P4/PP-EI/bin/EIEvent "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/adaptive" $P4/logs/EI_adaptive4 
+$P4/PP-EI/bin/EIEvent "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/linear" >& $P4/logs/EI_linear4
 
-nohup $P4/bin/EABN "app=ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl level=INFO clean=TRUE" >& $P4/logs/EA_userControl4.Rout &
-nohup $P4/bin/EABN "app=ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/adaptive level=INFO clean=TRUE" >& $P4/logs/EA_adaptive4.Rout &
-nohup $P4/bin/EABN "app=ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/linear level=INFO clean=TRUE" >& $P4/logs/EA_linear4.Rout &
+$P4/PP-EA/bin/EABN "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/userControl" $P4/logs/EA_userControl4
+$P4/bin/EABN "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/adaptive" $P4/logs/EA_adaptive4
+$P4/bin/EABN "ecd://epls.coe.fsu.edu/PhysicsPlayground/Sp2019/linear" $P4/logs/EA_linear4
 

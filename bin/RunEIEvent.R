@@ -1,5 +1,6 @@
 library(R.utils)
 library(EIEvent)
+library(jsonlite)
 
 appStem <- cmdArg("app",NULL)
 if (FALSE) {

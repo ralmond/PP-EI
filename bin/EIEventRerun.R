@@ -1,5 +1,6 @@
 library(R.utils)
 library(EIEvent)
+library(jsonlite)
 
 if (interactive()) {
   ## Edit these for the local application

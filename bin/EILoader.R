@@ -2,6 +2,7 @@
 ## These are R functions for loading the contexts and rules into the Eng
 
 library(EIEvent)
+library(jsonlite)
 flog.threshold(INFO)
 cl <- new("CaptureListener")
 
