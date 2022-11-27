@@ -28,5 +28,5 @@ if (interactive()) {
 }
 flog.threshold(EI.config$loglevel)
 
-doRunrun(app,EI.config,EIeng.local,config.dir,outdir)
+doRunrun(app,EI.config,EIeng.local,config.dir,outdir,logfile)
 
