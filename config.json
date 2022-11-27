@@ -109,5 +109,5 @@
     },
     "extensions":"",
     "limitComment":"Use ALL to rerun all, Inf for server mode.",
-    "limitNN":"ALL"
+    "limitNN":"Inf"
   }
