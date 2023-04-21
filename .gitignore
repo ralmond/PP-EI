@@ -45,3 +45,4 @@ vignettes/*.pdf
 
 #RunEABN.R#
 .#RunEABN.R
+.DS_Store

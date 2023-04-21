@@ -1,9 +1,9 @@
 {
     "ConfigName":"PP-IES",
     "Branch":"PP-IES",
-    "Version":"0.5.1",
-    "Date":"2022-11-26",
-    "appStem":["demo","SummerCamp","PPIES"],
+    "Version":"0.5.2",
+    "Date":"2023-05-21",
+    "appStem":["PPIES"],
     "logLevel":"INFO",
     "logname":"EI_<app>0.log",
     "statfile":"stats-P4Test.csv",
@@ -99,7 +99,7 @@
         "doRemove":false,
         "remove":{},
 	"importFile":"",
-        "doPurge":false,
+        "doPurge":true,
         "purge":[{"verb":"nudged","object":"game object"},
                  {"verb":"initialized","object":"game object"},
                  {"verb":"snapshot","object":"game object"}],
@@ -109,5 +109,5 @@
     },
     "extensions":"",
     "limitComment":"Use ALL to rerun all, Inf for server mode.",
-    "limitNN":"Inf"
+    "limitNN":"ALL"
   }
