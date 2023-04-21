@@ -5,7 +5,7 @@
     "Date":"2023-05-21",
     "appStem":["PPIES"],
     "logLevel":"INFO",
-    "logname":"EI_<app>0.log",
+    "logname":"EI_<app>1.log",
     "statfile":"stats-P4Test.csv",
     "ruledir":"Rules",
     "contextDescriptions":["ContextSketching","ContextManipulation"],
