@@ -3,7 +3,7 @@
     "Branch":"PP-IES",
     "Version":"0.5.2",
     "Date":"2023-05-21",
-    "appStem":["PPIES"],
+    "appStem":["PPIES","SummerCamp"],
     "logLevel":"INFO",
     "logname":"EI_<app>1.log",
     "statfile":"stats-P4Test.csv",
