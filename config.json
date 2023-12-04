@@ -3,16 +3,16 @@
     "Branch":"PP-main",
     "Version":"0.5.1",
     "Date":"2020-06-09",
-    "appStem":["P4test"],
+    "appStem":["adaptive","linear","userControl"],
     "logLevel":"INFO",
     "logname":"EI_<app>0.log",
     "ruledir":"Rules",
     "contextDescriptions":["ContextSketching","ContextManipulation"],
+    "ruledir":"Rules",
     "rules":["AllLevelRules","SketchingRules","ManipulationRules",
 	     "TrophyHallRules","MoneyRules",
              "LS-Events","MultipleBlowerRules"],
     "rulesWithTests":[],
-    "comment":{"rulesWithTests":["LS-HelpB-rules1"]},
     "defaultRecordData":{"bankBalance":0, "trophyHall":[]},
     "sender":"EA_<app>",
     "lscolname":"Messages",
@@ -48,7 +48,7 @@
 	    }
 	},
 	{
-	    "name":"ppLS<app>",
+	    "name":"ppLS.<app>",
 	    "type":"TableListener",
 	    "messages":["Coins Earned","Coins Spent", "LS Watched"],
 	    "fields":{
@@ -84,6 +84,8 @@
 	    "messages":["Money Earned", "Money Spent"]
 	}
     ],
+    "SRResetComment":"Set to false, so we don't accidentally overwrite trophy info.", 
+    "SRReset":true,
     "listenerReset":"ALL",
     "EIEngine":{
         "waittime":0.25
@@ -103,7 +105,7 @@
     },
     "mode":"rerun",
     "SRreset":true,
-    "extensions":"extensions.R",
+    "extensions":"",
     "limitComment":"Use ALL to rerun all, Inf for server mode.",
     "limitNN":"ALL"
   }
