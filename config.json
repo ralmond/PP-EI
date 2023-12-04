@@ -6,7 +6,6 @@
     "appStem":["P4test"],
     "logLevel":"INFO",
     "logname":"EI_<app>0.log",
-    "statfile":"stats-P4Test.csv",
     "ruledir":"Rules",
     "contextDescriptions":["ContextSketching","ContextManipulation"],
     "rules":["AllLevelRules","SketchingRules","ManipulationRules",
@@ -16,8 +15,6 @@
     "comment":{"rulesWithTests":["LS-HelpB-rules1"]},
     "defaultRecordData":{"bankBalance":0, "trophyHall":[]},
     "sender":"EA_<app>",
-    "dbname":"EARecords",
-    "admindbname":"Proc4",
     "lscolname":"Messages",
     "listeners":[
 	{
@@ -88,7 +85,6 @@
 	}
     ],
     "listenerReset":"ALL",
-    "clearStudentRecords":true,
     "EIEngine":{
         "waittime":0.25
     },
@@ -106,6 +102,7 @@
         "reprocess":{}
     },
     "mode":"rerun",
+    "SRreset":true,
     "extensions":"extensions.R",
     "limitComment":"Use ALL to rerun all, Inf for server mode.",
     "limitNN":"ALL"
